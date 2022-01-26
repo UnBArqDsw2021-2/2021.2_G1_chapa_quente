@@ -1,10 +1,10 @@
 :root {
-  --theme-color: #f15a24ff;
-  --secondary-color: #f7931eff;
+  --theme-color: #D1482A;
+  --secondary-color: #701804;
 
   --cover-button-color: white;
   --cover-button-border: 1px solid white;
-  --cover-button-primary-color: #f15a24ff;
+  --cover-button-primary-color: #D1482A;
   --cover-button-primary-background: white;
 
   --sidebar-nav-pagelink-background-image--collapse: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='10' height='11.2' viewBox='0 0 7 11.2'><path d='M1.5 1.5l4 4.1 -4 4.1' stroke-width='1.5' stroke='rgb%28241, 90, 36%29' fill='none' stroke-linecap='square' stroke-linejoin='miter' vector-effect='non-scaling-stroke'/></svg>");
