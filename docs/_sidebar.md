@@ -8,7 +8,7 @@
     - [Esboço de Baseline de Requisitos](pages/fase_01/baseline_requisitos.md)
   - **Processos/Metodologias/Abordagens**
     - [Escolhas Metodológicas](pages/fase_01/escolhas_metodologicas.md)
-    - [ Modelagem BPMN](pages/fase_01/modelagem_bpmn.md)
-- [**Atas**](pages/ataReuniao/indiceReuniao.md)
+    - [Modelagem BPMN](pages/fase_01/modelagem_bpmn.md)
+- [**Atas**](_indiceReuniao.md)
    
     
