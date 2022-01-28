@@ -1,43 +1,42 @@
-# Reunião do time - dd/mm/yyyy
+# Nome do Artefato
 
-## Informações
+## Versionamento
 
-Data: dd/mm/yyyy
+| Versão |    Data    |     Modificação      |   Autor    | Revisor |
+| ------ | :--------: | :------------------: | :--------: | :-----: |
+| 1.0    | 28/01/2022 | Criação do Documento | Pedro Lima |         |
 
-Início: hh:mm
+<!-- NÃO ESQUECER DE ADICIONAR AO "/_sidebar.md" -->
 
-Fim: hh:mm
+### ATA DE REUNIÃO - SPRINT 0
+24/01/2022
 
-## Participantes
+**Redator:** Liverson Paulo.
 
-| Nome                                | Presença |
-| ----------------------------------- | -------- |
-| Dafne Moretti Moreira               | ✔️        |
-| Giulia Lobo Barros                  | ✔️        |
-| Guilherme Daniel Fernandes da Silva | ✔️        |
-| João Pedro Alves da Silva Chaves    | ✔️        |
-| Liverson Paulo Furtado Severo       | ✔️        |
-| Lucas da Cunha Andrade              | ✔️        |
-| Murilo Gomes de Souza               | ✔️        |
-| Pedro Henrique de Lima Malaquias    | ✔️        |
-| Philipe Rosa Serafim                | ✔️        |
-| Rodrigo Tiago Costa Lima            | ✔️        |
+#### 1.Porcentagem de membros presentes: 90%
+
+#### 2.Considerações iniciais da reunião
+
+A reunião iniciou às 08:10hs via Discord.
+
+#### 3.Pautas da reunião
+
+**1ª Pauta -  Discussão do tema**
+
+Foi apresentado o tema do grupo e inicializadas discussões iniciais sobre.
 
 
-## Pauta
+**2ª Pauta -  Pequena discussão sobre contribuição**
 
-* Tópico
-  * Exemplo para ser atualizado
-  * Exemplo para ser atualizado
-  * Exemplo para ser atualizado
-  
-  
+Conversa para ter a base para o início da sprint, foi decidido que o histórico de versões ficará no início, decididas as técnicas de levantamento de requisitos: 
+- Brainstorming - o grupo inteiro,
+- Storytelling - Murilo, Liverson e João Pedro, - Mapa Mental - Giulia e Dafne,
+- Personas - Phelipe e Lucas,
+- Casos de uso - Pedro, Guilherme e Rodrigo.
+- Todos do grupo deverão fazer Rich Pictures.
 
-## Registros
 
-* Nessa reunião foi feito iniciado o desenvolvimento da regra de negocio. (Exemplo)
+#### 4.Considerações finais
 
-## Pendências
+A reunião se encerrou às 09:10hs.
 
-* Se houver necessidade
-  

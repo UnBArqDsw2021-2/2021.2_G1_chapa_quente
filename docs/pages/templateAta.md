@@ -2,9 +2,9 @@
 
 ## Versionamento
 
-| Versão | Data       | Modificação          | Autor                        |Revisor|
-| ------ | :--------: | :------------------: | :--------------------------: | :---: |
-| 1.0    | 25/01/2022 | Criação do Documento |  |       |
+| Versão |    Data    |     Modificação      | Autor | Revisor |
+| ------ | :--------: | :------------------: | :---: | :-----: |
+| 1.0    | 25/01/2022 | Criação do Documento |       |         |
 
 <!-- NAO ESQUECER DE ADICIONAR A REUNIÃO EM QUESTÃO AO DOCUMENTO "/_indiceReuniao.md" -->
 
