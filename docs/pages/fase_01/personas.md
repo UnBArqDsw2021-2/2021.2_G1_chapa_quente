@@ -2,10 +2,10 @@
 
 ## Versionamento
 
-| Versão | Data       | Modificação          | Autor            | Revisor |
-| ------ | ---------- | -------------------- | ---------------- | ------- |
-| 1.0    | 27/01/2022 | Criação do Documento | Philipe Seraphim |         |
-| 1.1    | 27/01/2022 | Inclusão de Personas | Lucas Andrade    |         |
+| Versão | Data       | Modificação          | Autor            | Revisor      |
+| ------ | ---------- | -------------------- | ---------------- | ------------ |
+| 1.0    | 27/01/2022 | Criação do Documento | Philipe Seraphim | Murilo Gomes |
+| 1.1    | 27/01/2022 | Inclusão de Personas | Lucas Andrade    | Murilo Gomes |
 
 ## Introdução
 
