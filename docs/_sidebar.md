@@ -19,6 +19,7 @@
   - **Processos/Metodologias/Abordagens**
     - [Escolhas Metodológicas](pages/fase_01/escolhas_metodologicas.md)
     - [Modelagem BPMN](pages/fase_01/modelagem_bpmn.md)
+    - [Metodologias](pages/fase_01/metodologias.md)
 - **Iniciativas extras**
   - [Atas](_indiceReuniao.md)
   - [Política de repositório](pages/iniciativasExtras/politica_repositorio.md)
