@@ -3,6 +3,7 @@
 - **Base**
   - **Projeto Não Orientado a Abordagens Específicas**
     - [Técnicas de Elicitação](pages/fase_01/tecnicas_elicitacao.md)
+      - [Personas](pages/fase_01/personas.md) 
     - [Artefato Independente de Metodologia](pages/fase_01/artefato_Independente_metodologia.md)
     - [Design Sprint](pages/fase_01/design_sprint.md)
     - [Esboço de Baseline de Requisitos](pages/fase_01/baseline_requisitos.md)
