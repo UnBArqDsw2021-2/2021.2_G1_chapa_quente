@@ -47,7 +47,7 @@ Após a primeira reunião de definição de tema, foi acordado entre todos os me
 
 ![](./../../assets/images/richPicture/rpMuriloGomes.jpg)
 
-### Phelipe
+### Philipe
 
 ![](./../../assets/images/richPicture/rpPhilipeSerafim.jpg)
 
