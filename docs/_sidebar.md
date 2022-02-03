@@ -8,6 +8,7 @@
     - [Artefato Independente de Metodologia](pages/fase_01/artefato_Independente_metodologia.md)
     - [Design Sprint](pages/fase_01/design_sprint.md)
       - [Protótipos](pages/fase_01/prototipoBaixaAltaFidelidade.md)
+      - [Testes de Usabilidade](pages/fase_01/testes_usabilidade.md)
     - [Artefato Independente de Metodologia](pages/fase_01/artefato_Independente_metodologia.md)
       - [Pré-Rastreabilidade](pages/fase_01/pre_rastreabilidade.md)
         - [5W2H](pages/fase_01/5w2h.md)
