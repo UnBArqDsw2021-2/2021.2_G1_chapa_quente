@@ -2,6 +2,10 @@
 
 - **Base**
   - **Projeto Não Orientado a Abordagens Específicas**
+    - [Técnicas de Elicitação](pages/fase_01/tecnicas_elicitacao.md)
+      - [Personas](pages/fase_01/personas.md) 
+      - [Mapa mental](pages/fase_01/mapa_mental.md)
+    - [Artefato Independente de Metodologia](pages/fase_01/artefato_Independente_metodologia.md)
     - [Design Sprint](pages/fase_01/design_sprint.md)
       - [Protótipos](pages/fase_01/prototipoBaixaAltaFidelidade.md)
     - [Artefato Independente de Metodologia](pages/fase_01/artefato_Independente_metodologia.md)
