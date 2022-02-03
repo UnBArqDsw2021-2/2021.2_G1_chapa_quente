@@ -2,6 +2,8 @@
 
 - **Base**
   - **Projeto Não Orientado a Abordagens Específicas**
+    - [Pré-Rastreabilidade](pages/fase_01/pre_rastreabilidade.md)
+      - [5W2H](pages/fase_01/5w2h.md)
     - [Técnicas de Elicitação](pages/fase_01/tecnicas_elicitacao.md)
       - [Personas](pages/fase_01/personas.md) 
     - [Artefato Independente de Metodologia](pages/fase_01/artefato_Independente_metodologia.md)
