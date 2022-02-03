@@ -1,7 +1,7 @@
-# Escolhas Metodológicas 
+# Escolhas Metodológicas
 
 ### Versionamento
 
-| Versão | Data       | Modificação          | Autor                        |
-| ------ | ---------- | -------------------- | ---------------------------- |
+| Versão | Data       | Modificação          | Autor                        | Revisor |
+| ------ | ---------- | -------------------- | ---------------------------- | ------- |
 | 1.0    | 25/01/2022 | Criação do Documento | Philipe Serafim e Pedro Lima |
