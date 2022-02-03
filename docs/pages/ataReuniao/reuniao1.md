@@ -1,43 +1,38 @@
-# Reunião do time - dd/mm/yyyy
+# ATA DE REUNIÃO - SPRINT 0 (24/01/2022)
 
-## Informações
+## Versionamento
 
-Data: dd/mm/yyyy
+| Versão |    Data    |     Modificação      |      Autor      |   Revisor   |
+| ------ | :--------: | :------------------: | :-------------: | :---------: |
+| 1.0    | 28/01/2022 | Criação do Documento |   Pedro Lima    |             |
+| 1.1    | 02/02/2022 |  Refatoração da ata  | Philipe Serafim | Giulia Lobo |
 
-Início: hh:mm
+<!-- NÃO ESQUECER DE ADICIONAR AO "/_sidebar.md" -->
 
-Fim: hh:mm
+**Redator:** Liverson Paulo.
 
-## Participantes
+## 1.Porcentagem de membros presentes: 90%
 
-| Nome                                | Presença |
-| ----------------------------------- | -------- |
-| Dafne Moretti Moreira               | ✔️        |
-| Giulia Lobo Barros                  | ✔️        |
-| Guilherme Daniel Fernandes da Silva | ✔️        |
-| João Pedro Alves da Silva Chaves    | ✔️        |
-| Liverson Paulo Furtado Severo       | ✔️        |
-| Lucas da Cunha Andrade              | ✔️        |
-| Murilo Gomes de Souza               | ✔️        |
-| Pedro Henrique de Lima Malaquias    | ✔️        |
-| Philipe Rosa Serafim                | ✔️        |
-| Rodrigo Tiago Costa Lima            | ✔️        |
+## 2.Considerações iniciais da reunião
 
+A reunião iniciou às 08:10hs via Discord.
 
-## Pauta
+## 3.Pautas da reunião
 
-* Tópico
-  * Exemplo para ser atualizado
-  * Exemplo para ser atualizado
-  * Exemplo para ser atualizado
-  
-  
+### Discussão do tema
 
-## Registros
+Foi apresentado o tema do grupo e inicializadas discussões iniciais sobre.
 
-* Nessa reunião foi feito iniciado o desenvolvimento da regra de negocio. (Exemplo)
+### Pequena discussão sobre contribuição
 
-## Pendências
+Conversa para ter a base para o início da sprint, foi decidido que o histórico de versões ficará no início, decididas as técnicas de levantamento de requisitos:
 
-* Se houver necessidade
-  
+- Brainstorming - o grupo inteiro,
+- Storytelling - Murilo, Liverson e João Pedro, - Mapa Mental - Giulia e Dafne,
+- Personas - Phelipe e Lucas,
+- Casos de uso - Pedro, Guilherme e Rodrigo.
+- Todos do grupo deverão fazer Rich Pictures.
+
+## 4.Considerações finais
+
+A reunião se encerrou às 09:10hs.
