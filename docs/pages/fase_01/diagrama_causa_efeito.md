@@ -4,7 +4,7 @@
 
 | Versão | Data       | Modificação          | Autores                                       | Revisor      |
 | ------ | ---------- | -------------------- | --------------------------------------------- | ------------ |
-| 1.0    | 27/01/2022 | Criação do Documento | Guilherme Fernandes, Rodrigo Lima e Pedro Lima|              |
+| 1.0    | 27/01/2022 | Criação do Documento | Guilherme Fernandes, Rodrigo Lima e Pedro Lima| Giulia Lobo  |
 
 # Introdução
 
