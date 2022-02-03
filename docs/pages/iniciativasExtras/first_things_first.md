@@ -5,11 +5,14 @@
 | Versão | Data       | Modificação          | Autor                        |Revisor|
 | ------ | :--------: | :------------------: | :--------------------------: | :---: |
 | 1.0    | 02/02/2022 | Criação do Documento |  João Pedro Alves da Silva Chaves  | Dafne Moretti Moreira |
+| 1.1   | 03/02/2022    | Adição de informações | João Pedro Alves da Silva Chaves | Dafne Moretti Moreira |
 
 
 ## Introdução
 
 O First Things First é um método de priorização de requisitos que se baseia em quais requisitos trarão mais valor para o produto ao levar em conta benefícios, custos e riscos das operações. Segundo WIEGERS (1999, p. 4), os requisitos que já tem prioridade máxima e definida não entram nesse método.
+
+Os requisitos utilizados nessa técnica são requisitos funcionais obtidos por meio das técnicas de elicitação.
 
 ## Metodologia
 <div align="justify"> 
