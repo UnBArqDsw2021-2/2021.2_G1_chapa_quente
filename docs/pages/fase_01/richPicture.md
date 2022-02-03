@@ -3,7 +3,7 @@
 ## Versionamento
 | Versão | Data       | Modificação          | Autor                        | Revisor |
 | ------ | ---------- | -------------------- | ---------------------------- | ------- |
-| 1.0    | 03/02/2022 | Criação do Documento | Philipe Serafim e Pedro Lima | Giulia Lobo |
+| 1.0    | 03/02/2022 | Criação do Documento | Liverson Paulo | Giulia Lobo |
 
 ## Introdução
 
