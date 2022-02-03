@@ -19,7 +19,7 @@ O protótipo de alta-fidelidade possui o objetivo de ilustrar uma representaçã
 
 ### Protótipo de Baixa-Fidelidade
 
-Para a confecção do protótipo de baixa-fidelidade foi utilizado o inVision como ferramenta de prototipagem para o grupo durante a Design Sprint. O grupo optou pelo inVision pelo fato da ferramenta simular e fornecer ferramentas que simulam situações de papel e caneta. Isso nos levou a chegar bem proximo da vivencia de como séria fazer esse processo de forma presencial com todos os integrantes.
+Para a confecção do protótipo de baixa-fidelidade foi utilizado o inVision como ferramenta de prototipagem para o grupo durante a Design Sprint. O grupo optou pelo inVision pelo fato da ferramenta simular e fornecer ferramentas que simulam situações de papel e caneta. Isso nos levou a chegar bem próximo da vivencia de como seria fazer esse processo de forma presencial com todos os integrantes.
 
 <iframe width="100%" height="600px" src="https://chapa-quente.invisionapp.com/console/share/2F8QHEYXJPB"></iframe>
 <figcaption>Protótipo Baixa-Fidelidade. Autores: Liverson Paulo, Pedro Lima e Philipe Serafim</figcaption>
@@ -33,7 +33,7 @@ Para a confecção do protótipo de alta-fidelidade foi utilizado a ferramenta F
 
 ## Conclusão
 
-A partir do desenvolvimento dos protótipos e da finalização do processo foi possível chegar a um prospecção de um possível produto que pode vir a ter alteração ao decorrer do processo de desenvolvimento e vivencia. Ainda existe a necessidade de verificação e validação do artefato para que questões de usabilidade sejam de fato exploradas para que possa vir a ter melhorias na usabilidade e experiencia do usuário final do produto. A evolução do produto se faz necessária devido ao produto ter um público alvo amplo que ainda precisa ser explorado e compreendido.
+A partir do desenvolvimento dos protótipos e da finalização do processo foi possível chegar a uma prospecção de um possível produto que pode vir a ter alteração ao decorrer do processo de desenvolvimento e vivência. Ainda existe a necessidade de verificação e validação do artefato para que questões de usabilidade sejam de fato exploradas para que possa vir a ter melhorias na usabilidade e experiencia do usuário final do produto. A evolução do produto se faz necessária devido ao produto ter um público alvo amplo que ainda precisa ser explorado e compreendido.
 
 ## Bibliografia
 
