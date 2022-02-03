@@ -7,6 +7,7 @@
     - [Artefato Independente de Metodologia](pages/fase_01/artefato_Independente_metodologia.md)
       - [Técnicas de Elicitação](pages/fase_01/tecnicas_elicitacao.md)
         - [Personas](pages/fase_01/personas.md)
+        - [Storytelling](pages/fase_01/storytelling.md)
       - [Esboço de Baseline de Requisitos](pages/fase_01/baseline_requisitos.md)
         - [Priorização Moscow](pages/fase_01/priorizacao_moscow.md)
   - **Processos/Metodologias/Abordagens**

@@ -4,8 +4,8 @@
 
 | Versão | Data       | Modificação          | Autor                        |Revisor|
 | ------ | :--------: | :------------------: | :--------------------------: | :---: |
-| 1.0    | 24/01/2022 | Criação do Documento | Liverson Paulo, Murilo Gomes e João Pedro  | Lucas Andrade |
-| 1.1    | 25/01/2022 | Adição de informações | Liverson Paulo, Murilo Gomes e João Pedro  | Lucas Andrade |
+| 1.0    | 24/01/2022 | Criação do Documento | Liverson Paulo, Murilo Gomes e João Pedro  | Guilherme Daniel |
+| 1.1    | 25/01/2022 | Adição de informações | Liverson Paulo, Murilo Gomes e João Pedro  | Guilherme Daniel |
 
 
 ## Introdução
@@ -17,9 +17,9 @@ Storytelling, traduzido do inglês para narrativa, é uma técnica de criação 
 ### Storytelling Usuário
 Jéssica é uma aposentada de 68 anos que passa a maior parte do seu tempo em casa, e no momento da pandemia, passou a evitar ao máximo sair de casa. Um dia em sua casa, Jéssica estava sentindo fome e percebeu que não havia ingredientes suficientes em sua despensa.
 
-Como Jéssica não se sentia confortável para fazer compras ou para ir a um restaurante, ela decidiu procurar na internet alternativas para entrega de comida, e nesta pesquisa acabou achando o site da lanchonete Chapa Quente que se encontrava aberta.
+Como Jéssica não se sentia confortável para fazer compras ou para ir a um restaurante, ela decidiu procurar na internet alternativas para entrega de comida e nesta pesquisa acabou achando o site da lanchonete Chapa Quente que se encontrava aberta.
 
-Ao acessar o site, percebeu que a lanchonete continha várias comidas diferentes e que o site era bem organizado, de forma que a grande quantidade de opções não dificultava a navegação, Jéssica decidiu então pedir um macarrão e pediu para pagar direto para o entregador, pouco tempo depois o entregador chegou em sua casa com o pedido. Jéssica se impressionou com a qualidade do site e do serviço prestado pela lanchonete.
+Ao acessar o site, percebeu que a lanchonete continha várias comidas diferentes e que o site era bem organizado, de forma que a grande quantidade de opções não dificultava a navegação. Jéssica decidiu então pedir um macarrão e pediu para pagar direto para o entregador, pouco tempo depois o entregador chegou em sua casa com o pedido. Jéssica se impressionou com a qualidade do site e do serviço prestado pela lanchonete.
 
 ### Storytelling Cozinheiro
 
@@ -45,7 +45,7 @@ Durante todo o trajeto da primeira entrega do dia, Cleiton compartilhou sua loca
 
 
 
-## 4. Resultados
+## Resultados
 
 | ID   |                          Requisito                           |
 | ---- | :----------------------------------------------------------: |
