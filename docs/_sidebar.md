@@ -25,5 +25,4 @@
 - **Iniciativas extras**
   - [Atas](_indiceReuniao.md)
   - [Política de repositório](pages/iniciativasExtras/politica_repositorio.md)
-   
-    
+  - [First Things First](pages/iniciativasExtras/first_things_first.md)
