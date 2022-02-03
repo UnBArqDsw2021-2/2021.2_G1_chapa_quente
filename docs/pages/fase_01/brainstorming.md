@@ -4,8 +4,9 @@
 
 | Versão | Data       | Modificação          | Autor                        |Revisor|
 | ------ | :--------: | :------------------: | :--------------------------: | :---: |
-| 1.0    | 02/02/2022 | Criação do Documento | Lucas Andrade |  |
-| 1.1    | 03/02/2022 | Ajustes no texto e mudança de imagem | Lucas Andrade | | 
+| 1.0    | 02/02/2022 | Criação do Documento | Lucas Andrade | João Pedro Alves da Silva Chaves |
+| 1.1    | 03/02/2022 | Ajustes no texto e mudança de imagem | Lucas Andrade | João Pedro Alves da Silva Chaves | 
+| 1.2    | 03/02/2022 | Adicionado revisor | Lucas Andrade | João Pedro Alves da Silva Chaves |
 
 ## Introdução
 
