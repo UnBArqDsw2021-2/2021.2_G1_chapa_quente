@@ -17,3 +17,6 @@
     - [Modelagem BPMN](pages/fase_01/modelagem_bpmn.md)
 - **Iniciativas extras**
   - [Atas](_indiceReuniao.md)
+  - [Política de repositório](pages/iniciativasExtras/politica_repositorio.md)
+   
+    
