@@ -2,15 +2,16 @@
 
 ## Versionamento
 
-| Versão | Data       | Modificação          | Autores                                       | Revisor      |
-| ------ | ---------- | -------------------- | --------------------------------------------- | ------------ |
-| 1.0    | 27/01/2022 | Criação do Documento | Guilherme Fernandes, Rodrigo Lima e Pedro Lima| Giulia Lobo  |
+| Versão | Data       | Modificação             | Autores                                       | Revisor      |
+| ------ | ---------- | ----------------------- | --------------------------------------------- | ------------ |
+| 1.0    | 02/02/2022 | Criação do Documento    | Guilherme Fernandes, Rodrigo Lima e Pedro Lima| Giulia Lobo  |
+| 1.1    | 03/02/2022 | Alteração na formatação | Guilherme Fernandes, Rodrigo Lima e Pedro Lima| Giulia Lobo  |
 
-# Introdução
+## Introdução
 
 O diagrama de causa-efeito (ou diagrama espinha de peixe) tem como objetivo organizar o raciocinio em torno da discussão de um problema, sendo útil para a descoberta dos fatores resultantes numa situação indesejada. Ele apresenta uma estrutura parecida com a espinha de um peixe, auxiliando a equipe a entrar as causas do problema. No escopo do nosso projeto, utilizaremos esse método para identificar as possíveis causas do problema-chave do nosso projeto. Dessa forma, será possível avaliar as causas dos problemas para que seja possível implementar soluções levando-as em consideração.
 
-# Metodologia
+## Metodologia
 
 O método utilizado para a construção será o método 6M, visto que é um método popularmente utilizado em conjunto com o diagrama. O 6M consiste na divisão das causas do problema em: mão-de-obra, máquinas, materiais, método, meio ambiente e medição. Dentro do escopo do projeto, optamos por utilizar 4 dos 6M, sendo eles: material, mão-de-obra, máquina e método.
 - Material: engloba as causas que envolvem materiais utilizados no processo que origina o problema.
@@ -18,7 +19,7 @@ O método utilizado para a construção será o método 6M, visto que é um mét
 - Máquina: envolve quaisquer causas originadas por recursos tecnológicos. 
 - Método: envolve quaisquer causas originadas por processos, procedimentos e métodos.
 
-# Resultado
+## Resultado
 
 ![Diagrama Causa-Efeito](../../assets/images/diagrama-causa-efeito.jpg)
 
@@ -32,7 +33,7 @@ A partir da criaão do diagrama, foi possível chegar às seguintes conclusões 
 
 - Método: a falta de um atendimento de qualidade, de cupons de desconto e de um sistema corroboram para o problema análisado. Assim, a empresa deve investir em treinamento e na criação de um sistema para que os clientes possam comprar e receber o produto em casa, dando mais segurança a eles no periodo de pandemia. Além disso, é necessário que o sistema a ser criado disponha de uma política de descontos para os clientes, atraindo-os para que se tornem compradores fiéis.
 
-# Referências
+## Referências
 <p>Diagrama de Causa-Efeito. Disponível em: https://ferramentasdaqualidade.org/diagrama-de-ishikawa/. Acessado em 02 de fevereiro de 2022.</p>
 
 <p>Diagrama de Ishikawa, Causa e Efeito ou Espinha de Peixe. Disponível em: https://www.citisystems.com.br/diagrama-de-ishikawa/. Acessado em 01 de fevereiro de 2022.</p>
