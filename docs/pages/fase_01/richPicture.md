@@ -49,7 +49,11 @@ Após a primeira reunião de definição de tema, foi acordado entre todos os me
 
 ### Phelipe
 
-![](./../../assets/images/richPicture/rpPhelipeSerafim.jpg)
+![](./../../assets/images/richPicture/rpPhilipeSerafim.jpg)
+
+### Pedro
+
+![](./../../assets/images/richPicture/rpPedro.png)
 
 ### Rodrigo
 
