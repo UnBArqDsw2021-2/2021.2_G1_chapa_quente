@@ -4,7 +4,7 @@
 
 | Versão | Data       | Modificação          | Autor                        |Revisor|
 | ------ | :--------: | :------------------: | :--------------------------: | :---: |
-| 1.0    | 02/02/2022 | Criação do Documento |  Dafne Moretti Moreira | João Pedro Alves da Silva Chaves |
+| 1.0    | 02/02/2022 | Criação do Documento |  Dafne Moretti Moreira | João Pedro Alves da Silva Chaves e Philipe Serafim |
 
 ## Introdução
 
@@ -16,12 +16,12 @@ A metodologia utilizada pela equipe para definição dos padrões foi a elabora�
 
 ## 1. Política de Branches
 
-### 1.1 Repositórios de código
+### 1.1 Repositórios de desenvolvimento
 
-Para os repositórios de código, há a branch **master** (branch principal), que estará em produção e possui a versão estável do software.
+Para os repositórios de desenvolvimento, há a branch **main** (branch principal), que estará em produção e possui a versão estável do software.
 
 ```
-master
+main
 ```
 
 
@@ -31,14 +31,16 @@ Além desta, existe também  **develop**, que constará o software com suas atua
 develop
 ```
 
+Para o desenvolvimento de novas funcionalidades e resolução de bugs, tanto a branch main quanto a branch develop devem receber Pull Requests (PRs). 
+
 ### Novas branches
 
-**Branches para novas funcionalidades**
+**Branches feature**
 
 Para a criação de branches referentes a novas funcionalidades no repositório de desenvolvimento, o formato a ser utilizado é:
 
 ```
-#numero_da_issue-feature-nome_da_branch
+feature/#numero_da_issue-/nome_da_branch
 ```
 
 **Branches bugfix**
@@ -46,37 +48,23 @@ Para a criação de branches referentes a novas funcionalidades no repositório 
 As branches bugfix devem ser criadas a partir da branch main e sua nomenclatura segue a seguinte estrutura:
 
 ```
-bugfix/nome_da_branch
+bugfix/#numero_da_issue-nome_da_branch
 ```
-
-Para o desenvolvimento de novas funcionalidades e resolução de bugs, tanto a branch master quanto a branch develop devem receber Pull Requests (PRs).  
-
-**Branches feature**
-
-As branches feature devem ser criadas a partir da branch main e sua nomenclatura segue a seguinte estrutura:
-
-```
-feature/nome_da-branch
-```
-
-Para o desenvolvimento de novas funcionalidades e resolução de bugs, tanto a branch master quanto a branch develop devem receber Pull Requests (PRs). 
 
 **Branches Doc**
 
 As branches doc devem ser criadas a partir da branch main e sua nomenclatura segue a seguinte estrutura:
 
 ```
-doc/nome_da_branch
+doc/#numero_da_issue-nome_da_branch
 ```
-
-Para o desenvolvimento de novas funcionalidades e resolução de bugs, tanto a branch master quanto a branch develop devem receber Pull Requests (PRs). 
 
 ### 1.2 Repositórios de documentação
 
-Para os repositórios de documentação, haverá a branch master e é a partir dela que as novas branches devem ser criadas.
+Para os repositórios de documentação, haverá a branch main e é a partir dela que as novas branches devem ser criadas.
 
 ```
-master
+main
 ```
 
 - Novas branches
@@ -98,7 +86,7 @@ Durante o desenvolvimento, os commits devem ser
 Além disso, a linguagem a ser utilizada nos commits é português brasileiro e o tempo verbal deve ser o particípio. 
 
 ```
-git commit -m "[7] Adicionada a função X
+git commit -m "Adicionada a função X
 
 Co-authored-by: autor1 <xxxx@email.com>"
 ```
