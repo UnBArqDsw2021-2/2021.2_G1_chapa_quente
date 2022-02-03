@@ -8,8 +8,8 @@
 
 ## Introdução
 
-O diagrama de casos de uso é elaborado em UML e tem como objetivo elucidar sobre como se dá a interação entre os atores e o sistema. Dessa forma, eles são utilizados para evidenciar a interação entre esses atores e o sistema de forma sucinta. Sendo assim, ele é ideal nos seguintes casos:
-- Representar a interação usuários - sistema
+O diagrama de casos de uso é elaborado em UML e tem como objetivo elucidar sobre como se dá a interação entre os atores e o sistema. Dessa forma, o diagrama de casos de uso é utilizado para evidenciar a interação entre esses atores e o sistema de forma sucinta. Sendo assim, ele é ideal nos seguintes casos:
+- Representar a interação usuários-sistema
 - Identificar funções e como cada papel interage com elas
 - Identificar fatores internos e externos
 
