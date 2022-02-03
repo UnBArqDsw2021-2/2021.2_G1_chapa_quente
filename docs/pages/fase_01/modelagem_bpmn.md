@@ -6,6 +6,7 @@
 | ------ | :--------: | :------------------: | :--------------------------: | :---: |
 | 1.0    | 25/01/2022 | Criação do Documento | Philipe Serafim e Pedro Lima | Murilo Gomes |
 | 1.1    | 27/01/2022 | Adição dos Diagramas de Processo Geral, Definição de Tema e Design Sprint | Murilo Gomes e Lucas Andrade | Giulia Lobo |
+| 1.2    | 02/02/2022 | Adição dos Diagramas de Definição e Execução de Metodologia | Giulia Lobo, Lucas Andrade e Murilo Gomes | Liverson Paulo |
 
 ## Introdução
 
@@ -27,6 +28,13 @@ Para este documento, foram criados múltiplos fluxos utilizando a notação BPMN
 
 ![Design Sprint](../../assets/images/bpmnDesignSprint.jpg)
 
+### Definição de Metodologia
+
+![Definição de Metodologia](../../assets/images/bpmnDefinicaoMetodologia.jpg)
+
+### Execução de Metodologia
+
+![Execução de Metodologia](../../assets/images/bpmnExecucaoMetodologia.jpg)
 ## Bibliografia
 
 * SERRANO, Milene. AULA - Notação BPMN. Disponível em: https://aprender3.unb.br/pluginfile.php/1558830/mod_label/intro/Arquitetura%20e%20Desenho%20de%20software%20-%20Aula%20BPMN%20Exemplos%20-%20Profa.%20Milene.pdf (Acessado em 27/01/2022)
