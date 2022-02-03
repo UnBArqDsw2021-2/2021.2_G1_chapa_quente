@@ -2,10 +2,10 @@
 
 ## Versionamento
 
-| Versão |    Data    |     Modificação      |      Autor      | Revisor |
-| ------ | :--------: | :------------------: | :-------------: | :-----: |
-| 1.0    | 28/01/2022 | Criação do Documento |   Pedro Lima    |         |
-| 1.1    | 02/02/2022 |  Refatoração da ata  | Philipe Serafim |         |
+| Versão |    Data    |     Modificação      |      Autor      |   Revisor   |
+| ------ | :--------: | :------------------: | :-------------: | :---------: |
+| 1.0    | 28/01/2022 | Criação do Documento |   Pedro Lima    |             |
+| 1.1    | 02/02/2022 |  Refatoração da ata  | Philipe Serafim | Giulia Lobo |
 
 <!-- NÃO ESQUECER DE ADICIONAR AO "/_sidebar.md" -->
 
