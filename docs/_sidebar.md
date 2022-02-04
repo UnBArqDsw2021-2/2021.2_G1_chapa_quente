@@ -16,6 +16,7 @@
         - [Storytelling](pages/fase_01/storytelling.md)
       - [Esboço de Baseline de Requisitos](pages/fase_01/baseline_requisitos.md)
         - [Priorização Moscow](pages/fase_01/priorizacao_moscow.md)
+      - [Diagrama de Casos de Uso](pages/fase_01/casos_de_uso.md)
   - **Processos, Metodologias e Abordagens**
     - [Escolhas Metodológicas](pages/fase_01/escolhas_metodologicas.md)
     - [Modelagem BPMN](pages/fase_01/modelagem_bpmn.md)
