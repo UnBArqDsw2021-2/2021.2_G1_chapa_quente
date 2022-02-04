@@ -21,7 +21,7 @@ O diagrama consiste em 4 objetos, sendo eles:
 
 ## Objetivo
 
-O objetivo desse documento é apresentar os casos de uso do Tá na Chapa. Sendo assim, o diagrama será composto por atores, associações e casos de uso com o objetivo de esclarecer o fluxo a ser tomado pelos atores do sistema ao usar a aplicação. Os casos de uso também serão especificados, com o objetivo de detalhá-los e complementar o diagrama. 
+O objetivo desse documento é apresentar os casos de uso do Chapa Quente. Sendo assim, o diagrama será composto por atores, associações e casos de uso com o objetivo de esclarecer o fluxo a ser tomado pelos atores do sistema ao usar a aplicação. Os casos de uso também serão especificados, com o objetivo de detalhá-los e complementar o diagrama. 
 
 ## Diagrama de Casos de Uso
 
