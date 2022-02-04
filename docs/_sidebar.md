@@ -4,16 +4,24 @@
   - **Projeto Não Orientado a Abordagens Específicas**
     - [Design Sprint](pages/fase_01/design_sprint.md)
       - [Protótipos](pages/fase_01/prototipoBaixaAltaFidelidade.md)
+      - [Testes de Usabilidade](pages/fase_01/testes_usabilidade.md)
     - [Artefato Independente de Metodologia](pages/fase_01/artefato_Independente_metodologia.md)
+      - [Pré-Rastreabilidade](pages/fase_01/pre_rastreabilidade.md)
+        - [5W2H](pages/fase_01/5w2h.md)
+        - [Diagrama Causa-Efeito](pages/fase_01/diagrama_causa_efeito.md)
+        - [Mapa mental](pages/fase_01/mapa_mental.md)
       - [Técnicas de Elicitação](pages/fase_01/tecnicas_elicitacao.md)
         - [Brainstorming](pages/fase_01/brainstorming.md)
         - [Personas](pages/fase_01/personas.md)
+        - [Storytelling](pages/fase_01/storytelling.md)
       - [Esboço de Baseline de Requisitos](pages/fase_01/baseline_requisitos.md)
         - [Priorização Moscow](pages/fase_01/priorizacao_moscow.md)
       - [Diagrama de Casos de Uso](pages/fase_01/casos_de_uso.md)
-  - **Processos/Metodologias/Abordagens**
+  - **Processos, Metodologias e Abordagens**
     - [Escolhas Metodológicas](pages/fase_01/escolhas_metodologicas.md)
     - [Modelagem BPMN](pages/fase_01/modelagem_bpmn.md)
-
+    - [Metodologias](pages/fase_01/metodologias.md)
 - **Iniciativas extras**
   - [Atas](_indiceReuniao.md)
+  - [Política de repositório](pages/iniciativasExtras/politica_repositorio.md)
+  - [First Things First](pages/iniciativasExtras/first_things_first.md)
