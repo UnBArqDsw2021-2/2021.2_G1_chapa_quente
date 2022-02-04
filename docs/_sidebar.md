@@ -20,7 +20,6 @@
       - Modelagem de Requisitos
         - [Diagrama de Casos de Uso](pages/fase_01/casos_de_uso.md)
   - **Processos, Metodologias e Abordagens**
-    - [Escolhas Metodológicas](pages/fase_01/escolhas_metodologicas.md)
     - [Modelagem BPMN](pages/fase_01/modelagem_bpmn.md)
     - [Metodologias](pages/fase_01/metodologias.md)
   - **Iniciativas extras**

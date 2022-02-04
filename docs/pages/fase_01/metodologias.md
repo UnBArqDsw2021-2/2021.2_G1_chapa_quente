@@ -2,10 +2,10 @@
 
 ## Versionamento
 
-| Versão | Data       | Modificação          | Autor                        |Revisor|
-| ------ | :--------: | :------------------: | :--------------------------: | :---: |
-| 1.0    | 02/02/2022 | Criação do Documento | Dafne Moretti Moreira |  Giulia Lobo Barros   |
-| 1.1    | 03/02/2022 | Adiciona descrição das metodologias utilizadas | Dafne Moretti Moreira |  Giulia Lobo Barros   |
+| Versão |    Data    |                  Modificação                   |         Autor         |      Revisor       |
+| ------ | :--------: | :--------------------------------------------: | :-------------------: | :----------------: |
+| 1.0    | 02/02/2022 |              Criação do Documento              | Dafne Moretti Moreira | Giulia Lobo Barros |
+| 1.1    | 03/02/2022 | Adiciona descrição das metodologias utilizadas | Dafne Moretti Moreira | Giulia Lobo Barros |
 
 ## Introdução
 
@@ -19,12 +19,13 @@ Uma vez selecionadas as ferramentas, a equipe optou por metodologia híbrida, ca
 
 Este mapa mental esboça as principais metodologias e ferramentas aplicadas no projeto.
 
-<p style="text-align: center"><img src="../../assets/images/gestaoPlanejamento.png">
-Figura 1: Mapa mental de metologias</p><p style="text-align: center">Fonte: Autoria própria</p>
+![Mapa Mental](../../assets/images/gestaoPlanejamento.png)
+
+<figcaption>Figura 1: Mapa mental de metologias</figcaption>
 
 ### 1. **Scrum**
 
-Metodologia ágil bastante conhecida pelos engenheiros de software, o **Scrum** é baseado em pequenos entregáveis e ciclo de vida iterativo-incremental. 
+Metodologia ágil bastante conhecida pelos engenheiros de software, o **Scrum** é baseado em pequenos entregáveis e ciclo de vida iterativo-incremental.
 
 #### **Sprint**
 
@@ -32,18 +33,18 @@ Metodologia ágil bastante conhecida pelos engenheiros de software, o **Scrum** 
 
 #### **Cerimônias scrum**
 
-As cerimônias scrum garantem comunicação clara entre a equipe, identificação de riscos e dificuldades da sprint. Permitem, com isso, uma construção de integração e colaboração entre os membros. 
+As cerimônias scrum garantem comunicação clara entre a equipe, identificação de riscos e dificuldades da sprint. Permitem, com isso, uma construção de integração e colaboração entre os membros.
 
 Por essa razão, a equipe optou por realizar todas as cerimônias Scrum.
 
-* ***Sprint Review*** 
-* ***Sprint Planning*** 
-* ***Sprint Retrospectiva***
-* ***Daily Meeting***
+- **_Sprint Review_**
+- **_Sprint Planning_**
+- **_Sprint Retrospectiva_**
+- **_Daily Meeting_**
 
-#### **Papéis do scrum** 
+#### **Papéis do scrum**
 
-Foi definido o papel de Scrum Master para a integrante Giulia Lobo Barros e o papel de Product Owner para a integrante Dafne Moretti Moreira. 
+Foi definido o papel de Scrum Master para a integrante Giulia Lobo Barros e o papel de Product Owner para a integrante Dafne Moretti Moreira.
 
 No entanto, a responsabilidade entre os membros do projeto é semelhante e todos atuam em diferentes funções.
 
@@ -61,49 +62,49 @@ A fim de compreender melhor a experiência que o usuário tem ao utilizar o sist
 
 Com o objetivo de facilitar a visualização do trabalho da equipe, foi criado um quadro Kanban com as colunas: para fazer, fazendo, revisar, concluído, bloqueado, cancelado.
 
-* ***Para fazer***
+- **_Para fazer_**
 
 Abarca as tarefas que ainda não foram feitas.
 
-* ***Fazendo***
+- **_Fazendo_**
 
 Possui as tarefas que estão sendo realizadas na sprint.
 
-* ***Revisar***  
+- **_Revisar_**
 
 Contém as tarefas que precisam ser revisadas.
 
-* ***Concluído***
+- **_Concluído_**
 
 É possível visualizar nessa coluna, as tarefas concluídas da sprint.
 
-* ***Bloqueado*** 
+- **_Bloqueado_**
 
 Tarefas que estão momentaneamente paradas devido a impedimentos.
 
-* ***Cancelado*** 
+- **_Cancelado_**
 
 Tarefas que a equipe percebeu não fazer sentido para o escopo do projeto.
 
 ### 3. **XP**
 
-* ***Pair Programming***
+- **_Pair Programming_**
 
 Pesquisas realizadas anteriormente mostraram que os desenvolvedores percebem que a utilização de programação em pares reduz o número de bugs, dissemina conhecimento sobre o código e colabora na produção de um código de melhor qualidade. Uma vez que isso foi observado, decidiu-se utilizar o **pair programming** durante o projeto.
 
 ## Ferramentas utilizadas
 
-| Ícone | Nome | Descrição | 
-|:--:|:--:|:--:| 
-| <img width="270" height="100" src="./assets/images/logoWhimsical.png"> | Whimsical | Criação de documentos e modelagem. | 
-| <img width="190" height="100" src="./assets/images/logoTelegram.png"> | Telegram | Comunicações pontuais e rápidas entre membros da equipe. |
-| <img width="100" height="100" src="./assets/images/logoGithub.png"> | Github | Versionamento e documentação. |
-| <img width="190" height="100" src="./assets/images/logoGoogledrive.png"> | Google Drive | Armazenamento de dados, compartilhamento de documentos e sincronização de informações. | 
-| <img width="170" height="100" src="./assets/images/logoDiscord.png"> | Discord | Reuniões e pareamentos. | 
-| <img width="120" height="100" src="./assets/images/logoTrello.png"> | Trello | Quadro Kanban | 
-| <img width="110" height="100" src="./assets/images/logoDrawIo.png"> | Draw.io | Construção de Rich Pictures e modelagens | 
-| <img width="200" height="100" src="./assets/images/logoMiro.svg"> | Miro | Construção do brainstorming e 5w2h | 
-| <img width="170" height="100" src="./assets/images/logoLucidchart.jpg"> | LucidChart | Construção de modelagens e diagramas | 
+|                                  Ícone                                   |     Nome     |                                       Descrição                                        |
+| :----------------------------------------------------------------------: | :----------: | :------------------------------------------------------------------------------------: |
+|  <img width="270" height="100" src="./assets/images/logoWhimsical.png">  |  Whimsical   |                           Criação de documentos e modelagem.                           |
+|  <img width="190" height="100" src="./assets/images/logoTelegram.png">   |   Telegram   |                Comunicações pontuais e rápidas entre membros da equipe.                |
+|   <img width="100" height="100" src="./assets/images/logoGithub.png">    |    Github    |                             Versionamento e documentação.                              |
+| <img width="190" height="100" src="./assets/images/logoGoogledrive.png"> | Google Drive | Armazenamento de dados, compartilhamento de documentos e sincronização de informações. |
+|   <img width="170" height="100" src="./assets/images/logoDiscord.png">   |   Discord    |                                Reuniões e pareamentos.                                 |
+|   <img width="120" height="100" src="./assets/images/logoTrello.png">    |    Trello    |                                     Quadro Kanban                                      |
+|   <img width="110" height="100" src="./assets/images/logoDrawIo.png">    |   Draw.io    |                        Construção de Rich Pictures e modelagens                        |
+|    <img width="200" height="100" src="./assets/images/logoMiro.svg">     |     Miro     |                           Construção do brainstorming e 5w2h                           |
+| <img width="170" height="100" src="./assets/images/logoLucidchart.jpg">  |  LucidChart  |                          Construção de modelagens e diagramas                          |
 
 ## Conclusão
 
