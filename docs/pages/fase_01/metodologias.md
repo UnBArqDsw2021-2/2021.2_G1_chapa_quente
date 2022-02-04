@@ -1,4 +1,4 @@
-# NMetodologias
+# Metodologias
 
 ## Versionamento
 
@@ -19,7 +19,7 @@ Uma vez selecionadas as ferramentas, a equipe optou por metodologia híbrida, ca
 
 Este mapa mental esboça as principais metodologias e ferramentas aplicadas no projeto.
 
-<p style="text-align: center"><img src="../assets/images/gestaoPlanejamento.png">
+<p style="text-align: center"><img src="../../assets/images/gestaoPlanejamento.png">
 Figura 1: Mapa mental de metologias</p><p style="text-align: center">Fonte: Autoria própria</p>
 
 ### 1. **Scrum**
@@ -95,15 +95,15 @@ Pesquisas realizadas anteriormente mostraram que os desenvolvedores percebem que
 
 | Ícone | Nome | Descrição | 
 |:--:|:--:|:--:| 
-| <img width="270" height="100" src="../assets/images/logoWhimsical.png"> | Whimsical | Criação de documentos e modelagem. | 
-| <img width="190" height="100" src="../assets/images/logoTelegram.png"> | Telegram | Comunicações pontuais e rápidas entre membros da equipe. |
-| <img width="100" height="100" src="../assets/images/logoGithub.png"> | Github | Versionamento e documentação. |
-| <img width="190" height="100" src="../assets/images/logoGoogledrive.png"> | Google Drive | Armazenamento de dados, compartilhamento de documentos e sincronização de informações. | 
-| <img width="170" height="100" src="../assets/images/logoDiscord.png"> | Discord | Reuniões e pareamentos. | 
-| <img width="120" height="100" src="../assets/images/logoTrello.png"> | Trello | Quadro Kanban | 
-| <img width="110" height="100" src="../assets/images/logoDrawIo.png"> | Draw.io | Construção de Rich Pictures e modelagens | 
-| <img width="200" height="100" src="../assets/images/logoMiro.svg"> | Miro | Construção do brainstorming e 5w2h | 
-| <img width="170" height="100" src="../assets/images/logoLucidchart.jpg"> | LucidChart | Construção de modelagens e diagramas | 
+| <img width="270" height="100" src="../../assets/images/logoWhimsical.png"> | Whimsical | Criação de documentos e modelagem. | 
+| <img width="190" height="100" src="../../assets/images/logoTelegram.png"> | Telegram | Comunicações pontuais e rápidas entre membros da equipe. |
+| <img width="100" height="100" src="../../assets/images/logoGithub.png"> | Github | Versionamento e documentação. |
+| <img width="190" height="100" src="../../assets/images/logoGoogledrive.png"> | Google Drive | Armazenamento de dados, compartilhamento de documentos e sincronização de informações. | 
+| <img width="170" height="100" src="../../assets/images/logoDiscord.png"> | Discord | Reuniões e pareamentos. | 
+| <img width="120" height="100" src="../../assets/images/logoTrello.png"> | Trello | Quadro Kanban | 
+| <img width="110" height="100" src="../../assets/images/logoDrawIo.png"> | Draw.io | Construção de Rich Pictures e modelagens | 
+| <img width="200" height="100" src="../../assets/images/logoMiro.svg"> | Miro | Construção do brainstorming e 5w2h | 
+| <img width="170" height="100" src="../../assets/images/logoLucidchart.jpg"> | LucidChart | Construção de modelagens e diagramas | 
 
 ## Conclusão
 

@@ -12,7 +12,7 @@ Para todo produto desenvolvido é muito importante saber a opinião dos possíve
 
 ## Metodologia
 
-Para a execução dos testes de usabilidade, alguns integrantes dos grupos chamaram o total de 6 pessoas fora do projeto para testar a aplicação. O teste foi feito da seguinte maneira: O testador deveria se imaginar no lugar de uma pessoa que tá acessando o site da lanchonete chapa quente pela primeira vez através do protótipo e depois disso, o mesmo deveria demonstrar os passos que ele executaria na interface para fazer o pedido de um lanche. Assim que a interação era finalizada, o testador deveria responder às seguintes perguntas:
+Para a execução dos testes de usabilidade foram convidadas 6 pessoas de fora do projeto para testar o protótipo. O teste foi feito da seguinte maneira: O testador deveria se imaginar no lugar de uma pessoa que tá acessando o site da lanchonete chapa quente pela primeira vez através do protótipo e depois disso, o mesmo deveria demonstrar os passos que ele executaria na interface para fazer o pedido de um lanche. Assim que a interação era finalizada, o testador deveria responder às seguintes perguntas:
 
 * Você achou o site intuitivo?
 * Você achou o visual do site agradável?
@@ -159,11 +159,10 @@ Aplicadora: Dafne Moretti Moreira
 **Qual sua opinião geral sobre o site?**
 
 "Achei bem fácil de usar e bonito"
-s
 
 ## Conclusão
 
-Com base nos resultados descritos acima, podemos tirar como conclusão que o nosso site possui um visual legal e bonito no olhar da maioria das pessoas, porém, existem algumas partes do sistema que deixaram os usuários confusos. Teve algumas partes do protótipo que deixaram os testadores confusos por ainda não terem sido implementadas no protótipo como por exemplo o carrinho de compras e alguns botões que não eram clicáveis. Além dessas partes houveram partes implementadas que também deixaram confusão nos usuários como por exemplo o menu “Chapa Quenters” e a descrição dos filtros.
+Com base nos resultados descritos acima, pode-se concluir que o site possui um visual legal e bonito para a maioria das pessoas, porém, existem algumas partes do sistema que deixaram os usuários confusos. Teve algumas partes do protótipo que deixaram os testadores confusos por ainda não terem sido implementadas no protótipo como por exemplo o carrinho de compras e alguns botões que não eram clicáveis. Além dessas partes houveram partes implementadas que também deixaram confusão nos usuários como por exemplo o menu “Chapa Quenters” e a descrição dos filtros.
 Com esses testes podemos mapear melhorias a serem feitas na nossa interface a fim de melhorar a experiência do usuário.
 
 ## Bibliografia
