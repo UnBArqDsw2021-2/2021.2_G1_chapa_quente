@@ -6,6 +6,7 @@
 | ------ | :--------: | :------------------: | :-------------: | :---------: |
 | 1.0    | 28/01/2022 | Criação do Documento |   Pedro Lima    |             |
 | 1.1    | 02/02/2022 |  Refatoração da ata  | Philipe Serafim | Giulia Lobo |
+| 1.2    | 04/02/2022 | Pequenas alterações no texto | Giulia Lobo | Philipe Serafim |
 
 <!-- NÃO ESQUECER DE ADICIONAR AO "/_sidebar.md" -->
 
@@ -28,7 +29,8 @@ Foi apresentado o tema do grupo e inicializadas discussões iniciais sobre.
 Conversa para ter a base para o início da sprint, foi decidido que o histórico de versões ficará no início, decididas as técnicas de levantamento de requisitos:
 
 - Brainstorming - o grupo inteiro,
-- Storytelling - Murilo, Liverson e João Pedro, - Mapa Mental - Giulia e Dafne,
+- Storytelling - Murilo, Liverson e João Pedro,
+- Mapa Mental - Giulia e Dafne,
 - Personas - Philipe e Lucas,
 - Casos de uso - Pedro, Guilherme e Rodrigo.
 - Todos do grupo deverão fazer Rich Pictures.

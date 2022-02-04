@@ -7,22 +7,25 @@
 | 1.0    | 02/02/2022 | Criação do Documento | Lucas Andrade | João Pedro Alves da Silva Chaves |
 | 1.1    | 03/02/2022 | Ajustes no texto e mudança de imagem | Lucas Andrade | João Pedro Alves da Silva Chaves | 
 | 1.2    | 03/02/2022 | Adicionado revisor | Lucas Andrade | João Pedro Alves da Silva Chaves |
+| 1.3    | 04/02/2022 | Pequenas alterações no texto | Giulia Lobo | Philipe Serafim |
 
 ## Introdução
 
-O Brainstorm consiste em uma técnica realizada em equipe, que visa explorar e melhorar a visão que os membros do grupo possuem sobre o projeto, e os desafios que possam ocorrer.
+O Brainstorming consiste em uma técnica realizada em equipe, que visa explorar e melhorar a visão que os membros do grupo possuem sobre o projeto, e os desafios que possam ocorrer.
 
 O ambiente proporcionado pelo Brainstorming incentiva que os participantes exponham as suas opiniões e visões sobre o projeto. É analisado o que deve ser priorizado, focando em funcionalidades chaves que possam diferenciar a solução proposta das demais disponíveis. Também é uma importante ferramenta para criar uma base do que será o escopo da aplicação.  
 
 ## Metodologia
 
-Utilizando a plataforma de colaboração [Miro](https://miro.com/), foram levantadas, em grupo, vários pontos e aspectos do projeto considerado relevantes. Separamos em três grupos as ideias levantadas: **problema/tema, ideias e a identificação de soluções.** Posteriormente foi feita a organização e remoção de ideias similares, chegando ao seguinte resultado:
+Utilizando a plataforma de colaboração [Miro](https://miro.com/), foi feita uma reunião de brainstorming no dia 25/01 e nela foram levantados, em grupo, vários pontos e aspectos do projeto considerados relevantes. Separamos em três grupos as ideias levantadas: **problema/tema, ideias e a identificação de soluções.** Posteriormente foi feita a organização e remoção de ideias similares, chegando ao seguinte resultado:
 
 ![Brainstorming Problemas](./../../assets/images/Brainstorming.jpg)
 
+Esse resultado proporcionou ao grupo elicitar requisitos posteriormente.
+
 ## Requisitos levantados
 
-Com o Brainstorm foi possivel levantar alguns requisitos iniciais:
+Com o Brainstorming foi possivel levantar alguns requisitos iniciais:
 
 | ID | Nome |
 | -- | -- |
