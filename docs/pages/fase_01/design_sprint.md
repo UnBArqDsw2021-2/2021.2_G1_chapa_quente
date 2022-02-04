@@ -5,6 +5,7 @@
 | Versão | Data       | Modificação          | Autor                        | Revisor |
 | ------ | ---------- | -------------------- | ---------------------------- | ------- |
 | 1.0    | 03/02/2022 | Criação do Documento |          Giulia Lobo         | Murilo Gomes |
+| 1.1    | 04/02/2022 | Pequenas alterações no texto | Giulia Lobo | Philipe Serafim |
 
 ## Introdução
 
@@ -48,7 +49,7 @@ Pré-Rastreabilidade - Que contou com as técnicas de [5W2H](./pages/fase_01/5w2
 
 No segundo dia a equipe ficou dedicada ao requisitos:
 
-Técnicas de Elicitação - Que contou com as técnicas de [Brainstorming](./pages/fase_01/brainstorming.md), [Personas](./pages/fase_01/personas.md) e [StoryTelling](./pages/fase_01/storytelling.md).
+Técnicas de Elicitação - Que contou com as técnicas de [Brainstorming](./pages/fase_01/brainstorming.md) (executado no dia 25/01), [Personas](./pages/fase_01/personas.md) e [StoryTelling](./pages/fase_01/storytelling.md).
 
 ### Dia 3 - Quarta-Feira (27/01)
 
