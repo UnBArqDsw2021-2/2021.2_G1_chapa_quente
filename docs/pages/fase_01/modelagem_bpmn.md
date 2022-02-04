@@ -7,6 +7,7 @@
 | 1.0    | 25/01/2022 | Criação do Documento | Philipe Serafim e Pedro Lima | Murilo Gomes |
 | 1.1    | 27/01/2022 | Adição dos Diagramas de Processo Geral, Definição de Tema e Design Sprint | Murilo Gomes e Lucas Andrade | Giulia Lobo |
 | 1.2    | 02/02/2022 | Adição dos Diagramas de Definição e Execução de Metodologia | Giulia Lobo, Lucas Andrade e Murilo Gomes | Liverson Paulo |
+| 1.3    | 04/02/2022 | Atualização nas técnicas desempenhadas duarante a Design Sprint | Lucas Andrade | Giulia Lobo |  
 
 ## Introdução
 
