@@ -2,9 +2,9 @@
 
 ## Versionamento
 
-| Versão | Data       | Modificação          | Autor                             |Revisor|
-| ------ | :--------: | :------------------: | :-------------------------------: | :---: |
-| 1.0    | 02/02/2022 | Criação do Documento | Guilherme Fernanes e Rodrigo Lima |       |
+| Versão |    Data    |     Modificação      |               Autor               |   Revisor   |
+| ------ | :--------: | :------------------: | :-------------------------------: | :---------: |
+| 1.0    | 02/02/2022 | Criação do Documento | Guilherme Fernanes e Rodrigo Lima | Pedro Limas |
 
 ## Introdução
 
@@ -29,15 +29,15 @@ O objetivo desse documento é apresentar os casos de uso do Tá na Chapa. Sendo 
 
 ## Casos de Uso
 
-ID     |   Nome do Caso de Uso
--------| -----------------------
-UC01   | [Ver cardápio](./../../pages/fase_01/casos_de_uso/uc01.md)
-UC02   | [Realizar compra no site](./../../pages/fase_01/casos_de_uso/uc02.md)
-UC03   | [Ver pedidos realizados](./../../pages/fase_01/casos_de_uso/uc03.md)
-UC04   | [Gerenciar os produtos](./../../pages/fase_01/casos_de_uso/uc04.md)
-UC05   | [Escolher forma de entrega](./../../pages/fase_01/casos_de_uso/uc05.md)
-UC06   | [Acompanhar pedido](./../../pages/fase_01/casos_de_uso/uc06.md)
-UC07   | [Realizar entrega](./../../pages/fase_01/casos_de_uso/uc07.md)
+| ID   | Nome do Caso de Uso                                                     |
+| ---- | ----------------------------------------------------------------------- |
+| UC01 | [Ver cardápio](./../../pages/fase_01/casos_de_uso/uc01.md)              |
+| UC02 | [Realizar compra no site](./../../pages/fase_01/casos_de_uso/uc02.md)   |
+| UC03 | [Ver pedidos realizados](./../../pages/fase_01/casos_de_uso/uc03.md)    |
+| UC04 | [Gerenciar os produtos](./../../pages/fase_01/casos_de_uso/uc04.md)     |
+| UC05 | [Escolher forma de entrega](./../../pages/fase_01/casos_de_uso/uc05.md) |
+| UC06 | [Acompanhar pedido](./../../pages/fase_01/casos_de_uso/uc06.md)         |
+| UC07 | [Realizar entrega](./../../pages/fase_01/casos_de_uso/uc07.md)          |
 
 ## Bibliografia
 
