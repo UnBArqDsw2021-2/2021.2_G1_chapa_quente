@@ -5,18 +5,19 @@
     - [Design Sprint](pages/fase_01/design_sprint.md)
       - [Protótipos](pages/fase_01/prototipoBaixaAltaFidelidade.md)
       - [Testes de Usabilidade](pages/fase_01/testes_usabilidade.md)
-    - [Artefato Independente de Metodologia](pages/fase_01/artefato_Independente_metodologia.md)
-      - [Pré-Rastreabilidade](pages/fase_01/pre_rastreabilidade.md)
+    - Artefato Independente de Metodologia
+      - Pré-Rastreabilidade
         - [5W2H](pages/fase_01/5w2h.md)
         - [Diagrama Causa-Efeito](pages/fase_01/diagrama_causa_efeito.md)
         - [Mapa mental](pages/fase_01/mapa_mental.md)
-      - [Técnicas de Elicitação](pages/fase_01/tecnicas_elicitacao.md)
+      - Técnicas de Elicitação
         - [Brainstorming](pages/fase_01/brainstorming.md)
         - [Personas](pages/fase_01/personas.md)
         - [Storytelling](pages/fase_01/storytelling.md)
-      - [Esboço de Baseline de Requisitos](pages/fase_01/baseline_requisitos.md)
+      - Esboço de Baseline de Requisitos
         - [Priorização Moscow](pages/fase_01/priorizacao_moscow.md)
-      - [Diagrama de Casos de Uso](pages/fase_01/casos_de_uso.md)
+      - Modelagem de Requisitos
+        - [Diagrama de Casos de Uso](pages/fase_01/casos_de_uso.md)
   - **Processos, Metodologias e Abordagens**
     - [Escolhas Metodológicas](pages/fase_01/escolhas_metodologicas.md)
     - [Modelagem BPMN](pages/fase_01/modelagem_bpmn.md)
