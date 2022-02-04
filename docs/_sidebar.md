@@ -22,7 +22,7 @@
     - [Escolhas Metodológicas](pages/fase_01/escolhas_metodologicas.md)
     - [Modelagem BPMN](pages/fase_01/modelagem_bpmn.md)
     - [Metodologias](pages/fase_01/metodologias.md)
-- **Iniciativas extras**
-  - [Atas](_indiceReuniao.md)
-  - [Política de repositório](pages/iniciativasExtras/politica_repositorio.md)
-  - [First Things First](pages/iniciativasExtras/first_things_first.md)
+  - **Iniciativas extras**
+    - [Atas](_indiceReuniao.md)
+    - [Política de repositório](pages/iniciativasExtras/politica_repositorio.md)
+    - [First Things First](pages/iniciativasExtras/first_things_first.md)
