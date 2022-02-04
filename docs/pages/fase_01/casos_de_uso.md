@@ -4,16 +4,18 @@
 
 | Versão |    Data    |     Modificação      |               Autor               |   Revisor   |
 | ------ | :--------: | :------------------: | :-------------------------------: | :---------: |
-| 1.0    | 02/02/2022 | Criação do Documento | Guilherme Fernanes e Rodrigo Lima | Pedro Limas |
+| 1.0    | 02/02/2022 | Criação do Documento | Guilherme Fernandes e Rodrigo Lima | Pedro Limas |
 
 ## Introdução
 
 O diagrama de casos de uso é elaborado em UML e tem como objetivo elucidar sobre como se dá a interação entre os atores e o sistema. Dessa forma, o diagrama de casos de uso é utilizado para evidenciar a interação entre esses atores e o sistema de forma sucinta. Sendo assim, ele é ideal nos seguintes casos:
+
 - Representar a interação usuários-sistema
 - Identificar funções e como cada papel interage com elas
 - Identificar fatores internos e externos
 
 O diagrama consiste em 4 objetos, sendo eles:
+
 - Ator: qualquer entidade que desempenha um papel (pessoa, organização, etc).
 - Caso de uso: representa uma função ou ação dentro do sistema.
 - Sistema: usado para definir o objetivo do caso de uso, sendo seu uso opcional.
@@ -21,7 +23,7 @@ O diagrama consiste em 4 objetos, sendo eles:
 
 ## Objetivo
 
-O objetivo desse documento é apresentar os casos de uso do Chapa Quente. Sendo assim, o diagrama será composto por atores, associações e casos de uso com o objetivo de esclarecer o fluxo a ser tomado pelos atores do sistema ao usar a aplicação. Os casos de uso também serão especificados, com o objetivo de detalhá-los e complementar o diagrama. 
+O objetivo desse documento é apresentar os casos de uso do Chapa Quente. Sendo assim, o diagrama será composto por atores, associações e casos de uso com o objetivo de esclarecer o fluxo a ser tomado pelos atores do sistema ao usar a aplicação. Os casos de uso também serão especificados, com o objetivo de detalhá-los e complementar o diagrama.
 
 ## Diagrama de Casos de Uso
 
@@ -29,15 +31,15 @@ O objetivo desse documento é apresentar os casos de uso do Chapa Quente. Sendo 
 
 ## Casos de Uso
 
-| ID   | Nome do Caso de Uso                                                     |
-| ---- | ----------------------------------------------------------------------- |
-| UC01 | [Ver cardápio](./../../pages/fase_01/casos_de_uso/uc01.md)              |
-| UC02 | [Realizar compra no site](./../../pages/fase_01/casos_de_uso/uc02.md)   |
-| UC03 | [Ver pedidos realizados](./../../pages/fase_01/casos_de_uso/uc03.md)    |
-| UC04 | [Gerenciar os produtos](./../../pages/fase_01/casos_de_uso/uc04.md)     |
-| UC05 | [Escolher forma de entrega](./../../pages/fase_01/casos_de_uso/uc05.md) |
-| UC06 | [Acompanhar pedido](./../../pages/fase_01/casos_de_uso/uc06.md)         |
-| UC07 | [Realizar entrega](./../../pages/fase_01/casos_de_uso/uc07.md)          |
+| ID   | Nome do Caso de Uso                                             |
+| ---- | --------------------------------------------------------------- |
+| UC01 | [Ver cardápio](pages/fase_01/casos_de_uso/uc01.md)              |
+| UC02 | [Realizar compra no site](pages/fase_01/casos_de_uso/uc02.md)   |
+| UC03 | [Ver pedidos realizados](pages/fase_01/casos_de_uso/uc03.md)    |
+| UC04 | [Gerenciar os produtos](pages/fase_01/casos_de_uso/uc04.md)     |
+| UC05 | [Escolher forma de entrega](pages/fase_01/casos_de_uso/uc05.md) |
+| UC06 | [Acompanhar pedido](pages/fase_01/casos_de_uso/uc06.md)         |
+| UC07 | [Realizar entrega](pages/fase_01/casos_de_uso/uc07.md)          |
 
 ## Bibliografia
 

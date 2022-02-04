@@ -29,7 +29,7 @@ Conversa para ter a base para o início da sprint, foi decidido que o histórico
 
 - Brainstorming - o grupo inteiro,
 - Storytelling - Murilo, Liverson e João Pedro, - Mapa Mental - Giulia e Dafne,
-- Personas - Phelipe e Lucas,
+- Personas - Philipe e Lucas,
 - Casos de uso - Pedro, Guilherme e Rodrigo.
 - Todos do grupo deverão fazer Rich Pictures.
 
