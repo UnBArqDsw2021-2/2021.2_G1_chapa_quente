@@ -2,10 +2,10 @@
 
 ## Versionamento
 
-| Versão | Data       | Modificação          | Autor            | Revisor      |
-| ------ | ---------- | -------------------- | ---------------- | ------------ |
-| 1.0    | 27/01/2022 | Criação do Documento | Philipe Seraphim | Murilo Gomes |
-| 1.1    | 27/01/2022 | Inclusão de Personas | Lucas Andrade    | Murilo Gomes |
+| Versão | Data       | Modificação          | Autor           | Revisor      |
+| ------ | ---------- | -------------------- | --------------- | ------------ |
+| 1.0    | 27/01/2022 | Criação do Documento | Philipe Serafim | Murilo Gomes |
+| 1.1    | 27/01/2022 | Inclusão de Personas | Lucas Andrade   | Murilo Gomes |
 
 ## Introdução
 
@@ -19,67 +19,67 @@ Com isso, tem-se as seguintes personas:
 
 ### Arthur Silva
 
-|                 |                                                                                                                            |
-| :-------------: | :------------------------------------------------------------------------------------------------------------------------- |
-|     Status      | Persona primária                                                                                                           |
-|      Foto       | ![persona](./../../assets/images/persona1.jpg ':size=200') </br> Figura 1 - Persona. Fonte: [https://thispersondoesnotexist.com/](ThisPersonDoesNotExist) |
-|      Idade      | 45 anos                                                                                                                    |
-|    Profissão    | Pedreiro                                                                                                                   |
-|  Escolaridade   | Nivel médio incompleto                                                                                                     |
-|    Objetivos    | Crescer na empresa em que trabalha                                                                                         |
-|   Habilidades   | Facil de fazer amigos e gosta de futebol                                                                                   |
-| Relacionamentos | Casado e tem dois filhos                                                                                                   |
-|   Requisitos    | Ter acesso a refeições para retirada no local.                                                                             |
-|     Tarefas     | Trabalha de segunda a sexta, saindo do trabalho já a noite                                                                 |
-|  Expectativas   | Poder realizar rapidamente um pedido na plataforma                                                                         |
+|                 |                                                                                                                                                           |
+| :-------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     Status      | Persona primária                                                                                                                                          |
+|      Foto       | ![persona](./../../assets/images/persona1.jpg ":size=200") </br> Figura 1 - Persona. Fonte: [https://thispersondoesnotexist.com/](ThisPersonDoesNotExist) |
+|      Idade      | 45 anos                                                                                                                                                   |
+|    Profissão    | Pedreiro                                                                                                                                                  |
+|  Escolaridade   | Nivel médio incompleto                                                                                                                                    |
+|    Objetivos    | Crescer na empresa em que trabalha                                                                                                                        |
+|   Habilidades   | Facil de fazer amigos e gosta de futebol                                                                                                                  |
+| Relacionamentos | Casado e tem dois filhos                                                                                                                                  |
+|   Requisitos    | Ter acesso a refeições para retirada no local.                                                                                                            |
+|     Tarefas     | Trabalha de segunda a sexta, saindo do trabalho já a noite                                                                                                |
+|  Expectativas   | Poder realizar rapidamente um pedido na plataforma                                                                                                        |
 
 ### Jessica Roberta
 
-|                 |                                                                                                                            |
-| :-------------: | :------------------------------------------------------------------------------------------------------------------------- |
-|     Status      | Persona primária                                                                                                           |
-|      Foto       | ![persona](./../../assets/images/persona3.jpg ':size=200') </br> Figura 2 - Persona. Fonte: [https://thispersondoesnotexist.com/](ThisPersonDoesNotExist) |
-|      Idade      | 68 anos                                                                                                                    |
-|    Profissão    | Aposentada                                                                                                                 |
-|  Escolaridade   | Ensino médio completo                                                                                                      |
-|    Objetivos    | Manter uma relação proxima com seus netos                                                                                  |
-|   Habilidades   | Muito apegada a propria familia, em especial aos netos                                                                     |
-| Relacionamentos | Viuva. Mora sozinha porém costuma visitar os netos                                                                         |
-|   Requisitos    | Diversas opções de escolha.                                                                                                |
-|     Tarefas     | Nenhuma tarefa especifica                                                                                                  |
-|  Expectativas   | Poder realizar um pedido sem dificuldades com a plataforma                                                                 |
+|                 |                                                                                                                                                           |
+| :-------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     Status      | Persona primária                                                                                                                                          |
+|      Foto       | ![persona](./../../assets/images/persona3.jpg ":size=200") </br> Figura 2 - Persona. Fonte: [https://thispersondoesnotexist.com/](ThisPersonDoesNotExist) |
+|      Idade      | 68 anos                                                                                                                                                   |
+|    Profissão    | Aposentada                                                                                                                                                |
+|  Escolaridade   | Ensino médio completo                                                                                                                                     |
+|    Objetivos    | Manter uma relação proxima com seus netos                                                                                                                 |
+|   Habilidades   | Muito apegada a propria familia, em especial aos netos                                                                                                    |
+| Relacionamentos | Viuva. Mora sozinha porém costuma visitar os netos                                                                                                        |
+|   Requisitos    | Diversas opções de escolha.                                                                                                                               |
+|     Tarefas     | Nenhuma tarefa especifica                                                                                                                                 |
+|  Expectativas   | Poder realizar um pedido sem dificuldades com a plataforma                                                                                                |
 
 ### Frederico Pimenta
 
-|                 |                                                                                                                            |
-| :-------------: | :------------------------------------------------------------------------------------------------------------------------- |
-|     Status      | Persona primária                                                                                                           |
-|      Foto       | ![persona](./../../assets/images/persona2.jpg ':size=200') </br> Figura 3 - Persona. Fonte: [https://thispersondoesnotexist.com/](ThisPersonDoesNotExist) |
-|      Idade      | 34 anos                                                                                                                    |
-|    Profissão    | Dentista                                                                                                                   |
-|  Escolaridade   | Ensino Superior - Completo                                                                                                 |
-|    Objetivos    | Iniciar um Mestrado em Periodontia                                                                                         |
-| Relacionamentos | Solteiro                                                                                                                   |
-|   Habilidades   | Bom cozinheiro                                                                                                             |
-|     Tarefas     | Atende em seu consultório e sai aos finais de semanas                                                                      |
-|  Expectativas   | Uma solução que facilite a procura de opções de lanche sem lactose e que realize entregas                                  |
-|   Requisitos    | Filtrar os tipos de lanches e opções de entrega                                                                            |
+|                 |                                                                                                                                                           |
+| :-------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     Status      | Persona primária                                                                                                                                          |
+|      Foto       | ![persona](./../../assets/images/persona2.jpg ":size=200") </br> Figura 3 - Persona. Fonte: [https://thispersondoesnotexist.com/](ThisPersonDoesNotExist) |
+|      Idade      | 34 anos                                                                                                                                                   |
+|    Profissão    | Dentista                                                                                                                                                  |
+|  Escolaridade   | Ensino Superior - Completo                                                                                                                                |
+|    Objetivos    | Iniciar um Mestrado em Periodontia                                                                                                                        |
+| Relacionamentos | Solteiro                                                                                                                                                  |
+|   Habilidades   | Bom cozinheiro                                                                                                                                            |
+|     Tarefas     | Atende em seu consultório e sai aos finais de semanas                                                                                                     |
+|  Expectativas   | Uma solução que facilite a procura de opções de lanche sem lactose e que realize entregas                                                                 |
+|   Requisitos    | Filtrar os tipos de lanches e opções de entrega                                                                                                           |
 
 ### Ricardo Emanuel
 
-|                 |                                                                                                                                 |
-| :-------------: | :------------------------------------------------------------------------------------------------------------------------------ |
-|     Status      | Anti-persona                                                                                                                    |
-|      Foto       | ![persona](./../../assets/images/persona4.jpg ':size=200') </br> Figura 4 - Anti-persona. Fonte: [https://thispersondoesnotexist.com/](ThisPersonDoesNotExist) |
-|      Idade      | 16 anos                                                                                                                         |
-|    Profissão    | Estudante                                                                                                                       |
-|  Escolaridade   | Nível Médio - Cursando                                                                                                          |
-|    Objetivos    | Concluir o ensino médio e ingressar em uma universidade                                                                         |
-|   Habilidades   | Pró-ativo e bom com TikTok                                                                                                      |
-| Relacionamentos | Namorando                                                                                                                       |
-|     Tarefas     | Estuda em período integral                                                                                                      |
-|  Expectativas   | Nenhuma relacionada ao contexto                                                                                                 |
-|   Requisitos    | -                                                                                                                               |
+|                 |                                                                                                                                                                |
+| :-------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     Status      | Anti-persona                                                                                                                                                   |
+|      Foto       | ![persona](./../../assets/images/persona4.jpg ":size=200") </br> Figura 4 - Anti-persona. Fonte: [https://thispersondoesnotexist.com/](ThisPersonDoesNotExist) |
+|      Idade      | 16 anos                                                                                                                                                        |
+|    Profissão    | Estudante                                                                                                                                                      |
+|  Escolaridade   | Nível Médio - Cursando                                                                                                                                         |
+|    Objetivos    | Concluir o ensino médio e ingressar em uma universidade                                                                                                        |
+|   Habilidades   | Pró-ativo e bom com TikTok                                                                                                                                     |
+| Relacionamentos | Namorando                                                                                                                                                      |
+|     Tarefas     | Estuda em período integral                                                                                                                                     |
+|  Expectativas   | Nenhuma relacionada ao contexto                                                                                                                                |
+|   Requisitos    | -                                                                                                                                                              |
 
 ## Conclusão
 

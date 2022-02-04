@@ -42,31 +42,31 @@ Tendo em vista as fases já apresentadas, seguem as técnicas e as datas nas qua
 
 No primeiro dia da design sprint, a equipe decidiu seguir uma ordem cronológica:
 
-[Pré-Rastreabilidade](pre_rastreabilidade.md) - Que contou com as técnicas de [5W2H](5w2h.md), [Mapa Mental], [Diagrama de causa e efeito](diagrama_causa_efeito.md) e [Rich Pitures].
+Pré-Rastreabilidade - Que contou com as técnicas de [5W2H](./pages/fase_01/5w2h.md), [Mapa Mental](./pages/fase_01/mapa_mental.md), [Diagrama de causa e efeito](./pages/fase_01/diagrama_causa_efeito.md) e [Rich Pitures](./pages/fase_01/richPicture.md).
 
 ### Dia 2 - Terça-Feira (26/01)
 
 No segundo dia a equipe ficou dedicada ao requisitos:
 
-[Técnicas de Elicitação](tecnicas_elicitacao.md) - Que contou com as técnicas de [Brainstorming](brainstorming.md), [Personas](personas.md) e [StoryTelling].
+Técnicas de Elicitação - Que contou com as técnicas de [Brainstorming](./pages/fase_01/brainstorming.md), [Personas](./pages/fase_01/personas.md) e [StoryTelling](./pages/fase_01/storytelling.md).
 
 ### Dia 3 - Quarta-Feira (27/01)
 
 No terceiro dia a equipe tomou decisões priorizando os requisitos funcionais e não funcionais elicitados:
 
-[Priorizações] - Que contou com as técnicas de [MosCow](priorizacao_moscow.md) e [First Things First].
+Priorizações - Que contou com as técnicas de [MosCow](./pages/fase_01/priorizacao_moscow.md) e [First Things First](./pages/fase_01/iniciativasExtras/first_things_first.md).
 
 ### Dia 4 - Quinta-Feira e Sexta-Feira (28/01 e 29/01)
 
 No quarto dia a equipe ficou dedicada à modelagem dos requisitos, modelagem BPMN e protótipos. Essa fase levou 2 dias para ser concluída:
 
-Ela contou com as técnidas de [Casos de uso], [Modelagem BPMN](modelagem_bpmn.md) e [Protótipos](prototipoBaixaAltaFidelidade.md).
+Ela contou com as técnidas de [Casos de uso](./pages/fase_01/casos_de_uso.md), [Modelagem BPMN](./pages/fase_01/modelagem_bpmn.md) e [Protótipos](./pages/fase_01/prototipoBaixaAltaFidelidade.md).
 
 ### Dia 5 - Segunda-Feira e Terça-Feira (31/01 e 01/02)
 
 No último dia a equipe ficou dedicada a validar os protótipos feitos com a participação de pessoas fora do projeto:
 
-Contando apenas com a técnica de [Testes de Usabilidade].
+Contando apenas com a técnica de [Testes de Usabilidade](./pages/fase_01/testes_usabilidade.md).
 
 ## Bibliografia
 
