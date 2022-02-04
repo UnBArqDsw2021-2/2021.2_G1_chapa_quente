@@ -5,7 +5,7 @@
 | Versão | Data       | Modificação          | Autor                        | Revisor |
 | ------ | ---------- | -------------------- | ---------------------------- | ------- |
 | 1.0    | 03/02/2022 | Criação do Documento |          Giulia Lobo         | Murilo Gomes |
-| 1.3    | 04/02/2022 | Pequenas alterações no texto | Giulia Lobo | Philipe Serafim |
+| 1.2    | 04/02/2022 | Pequenas alterações no texto | Giulia Lobo | Philipe Serafim |
 
 ## Introdução
 
