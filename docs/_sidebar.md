@@ -12,6 +12,7 @@
     - [Artefato Independente de Metodologia](pages/fase_01/artefato_Independente_metodologia.md)
       - [Pré-Rastreabilidade](pages/fase_01/pre_rastreabilidade.md)
         - [5W2H](pages/fase_01/5w2h.md)
+        - [Diagrama Causa-Efeito](pages/fase_01/diagrama_causa_efeito.md)
       - [Técnicas de Elicitação](pages/fase_01/tecnicas_elicitacao.md)
         - [Brainstorming](pages/fase_01/brainstorming.md)
         - [Personas](pages/fase_01/personas.md)
@@ -25,5 +26,4 @@
 - **Iniciativas extras**
   - [Atas](_indiceReuniao.md)
   - [Política de repositório](pages/iniciativasExtras/politica_repositorio.md)
-   
-    
+  - [First Things First](pages/iniciativasExtras/first_things_first.md)
