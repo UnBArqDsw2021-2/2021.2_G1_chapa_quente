@@ -24,15 +24,22 @@ O projeto Chapa Quente tem como maior intuito promover uma forma de pedir lanche
 
 ## Screenshots Primeira Entrega FOCO: DSW(Base)
 
-![](assets/images/fase01-print3.png)
+![](./docs/assets/images/fase01-print3.png)
 
 <figcaption>Figura 1 - Screenshot do artefato da Design Sprint</figcaption>
 
-![](assets/images/fase01-print4.png)
+</br>
+</br>
+
+![](./docs/assets/images/fase01-print4.png)
 
 <figcaption>Figura 2 - Screenshot do artefato da Modelagem BPMN</figcaption>
 
-![](assets/images/fase01-print2.png)
+</br>
+</br>
+
+![](./docs/assets/images/fase01-print2.png)
+
 <figcaption>Figura 3 - Screenshot da listagem de artefatos presentes na main até o deadline</figcaption>
 
 
@@ -41,15 +48,15 @@ O projeto Chapa Quente tem como maior intuito promover uma forma de pedir lanche
 
 ### Projeto Não Orientado a Abordagens Específicas
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/Ma7Rs0e9gPk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Para acessar o vídeo clique em: https://www.youtube.com/embed/Ma7Rs0e9gPk
 
 ### Processos, Metodologias e Abordagens
 
- <iframe width="100%" height="315" src="https://www.youtube.com/embed/iNoo6HqQl2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Para acessar o vídeo clique em: https://www.youtube.com/embed/iNoo6HqQl2g
 
 ### Iniciativas Extras
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/nc_Ye5fgmS4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Para acessar o vídeo clique em: https://www.youtube.com/embed/nc_Ye5fgmS4
 
 <!-- ## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
 
