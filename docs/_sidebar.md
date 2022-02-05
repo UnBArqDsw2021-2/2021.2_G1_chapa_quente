@@ -26,4 +26,5 @@
     - [Atas](_indiceReuniao.md)
     - [Política de repositório](pages/fase_01/iniciativasExtras/politica_repositorio.md)
     - [First Things First](pages/fase_01/iniciativasExtras/first_things_first.md)
-  - [**Apresentações**](pages/fase01/apresentacoes_base.md)
+  - **Apresentações**
+    - [Vídeos](pages/fase_01/apresentacoes_base.md)
