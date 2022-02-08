@@ -8,6 +8,7 @@
 | 1.1    | 03/02/2022 | Ajustes no texto e mudança de imagem | Lucas Andrade | João Pedro Alves da Silva Chaves | 
 | 1.2    | 03/02/2022 | Adicionado revisor | Lucas Andrade | João Pedro Alves da Silva Chaves |
 | 1.3    | 04/02/2022 | Pequenas alterações no texto | Giulia Lobo | Philipe Serafim |
+| 1.4    | 08/02/2022 | Adição dos requisitos não funcionais | João Pedro Alves da Silva Chaves | |
 
 ## Introdução
 
@@ -23,7 +24,7 @@ Utilizando a plataforma de colaboração [Miro](https://miro.com/), foi feita um
 
 Esse resultado proporcionou ao grupo elicitar requisitos posteriormente.
 
-## Requisitos levantados
+## Requisitos funcionais levantados
 
 Com o Brainstorming foi possivel levantar alguns requisitos iniciais:
 
@@ -46,6 +47,21 @@ Com o Brainstorming foi possivel levantar alguns requisitos iniciais:
 | RF15 | O usuário deve ter acesso a diversas opções de escolha |
 | RF16 | O usuário deve ter uma estimativa para entrega do pedido |
 | RF17 | O usuário deve ter um meio de contato com a loja |
+
+## Requisitos não funcionais levantados
+
+Com o Brainstorming foi possivel levantar alguns requisitos não funcionais:
+
+| ID | Nome |
+| -- | -- |
+| RNF01 | O sistema deverá ser um site acessível por qualquer navegador com tecnologia Javascript ativada |
+| RNF02 | O sistema deverá ser responsivo e intuitivo |
+| RNF03 | As requisições efetuadas ao sistema não devem ultrapassar o tempo de 5 segundos. |
+| RNF04 | O sistema deverá ser capaz de armazenar os dados dos usuários num banco de dados |
+| RNF05 | Os dados armazenados pelos sistema deverão ser tratados apropriadamente, como determina a LGPD |
+| RNF06 | Os dados armazenados pelos sistema deverão estar seguros e encriptados, sendo impossibilitado seu acesso por sites de terceiros ou ataques |
+| RNF07 | O sistema deverá se comportar de forma consistente, não apresentando quedas frequentes |
+| RNF08 | A interface de usuário deverá ser desenvolvida respeitando os padrões de design previamente estabelecidos |
 
 ## Bibliografia
 
