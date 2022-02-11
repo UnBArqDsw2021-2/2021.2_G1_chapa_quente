@@ -28,3 +28,6 @@
     - [First Things First](pages/fase_01/iniciativasExtras/first_things_first.md)
   - **Apresentações**
     - [Vídeos](pages/fase_01/apresentacoes_base.md)
+- **Modelagem**
+  - **Iniciativas extras**
+    - [Léxicos](pages/fase_02/lexicos.md)
