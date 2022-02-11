@@ -32,4 +32,5 @@
 - **Modelagem**
   - **Diagramas Estáticos**
     - [Diagrama de Classe Abstrata](pages/fase_02/diagrama_de_classe_abstrata.md)
+    - [Diagrama de Pacote](pages/fase_02/diagrama_de_pacote.md)
 
