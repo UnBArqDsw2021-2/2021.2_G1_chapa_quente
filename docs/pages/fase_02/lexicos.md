@@ -326,6 +326,9 @@ Para a criação desse documento foram criados vários léxicos relacionados com
 | Classificação | Sujeito |
 | Sinônimo(s)   | Cliente |
 
+## Conclusão
+
+Com a finalização desse documento pode-se obter uma vasta lista de símbolos e palavras pertencentes ao contexto da aplicação que está sendo desenvolvida. Este documento pode servir para auxiliar o entendimento de membros da equipe e até mesmo usuários sobre a linguagem utilizada dentro do site Chapa Quente.
 
 ## Bibliografia
 
