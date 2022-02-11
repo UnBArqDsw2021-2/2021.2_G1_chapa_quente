@@ -32,4 +32,5 @@
 - **Modelagem**
   - **Diagramas Estáticos**
     - [Diagrama de Classe Abstrata](pages/fase_02/diagrama_de_classe_abstrata.md)
-
+  - **Iniciativas extras**
+    - [Léxicos](pages/fase_02/lexicos.md)
