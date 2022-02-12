@@ -4,7 +4,7 @@
 
 | Versão | Data       | Modificação          | Autor                        |Revisor|
 | ------ | :--------: | :------------------: | :--------------------------: | :---: |
-| 1.0    | 11/02/2022 | Criação do Documento | Rodrigo Lima e Philipe Serafim |   |
+| 1.0    | 11/02/2022 | Criação do Documento | Rodrigo Lima e Philipe Serafim | Pedro Lima |
 
 <!-- NÃO ESQUECER DE ADICIONAR AO "/_sidebar.md" -->
 
