@@ -1,10 +1,11 @@
-# Nome do Artefato
+# Diagrama de Classe Abstrata
 
 ## Versionamento
 
 | Versão | Data       | Modificação          | Autor                        |Revisor|
 | ------ | :--------: | :------------------: | :--------------------------: | :---: |
 | 1.0    | 11/02/2022 | Criação do Documento | Rodrigo Lima e Philipe Serafim | Pedro Lima |
+| 1.1    | 13/02/2022 | Correção no nome do documento e no Diagrama de Classe Abstrata do Produto | Rodrigo Lima |     |
 
 <!-- NÃO ESQUECER DE ADICIONAR AO "/_sidebar.md" -->
 
@@ -16,10 +17,10 @@ As classes abstratas são as que não permitem realizar qualquer tipo de instân
 Para a criação do diagrama, foi realizada uma reunião onde foi discutida uma estrutura básica para diversas classes que herdarão as caracterisricas das classes abstratas.
 
 ## Diagrama de Classe Abstrata
-### Diagrama da classe abstrata Pessoa
+### Diagrama da Classe Abstrata Pessoa
 ![Diagrama de Classe Abstrata - Pessoa](./../../assets/images/diagrama_de_classe_abstrata_pessoa.png)
 
-### Diagrama da classe abstrata Produto
+### Diagrama da Classe Abstrata Produto
 ![Diagrama de Classe Abstrata - Produto](./../../assets/images/diagrama_de_classe_abstrata_produto.png)
 
 ## Bibliografia
