@@ -2,11 +2,12 @@
 
 ## Versionamento
 
-| Versão |    Data    |     Modificação      |      Autor      |   Revisor    |
-| ------ | :--------: | :------------------: | :-------------: | :----------: |
-| 1.0    | 11/02/2022 | Criação do Documento | Philipe Serafim | Rodrigo Lima |
+| Versão |    Data    |       Modificação        |      Autor      |   Revisor    |
+| ------ | :--------: | :----------------------: | :-------------: | :----------: |
+| 1.0    | 11/02/2022 |   Criação do Documento   | Philipe Serafim | Rodrigo Lima |
+| 1.1    | 12/02/2022 | Correção da bibliografia | Philipe Serafim | Rodrigo Lima |
 
-<!-- NÃO ESQUECER DE ADICIONAR AO "/_sidebar.md" -->
+<!-- NÃO ESQUECER DE ADICIONAR AO "/_sidebar.md" -->  
 
 ## Introdução
 
@@ -49,7 +50,7 @@ Enquanto para a composição tem-se uma relação de dependência, igual acontec
 
 ## Bibliografia
 
-FAKHROUTDINOV, Kirill. UML Class and Object Diagrams Overview. Disponível em: https://www.uml-diagrams.org/class-diagrams-overview.html. Acesso em: 11 de fevereiro de 2022.
-classes de Associação, IBM Docs. Disponível em: https://www.ibm.com/docs/pt-br/rational-soft-arch/9.5?topic=diagrams-association-classes. Acesso em: 11 de fevereiro de 2022.
-SERRANO, Milene. Modelagem - Classe Concreta & Abstrata & Sobrescrita & Sobrecarga. Acesso em: 11 de fevereiro de 2022.
-Wellington. Conceitos – Classes Abstratas: Programação Orientada a Objetos. Disponível em: https://www.devmedia.com.br/conceitos-classes-abstratas-programacao-orientada-a-objetos/18812 . Acesso em: 11 de fevereiro de 2022.
+- Classes de Associação, IBM Docs. Disponível em: https://www.ibm.com/docs/pt-br/rational-soft-arch/9.5?topic=diagrams-association-classes. Acesso em: 11 de fevereiro de 2022.
+- FAKHROUTDINOV, Kirill. UML Class and Object Diagrams Overview. Disponível em: https://www.uml-diagrams.org/class-diagrams-overview.html. Acesso em: 11 de fevereiro de 2022.
+- SERRANO, Milene. Modelagem - Classe Concreta & Abstrata & Sobrescrita & Sobrecarga. Acesso em: 11 de fevereiro de 2022.
+- Wellington. Conceitos – Classes Abstratas: Programação Orientada a Objetos. Disponível em: https://www.devmedia.com.br/conceitos-classes-abstratas-programacao-orientada-a-objetos/18812 . Acesso em: 11 de fevereiro de 2022.
