@@ -1,6 +1,8 @@
 # Chapa Quente
 
-<!-- ## Sobre o projeto -->
+## Sobre o projeto
+
+O projeto Chapa Quente tem como maior intuito promover uma forma de pedir lanches de forma remota, sem que as pessoas que estão com fome tenham que sair de casa. A ideia se aplica, especialmente, por conta do momento que estamos vivendo, onde a proliferação do COVID-19 é assustadora e precisamos ficar em quarentena para não sermos infectados e para não infectar outras pessoas. Logo, tendo em vista esse cenário, para um dia que não se possa cozinhar, que não se queira cozinhar ou apenas que se está com vontade de comer algo diferente o projeto Chapa Quente é a solução.
 
 ## Integrantes do grupo
 

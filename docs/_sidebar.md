@@ -35,4 +35,4 @@
     - [Diagrama de Agregação e Composição](pages/fase_02/diagrama_de_agregacao_composicao.md)
     - [Diagrama de Pacote](pages/fase_02/diagrama_de_pacote.md)
   - **Iniciativas extras**
-    - [Léxicos](pages/fase_02/lexicos.md)
+    - [Léxicos](pages/fase_02/iniciativasExtras/lexicos.md)
