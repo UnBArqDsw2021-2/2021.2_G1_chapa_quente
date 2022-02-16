@@ -5,6 +5,7 @@
 | Versão | Data       | Modificação          | Autor                        |Revisor|
 | ------ | :--------: | :------------------: | :--------------------------: | :---: |
 | 1.0    | 14/02/2022 | Criação do Documento | Giulia Lobo Barros | Murilo Gomes de Souza |
+| 1.1    | 15/02/2022 | Atualização do Documento | Giulia Lobo Barros | Murilo Gomes de Souza |
 
 <!-- NÃO ESQUECER DE ADICIONAR AO "/_sidebar.md" -->
 
@@ -30,6 +31,10 @@ Tendo o método **COCOMO** apresentado, podemos mostrar como será utilizado pel
     * **Modo Orgânico**: projetos simples, relativamente pequenos, com conjuntos de requisitos não tão rígidos, com equipes pequenas e experientes;
     * **Modo Semidestacado**: projetos intermediários (em tamanho e complexidade), com alguns requisitos rígidos e outros não tão rígidos, com níveis mistos de experiência nas equipes;
     * **Modo Embutido**: projetos com conjunto rígido de restrições operacionais, tanto de hardware, quanto de software.
+
+    *E que essas possuem coeficientes, representados pela tabela a seguir:*
+<iframe src="https://docs.google.com/spreadsheets/d/1-C-9O3lvICseggB15Jxzs70cJPvZhf7DRFDAx0HvvOs/edit?usp=sharing" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 * *E, por fim, é necessário avaliar onde o projeto em questão se classifica e quais seriam as implementações e classes de projetos adequadas:*
     * Considerando que o objetivo da equipe é calcular esforço, tempo e custo, a opção de implementação que mais se encaixa é o **COCOMO Intermediário**;
     * E, tendo em vista que o time é formado de pessoas menos experientes e esse tende a ser um projeto de complexidade média, a classe de projeto mais adequada é o **Modo Semidestacado**.
@@ -60,6 +65,40 @@ Por conta da escolha feita, antes de partir para as estimativas, é importante a
     * Cronograma exigido de desenvolvimento.
 
 Essas categorias e direcionadores de custo são de fundamental importância para o início do cálculo das estimativas, pois servirão de base para uma classificação que dará os valores necessários, como será mostrado no próximo tópico.
+
+## Cálculo de Estimativas
+
+Para calcular as estimativas em questão, o primeiro passo é conhecer a escala do **COCOMO Intermediário**, a qual possui valores que, posteriormente, irão definir o *Multiplicador de Esforço*, sendo que, o produto de todos os *Multiplicadores de Esforço* definidos dá origem ao *Fator de Ajustamento de Esforço*, que também faz parte do cálculo.
+
+<iframe src="https://docs.google.com/spreadsheets/d/1lsQ5bkc4ZBrkWmeHm4pupgHVwWO-IIwQN0YuB98Lnug/edit?usp=sharing" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+Tendo essa escala, o grupo pôde fazer uma avaliação do esforço de cada um dos atributos e definir os valores que utilizaríamos nos cálculos. Esses são os que estão destacados na tabela.
+
+### Estimativa de Linhas de Código
+
+
+
+### Estimativa de Esforço
+
+Para calcular o esforço de um projeto de software, o cálculo que deve ser considerado é:
+
+*E = a x S^b x fae*
+
+Sendo as variáveis descritas como:
+
+* **E:** Esforço aplicado (Pessoas/mês);
+* **S:** Número estimado de linhas de código (1 Kloc = 1000 Loc);
+* **a:** Coeficiente fornecido pela tabela de coeficientes das classes do COCOMO;
+* **b:** Coeficiente fornecido pela tabela de coeficientes das classes do COCOMO;
+* **fae:** Fator de Ajuste de Esforço.
+
+Considerando essa fórmula, a escolha do **Modo Semidestacado**, dos valores definidos na escala do **COCOMO Intermediário** e da estimativa de linhas de código feita pela equipe, podemos dizer que:
+
+* 
+
+### Estimativa de Tempo
+
+### Estimativa de Custo
 
 ## Conclusão
 
