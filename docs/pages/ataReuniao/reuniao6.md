@@ -2,9 +2,9 @@
 
 ## Versionamento
 
-| Versão |    Data    |     Modificação      |      Autor      | Revisor |
-| ------ | :--------: | :------------------: | :-------------: | :-----: |
-| 1.0    | 16/02/2022 | Criação do Documento | Philipe Serafim |         |
+| Versão |    Data    |     Modificação      |      Autor      | Revisor  |
+| ------ | :--------: | :------------------: | :-------------: | :-----:  |
+| 1.0    | 16/02/2022 | Criação do Documento | Philipe Serafim | Pedro Lima |
 
 <!-- NAO ESQUECER DE ADICIONAR A REUNIÃO EM QUESTÃO AO DOCUMENTO "/_indiceReuniao.md" -->
 
