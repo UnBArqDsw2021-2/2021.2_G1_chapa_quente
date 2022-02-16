@@ -4,7 +4,8 @@
 
 | Versão | Data       | Modificação          | Autor                        |Revisor|
 | ------ | :--------: | :------------------: | :--------------------------: | :---: |
-| 1.0    | 13/02/2022 | Criação do Documento | Lucas Andrade |  |
+| 1.0    | 13/02/2022 | Criação do Documento | Lucas Andrade | Murilo Gomes de Souza |
+| 1.1    | 16/02/2022 | Alterações no Documento | Lucas Andrade | Murilo Gomes de Souza |
 
 ## Introdução
 
@@ -14,9 +15,9 @@ Esse diagrama se assemelha ao Diagrama de Sequência, podendo inclusive ter sua 
 
 ## Metodologia
 
-Para a construção do Diagrama de Comunicação foi utilizado a ferramenta <a href="lucidchart.com">Lucidchart</a> entre os dias 10 e 13 de fevereiro.
+Para a construção do Diagrama de Comunicação foi utilizado a ferramenta <a href="lucidchart.com">Lucidchart</a> entre os dias 10 e 13 de Fevereiro.
 
-Foram construidos dois diagramas, o primeira representa a realização de pedidos na plataforma e o segundo representa a etapa de entrega do pedido. 
+Foram construidos dois diagramas, o primeira representa a realização de pedidos na plataforma e o segundo representa a etapa de entrega do pedido.
 
 ## Diagramas de Comunicação
 ### Diagrama de Comunicação da Realização de Pedido
