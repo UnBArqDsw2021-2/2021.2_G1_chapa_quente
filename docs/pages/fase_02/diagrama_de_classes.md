@@ -2,9 +2,10 @@
 
 ## Versionamento
 
-| Versão |    Data    |     Modificação      |      Autor      | Revisor |
-| ------ | :--------: | :------------------: | :-------------: | :-----: |
-| 1.0    | 15/02/2022 | Criação do Documento | Philipe Serafim |         |
+| Versão |    Data    |     Modificação      |      Autor      |   Revisor   |
+| ------ | :--------: | :------------------: | :-------------: | :---------: |
+| 1.0    | 15/02/2022 | Criação do Documento | Philipe Serafim |             |
+| 1.1    | 15/02/2022 | Adicionado diagrama  | Philipe Serafim | Giulia Lobo |
 
 <!-- NÃO ESQUECER DE ADICIONAR AO "/_sidebar.md" -->
 
@@ -20,12 +21,13 @@ Para a criação do Diagrama de classes, foi realizado um Brainstorming com 5 pe
 
 ### Diagrama de classes
 
-## Conclusão
+![Diagrama de classe](../../assets/images/diagrama-classes.png)
 
-
+<figcaption><a href="../../assets/images/diagrama-classes.png">Figura 1</a>: Diagrama de classes. Autores: Philipe Serafim, Rodrigo Lima, Giulia Lobo, Pedro Lima e Murilo Gomes</figcaption>
 
 ## Bibliografia
 
 - FAKHROUTDINOV, Kirill. UML Class and Object Diagrams Overview. Disponível em: https://www.uml-diagrams.org/class-diagrams-overview.html. Acesso em: 15 de fevereiro de 2022.
+- O que é um diagrama de classe UML? Disponível em: https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-classe-uml. Acesso em 15/02/2022.
 - SERRANO, Milene. Modelagem - Diagrama de classes. Acesso em: 15 de fevereiro de 2022.
 - TYBEL, Douglas. Orientações básicas na elaboração de um diagrama de classes. Disponível em: https://www.devmedia.com.br/orientacoes-basicas-na-elaboracao-de-um-diagrama-de-classes/37224 . Acesso em: 15 de fevereiro de 2022.
