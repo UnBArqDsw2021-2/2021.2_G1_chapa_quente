@@ -5,7 +5,7 @@
 | Versão | Data       | Modificação          | Autor                        |Revisor|
 | ------ | :--------: | :------------------: | :--------------------------: | :---: |
 | 1.0    | 14/02/2022 | Criação do Documento | Giulia Lobo Barros | Murilo Gomes de Souza |
-| 1.1    | 15/02/2022 | Atualização do Documento | Giulia Lobo Barros | Murilo Gomes de Souza |
+| 1.1    | 15/02/2022 | Atualização do Documento | Giulia Lobo Barros | Pedro Lima |
 
 <!-- NÃO ESQUECER DE ADICIONAR AO "/_sidebar.md" -->
 
@@ -68,15 +68,21 @@ Essas categorias e direcionadores de custo são de fundamental importância para
 
 ## Cálculo de Estimativas
 
-Para calcular as estimativas em questão, o primeiro passo é conhecer a escala do **COCOMO Intermediário**, a qual possui valores que, posteriormente, irão definir o *Multiplicador de Esforço*, sendo que, o produto de todos os *Multiplicadores de Esforço* definidos dá origem ao *Fator de Ajustamento de Esforço*, que também faz parte do cálculo.
+Para calcular as estimativas em questão, o primeiro passo é conhecer a escala do **COCOMO Intermediário**.Essa escala possui valores conhecidos como *Multiplicadores de Esforço*, que, multiplicados dão origem ao *Fator de Ajustamento de Esforço*, que também faz parte do cálculo.
 
 <iframe src="https://docs.google.com/spreadsheets/d/1lsQ5bkc4ZBrkWmeHm4pupgHVwWO-IIwQN0YuB98Lnug/edit?usp=sharing" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-Tendo essa escala, o grupo pôde fazer uma avaliação do esforço de cada um dos atributos e definir os valores que utilizaríamos nos cálculos. Esses são os que estão destacados na tabela.
+Tendo essa escala, o grupo pôde fazer uma avaliação do esforço de cada um dos atributos e definir os valores dos *Multiplicadores de Esforço* que utilizaríamos nos cálculos. Esses são os que estão destacados na tabela.
 
 ### Estimativa de Linhas de Código
 
+Para iniciar o cálculo, o grupo se reuniu e definiu a estimativa de linhas de código que seriam utilizadas no projeto, com o intuito de colaborar para o cálculo da estimativa de esforço, posteriormente.
 
+Sendo assim, a estimativa ficou da seguinte forma:
+
+<iframe src="https://docs.google.com/spreadsheets/d/1lsQ5bkc4ZBrkWmeHm4pupgHVwWO-IIwQN0YuB98Lnug/edit?usp=sharing" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+De acordo com essa tabela e após discussão entre o grupo, podemos definir uma média total de linhas em, aproximandamente, **2128 linhas = 2128 Loc**, ou seja **2,128 KLoc**, que pode ser aproximado para **2 KLoc**.
 
 ### Estimativa de Esforço
 
@@ -92,13 +98,70 @@ Sendo as variáveis descritas como:
 * **b:** Coeficiente fornecido pela tabela de coeficientes das classes do COCOMO;
 * **fae:** Fator de Ajuste de Esforço.
 
-Considerando essa fórmula, a escolha do **Modo Semidestacado**, dos valores definidos na escala do **COCOMO Intermediário** e da estimativa de linhas de código feita pela equipe, podemos dizer que:
+Considerando essa fórmula, a escolha do **Modo Semidestacado**, os valores definidos na escala do **COCOMO Intermediário** e a estimativa de linhas de código feita pela equipe, podemos dizer que:
 
-* 
+* **S** = 2 KLoc;
+* **a** = 3,00;
+* **b** = 1,12;
+* **fae** = 1,40.
+
+Substituindo na fórmula, temos:
+
+*E = 3 x 2^1,12 x 1,40*
+
+*E = 9,13 pessoas/mês*
+
+Aproximando: 
+
+*E = 9 pessoas/mês*
 
 ### Estimativa de Tempo
 
+Já tendo obtido a estimativa de esforço para o projeto, podemos calcular a estimativa de tempo usando a fórmula:
+
+*T = c x E^d*
+
+Sendo as variáveis descritas como:
+
+* **T:** Tempo de desenvolvimento (mês);
+* **E:** Esforço aplicado (Pessoas/mês);
+* **S:** Número estimado de linhas de código (1 Kloc = 1000 Loc);
+* **c:** Coeficiente fornecido pela tabela de coeficientes das classes do COCOMO;
+* **d:** Coeficiente fornecido pela tabela de coeficientes das classes do COCOMO.
+
+Considerando essa fórmula, a escolha do **Modo Semidestacado**, os valores definidos na escala do **COCOMO Intermediário**, a estimativa de linhas de código feita pela equipe e o esforço encontrado, podemos dizer que:
+
+* **E** = 9;
+* **c** = 2,50;
+* **d** = 0,35.
+
+Substituindo na fórmula, temos:
+
+*T = 2,50 x 9^0,35*
+
+*T = 5,39 meses*
+
+Aproximando: 
+
+*T = 5 meses*
+
 ### Estimativa de Custo
+
+Considerando que já foram definidas as estimativas de esforço e de tempo, podemos calcular a estimativa de custo:
+
+*Custo = T(horas[considerando um dia com 8hs]) x custo-aluno x quantidade-alunos*
+
+Sendo que:
+
+* **T (horas)** = 9;
+* **c** = 2,50;
+* **d** = 0,35.
+
+Substituindo na fórmula, temos:
+
+*Custo = 2,50 x 9^0,35*
+
+*Custo = R$ 7280,00*
 
 ## Conclusão
 
