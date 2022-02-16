@@ -5,7 +5,7 @@
 | Versão | Data       | Modificação          | Autor                        |Revisor|
 | ------ | :--------: | :------------------: | :--------------------------: | :---: |
 | 1.0    | 11/02/2022 | Criação do Documento | Rodrigo Lima e Philipe Serafim | Pedro Lima |
-| 1.1    | 13/02/2022 | Correção no nome do documento e no Diagrama de Classe Abstrata do Produto | Rodrigo Lima |     |
+| 1.1    | 13/02/2022 | Correção no nome do documento e no Diagrama de Classe Abstrata do Produto | Rodrigo Lima | Guilherme Silva |
 
 <!-- NÃO ESQUECER DE ADICIONAR AO "/_sidebar.md" -->
 
