@@ -13,6 +13,6 @@ Deve-se criar o documento [...] a fim de [...] .
 
 ## Tarefas
 
-- [] Tarefa 1
-- [] Tarefa 2
-- [] Tarefa 3
+- [ ] Tarefa 1
+- [ ] Tarefa 2
+- [ ] Tarefa 3
