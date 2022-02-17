@@ -23,13 +23,13 @@ A agregação representa uma associação em que o todo é relacionado com suas 
 
 ![Agregação Pedido-Cupom](../../assets/images/agregacao-pedido-cupom.png)
 
-<figcaption>Figura 1 - Agregação Pedido-Cupom. Autor: Philipe Serafim</figcaption>
+<figcaption style="text-align: center">Figura 1 - Agregação Pedido-Cupom. Autor: Philipe Serafim</figcaption>
 
 #### Combo-Produtos
 
 ![Agregação Pedido-Cupom](../../assets/images/agregacao-combo-produtos.png)
 
-<figcaption>Figura 2 - Agregação Combo-Produtos. Autor: Philipe Serafim</figcaption>
+<figcaption style="text-align: center">Figura 2 - Agregação Combo-Produtos. Autor: Philipe Serafim</figcaption>
 
 ### Diagrama de Composição
 
@@ -37,11 +37,11 @@ A composição representa uma associação em que uma classe depende da outra pa
 
 ![Composição Pedido](../../assets/images/composicao-pedido.png)
 
-<figcaption>Figura 3 - Composição de Pedido. Autor: Philipe Serafim</figcaption>
+<figcaption style="text-align: center">Figura 3 - Composição de Pedido. Autor: Philipe Serafim</figcaption>
 
 ![Composição Sanduíche](../../assets/images/composicao-sanduiche.png)
 
-<figcaption>Figura 4 - Composição de Sanduíche. Autor: Philipe Serafim</figcaption>
+<figcaption style="text-align: center">Figura 4 - Composição de Sanduíche. Autor: Philipe Serafim</figcaption>
 
 ## Conclusão
 

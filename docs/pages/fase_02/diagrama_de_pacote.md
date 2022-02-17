@@ -18,13 +18,19 @@ O diagrama foi desenvolvido pensando nos frameworks ReactJs para a parte de fron
 
 ![Diagrama Geral](./../../assets/images/view-projeto.png)
 
+<figcaption style="text-align: center">Figura 1 - Diagrama Geral. Autor: Pedro Lima</figcaption>
+
 ## Diagrama Front-End
 
 ![Diagrama Front](./../../assets/images/front-end.png)
 
+<figcaption style="text-align: center">Figura 2 - Diagrama Front End. Autor: Pedro Lima</figcaption>
+
 ## Diagrama Back-End
 
 ![Diagrama Back](./../../assets/images/back-end.png)
+
+<figcaption style="text-align: center">Figura 3 - Diagrama Back End. Autor: Pedro Lima</figcaption>
 
 ## Bibliografia
 
