@@ -4,7 +4,7 @@
 
 | Versão | Data       | Modificação          | Autor                        |Revisor|
 | ------ | :--------: | :------------------: | :--------------------------: | :---: |
-| 1.0    | 15/02/2022 | Criação do Documento |  Dafne Moretti Moreira |       |
+| 1.0    | 15/02/2022 | Criação do Documento |  Dafne Moretti Moreira |  	Murilo Gomes de Souza e     |
 
 ## Introdução
 
@@ -14,19 +14,30 @@ O Backlog do Produto apresenta uma listagem de itens que devem estar no produto 
 
 ## Metodologia
 
-Para a construção do Backlog do Produto, dois integrantes do time fizeram um backlog individual e realizaram um pareamento para compreender o que podia ser acrescentado no backlog final, refinando e analisando os épicos, features e histórias. 
+Para a construção do Backlog do Produto, dois integrantes do time fizeram um [backlog individual 1](../pages/fase_02/modelagem_agil/backlog_produto?id=backlog-individual-1) e o [backlog individual 2](../pages/fase_02/modelagem_agil/backlog_produto?id=backlog-individual-2) e realizaram um pareamento para compreender o que podia ser acrescentado no backlog final, refinando e analisando os épicos, features e histórias. Após isso, a primeira versão do backlog foi validada em grupo por meio de leitura do backlog por todos os membros da equipe durante a reunião de planning e retrospectiva.
 
-O Backlog do Produto contém todas as histórias que podem ser desenvolvidas para a aplicação pensada, mesmo que não estejam dentro do escopo do projeto da disciplina de Arquitetura e Desenho de Software. Para priorizar as histórias que devem ser feitas com maior urgência, foi utilizada a priorização moscow anteriormente adotada pelo grupo. 
+O Backlog do Produto contém todas as histórias que podem ser desenvolvidas para a aplicação pensada, mesmo que não estejam dentro do escopo do projeto da disciplina de Arquitetura e Desenho de Software. Para priorizar as histórias que devem ser feitas com maior urgência, foi utilizada a [priorização moscow](../pages/fase_01/priorizacao_moscow?id=prioriza%c3%a7%c3%a3o-moscow) anteriormente adotada pelo grupo. 
 
 O Backlog do Produto não será um backlog estático, podendo sofrer mudanças ao longo do projeto à medida que a equipe perceber outras histórias de usuário necessárias, priorizações que devem ser revistas ou qualquer outro ponto a ser alterado.
 
-A equipe optou por utilizar planilha a fim de facilitar as possíveis alterações que podem ocorrer no backlog.
+A equipe optou por utilizar o [formato de planilha](../pages/fase_02/modelagem_agil/backlog_produto?id=backlog-visualiza%c3%a7%c3%a3o-1) para abordar as pontuações das histórias de usuário, que contam como extras, uma vez que não constavam na granularidade. A [visualização em tabela](../pages/fase_02/modelagem_agil/backlog_produto?id=backlog-visualiza%c3%a7%c3%a3o-2) é utilizada para facilitar a rastreabilidade entre os artefatos e requisitos
 
-## Backlog
+
+## Backlog individual 1
+
+
+<iframe height="800" width="800"src="https://docs.google.com/spreadsheets/d/1hVKjUyFDpF8LmiaT0IPrw3PWbKq9QN5W8iDpZcqpGZw/edit?usp=sharing"></iframe>                     
+
+
+## Backlog individual 2
+
+<iframe height="800" width="800"src="https://docs.google.com/spreadsheets/d/1AtSHM0qPKe1heWpzjNUDmKfs6pE7uSifodcD49UahX8/edit?usp=sharing"></iframe>                     
+
+## Backlog - Visualização 1
 
 <iframe height="800" width="800"src="https://docs.google.com/spreadsheets/d/1bCjiPfFkxIk5OvekkmqGmE43g8Qi8PkDHuuh8aueKm0/edit?usp=sharing"></iframe>                                                      
 
-## Backlog com rastreabilidade
+## Backlog - Visualização 2
 
 |        Épico          |       Feature  |    História de Usuário             |             Priorização  |    Requisito relacionado         |
 | :-------------: | :-----------------: | :-----------------: |  :------------: | :----------: |                                                                               

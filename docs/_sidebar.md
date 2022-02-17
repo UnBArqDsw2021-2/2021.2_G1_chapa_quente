@@ -26,10 +26,10 @@
     - [Atas](_indiceReuniao.md)
     - [Política de repositório](pages/fase_01/iniciativasExtras/politica_repositorio.md)
     - [First Things First](pages/fase_01/iniciativasExtras/first_things_first.md)
+  - **Apresentações**
+    - [Vídeos](pages/fase_01/apresentacoes_base.md)
 - **Modelagem**
     - **Modelagem ágil**
     - [Épicos](pages/fase_02/modelagem_agil/epicos.md)
     - [Histórias de usuário](pages/fase_02/modelagem_agil/historias_usuario.md)
     - [Backlog do produto](pages/fase_02/modelagem_agil/backlog_produto.md)
-  - **Apresentações**
-    - [Vídeos](pages/fase_01/apresentacoes_base.md)
