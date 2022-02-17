@@ -3,7 +3,7 @@
 ## Versionamento
 | Versão |    Data    |     Modificação      |   Autor   |     Revisor     |
 | ------ | :--------: | :------------------: | :--------:| :-------------: |
-| 1.0    | 15/02/2022 | Criação do Documento | Guilherme Fernandes |                 |
+| 1.0    | 15/02/2022 | Criação do Documento | Guilherme Fernandes | Liverson Paulo |
 
 ## Introdução
 
