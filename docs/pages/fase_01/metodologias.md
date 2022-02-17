@@ -21,7 +21,7 @@ Este mapa mental esboça as principais metodologias e ferramentas aplicadas no p
 
 ![Mapa Mental](../../assets/images/gestaoPlanejamento.png)
 
-<figcaption>Figura 1: Mapa mental de metologias</figcaption>
+<figcaption style="text-align: center">Figura 1: Mapa mental de metologias</figcaption>
 
 ### 1. **Scrum**
 

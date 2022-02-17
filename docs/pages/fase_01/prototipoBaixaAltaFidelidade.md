@@ -22,14 +22,14 @@ O protótipo de alta-fidelidade possui o objetivo de ilustrar uma representaçã
 Para a confecção do protótipo de baixa-fidelidade foi utilizado o inVision como ferramenta de prototipagem para o grupo durante a Design Sprint. O grupo optou pelo inVision pelo fato da ferramenta simular e fornecer ferramentas que simulam situações de papel e caneta. Isso nos levou a chegar bem próximo da vivencia de como seria fazer esse processo de forma presencial com todos os integrantes.
 
 <iframe width="100%" height="600px" src="https://chapa-quente.invisionapp.com/console/share/2F8QHEYXJPB"></iframe>
-<figcaption>Protótipo Baixa-Fidelidade. Autores: Liverson Paulo, Pedro Lima e Philipe Serafim</figcaption>
+<figcaption style="text-align: center">Protótipo Baixa-Fidelidade. Autores: Liverson Paulo, Pedro Lima e Philipe Serafim</figcaption>
 
 ### Protótipo de Alta-Fidelidade
 
 Para a confecção do protótipo de alta-fidelidade foi utilizado a ferramenta Figma. A escolha foi baseada no fato da ferramenta possibilitar uma confecção mais elaborada do protótipo, com toda a estilização que foi pensada durante o Design Sprint. Possibilitando um vislumbre de como espera-se que a solução se pareça.
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FbqqONaEFmeFFUBjrf9fUXt%2FChapa-Quente%3Fnode-id%3D15%253A232%26scaling%3Dscale-down-width%26page-id%3D9%253A2%26starting-point-node-id%3D15%253A232" allowfullscreen></iframe>
-<figcaption>Protótipo Alta-Fidelidade. Autores: Liverson Paulo, Pedro Lima e Philipe Serafim</figcaption>
+<figcaption style="text-align: center">Protótipo Alta-Fidelidade. Autores: Liverson Paulo, Pedro Lima e Philipe Serafim</figcaption>
 
 ## Conclusão
 

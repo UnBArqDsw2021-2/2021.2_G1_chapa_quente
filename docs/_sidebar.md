@@ -35,7 +35,8 @@
     - [Diagrama de Classe Abstrata](pages/fase_02/diagrama_de_classe_abstrata.md)
     - [Diagrama de Agregação e Composição](pages/fase_02/diagrama_de_agregacao_composicao.md)
     - [Diagrama de Pacote](pages/fase_02/diagrama_de_pacote.md)
-  - **Diagramas Dinâmicos**
+  - **Diagramas Dinâmico**
+    - [Diagrama de Atividades](pages/fase_02/diagrama_de_atividade.md)
     - [Diagrama de Comunicação](pages/fase_02/diagrama_comunicacao.md)
   - **Iniciativas extras**
     - [Léxicos](pages/fase_02/lexicos.md)
