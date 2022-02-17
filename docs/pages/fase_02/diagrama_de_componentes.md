@@ -4,13 +4,14 @@
 
 | Versão |    Data    |     Modificação      | Autor | Revisor |
 | ------ | :--------: | :------------------: | :---: | :-----: |
-| 1.0    | 16/02/2022 | Criação do Documento | João Pedro Alves da Silva Chaves |         |
-| 1.1    | 16/02/2022 | Adição de introdução e tabela com legenda | Dafne Moretti Moreira |         |
-| 1.2    | 17/02/2022 | Adição da metodologia e item da legenda | João Pedro Alves da Silva Chaves |   |
+| 1.0    | 16/02/2022 | Criação do Documento | João Pedro Alves da Silva Chaves |  Guilherme Daniel Fernandes da Silva |
+| 1.1    | 16/02/2022 | Adição de introdução e tabela com legenda | Dafne Moretti Moreira | Guilherme Daniel Fernandes da Silva |
+| 1.2    | 17/02/2022 | Adição da metodologia e item da legenda | João Pedro Alves da Silva Chaves |Guilherme Daniel Fernandes da Silva |
+| 1.3 | 17/02/2022 | Correções ortográficas nos textos solicitadas pelo revisor | João Pedro Alves da Silva Chaves | Guilherme Daniel Fernandes da Silva |
 
 ## Introdução
 
-O diagrama de componentes é um diagrama estático cuja função principal é apresentar os componentes (módulos mais “gerais” do sistema) e suas relações com os demais subsistemas e componentes. A utilização do diagrama de componentes favorece a visualização geral do sistema e a percepção das partes que podem ser reutilizadas. 
+O diagrama de componentes é um diagrama estático cuja função principal é apresentar os componentes (módulos mais gerais do sistema) e suas relações com os demais subsistemas e componentes. A utilização do diagrama de componentes favorece a visualização geral do sistema e a percepção das partes que podem ser reutilizadas. 
 
 É criado em linguagem de modelagem unificada (UML) e apresenta dependências, interfaces, portas e os próprios componentes. A ideia é que não fique um diagrama muito específico para que seja de fácil entendimento e identificação dos principais aspectos da aplicação, no entanto, existem diagramas com diferentes níveis de granularidade.
 
@@ -25,7 +26,7 @@ O diagrama de componentes é um diagrama estático cuja função principal é ap
 
 ## Metodologia
 
-O desenvolvimento do diagrama de componentes foi feito com base a documentação do **Chapa Quente** e chegamos nos seguintes subsistemas: Autenticação, Lanchonete, Pedido, Cardápio. A plataforma utilizada para o desenvolvimento do diagrama foi o [draw.io](https://app.diagrams.net), pois é uma ferramenta gratuita e com os elementos necessários para a tarefa desejada.
+O desenvolvimento do diagrama de componentes foi feito com base na documentação do **Chapa Quente** e chegamos nos seguintes subsistemas: Autenticação, Lanchonete, Pedido, Cardápio. A plataforma utilizada para o desenvolvimento do diagrama foi o [draw.io](https://app.diagrams.net), pois é uma ferramenta gratuita e dispõe dos elementos necessários para a tarefa desejada.
 
 ![Diagrama de Componentes](../../assets/images/diagrama_de_componentes.png)
 <figcaption>Figura 01. Imagem que contém o diagrama de componentes da aplicação.</figcaption>
