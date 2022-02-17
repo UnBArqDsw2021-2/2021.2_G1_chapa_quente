@@ -19,6 +19,7 @@
         - [Priorização Moscow](pages/fase_01/priorizacao_moscow.md)
       - Modelagem de Requisitos
         - [Diagrama de Casos de Uso](pages/fase_01/casos_de_uso.md)
+        - [NFR](pages/fase_01/nfr.md)
   - **Processos, Metodologias e Abordagens**
     - [Modelagem BPMN](pages/fase_01/modelagem_bpmn.md)
     - [Metodologias](pages/fase_01/metodologias.md)
