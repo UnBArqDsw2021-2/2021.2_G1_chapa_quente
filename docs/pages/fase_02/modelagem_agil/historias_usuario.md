@@ -20,8 +20,6 @@ As histórias foram separadas por ID para facilitar a rastreabilidade. Contém a
 
 ### - *EP01*
 
-F01
-
 #### US01
 
 **ID:** US01
@@ -32,8 +30,6 @@ F01
 * Eu quero poder cadastrar meu nome completo, nome de usuário cpf, email, senha, número de celular, endereço e cep
 * Eu quero poder cadastrar meu cartão de crédito usando o numero do cartão, numero de segurança, nome do responsável pelo cartão, nome que consta no cartão, cpf do responsável e bandeira do cartão 
 * Eu quero poder escolher se sou "cliente", "funcionário", "entregador" ou "cozinheiro"
-
-F02
 
 #### US02
 
@@ -46,8 +42,6 @@ F02
 - Eu quero poder fazer pedidos após fazer o login do aplicativo
 - Eu quero poder clicar em acessar assim que entrar e ir direto para o cardápio
 - Eu quero poder encerrar minha sessão no aplicativo utilizando um botão "Sair"
-
-F03
 
 #### US03
 
@@ -70,8 +64,6 @@ F03
 **Critérios de aceitação**:
 - Eu quero poder acessar as informaçãoes do meu perfil, encontrar um ícone de lápis e trocar cada dado que estiver desatualizado
 
-F04
-
 #### US05
 
 **ID:** US05
@@ -81,8 +73,6 @@ F04
 **Critérios de aceitação**:
 - Eu quero poder ir no meu perfil e encontrar um botão excluir conta para não utilizá-la mais
 - Eu quero ser avisado de que eu estou excluindo a minha conta para não excluir por engano
-
-F05
 
 #### US06
 
