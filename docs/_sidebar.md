@@ -38,3 +38,4 @@
     - [Diagrama de Comunicação](pages/fase_02/diagrama_comunicacao.md)
   - **Iniciativas extras**
     - [Léxicos](pages/fase_02/lexicos.md)
+    - [Gerenciamento de Riscos](pages/fase_02/gerenciamento_de_riscos.md)
