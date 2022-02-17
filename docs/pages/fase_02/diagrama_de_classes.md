@@ -2,10 +2,10 @@
 
 ## Versionamento
 
-| Versão |    Data    |     Modificação      |      Autor      |   Revisor   |
-| ------ | :--------: | :------------------: | :-------------: | :---------: |
-| 1.0    | 15/02/2022 | Criação do Documento | Philipe Serafim |             |
-| 1.1    | 15/02/2022 | Adicionado diagrama  | Philipe Serafim | Giulia Lobo |
+| Versão |    Data    |     Modificação      |      Autor      |                             Revisor                              |
+| ------ | :--------: | :------------------: | :-------------: | :--------------------------------------------------------------: |
+| 1.0    | 15/02/2022 | Criação do Documento | Philipe Serafim | Dafne Moretti, Giulia Lobo, Guilherme Fernandes e Liverson Paulo |
+| 1.1    | 15/02/2022 | Adicionado diagrama  | Philipe Serafim | Dafne Moretti, Giulia Lobo, Guilherme Fernandes e Liverson Paulo |
 
 <!-- NÃO ESQUECER DE ADICIONAR AO "/_sidebar.md" -->
 
