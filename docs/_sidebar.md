@@ -38,3 +38,4 @@
     - [Diagrama de Comunicação](pages/fase_02/diagrama_comunicacao.md)
   - **Iniciativas extras**
     - [Léxicos](pages/fase_02/iniciativasExtras/lexicos.md)
+    - [Estimativas](pages/fase_02/iniciativasExtras/estimativas.md)

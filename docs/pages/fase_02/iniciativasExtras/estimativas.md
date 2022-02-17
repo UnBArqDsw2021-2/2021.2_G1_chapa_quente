@@ -2,10 +2,10 @@
 
 ## Versionamento
 
-| Versão | Data       | Modificação          | Autor                        |Revisor|
-| ------ | :--------: | :------------------: | :--------------------------: | :---: |
-| 1.0    | 14/02/2022 | Criação do Documento | Giulia Lobo Barros | Murilo Gomes de Souza |
-| 1.1    | 15/02/2022 | Atualização do Documento | Giulia Lobo Barros | Pedro Lima |
+| Versão |    Data    |       Modificação        |       Autor        |        Revisor        |
+| ------ | :--------: | :----------------------: | :----------------: | :-------------------: |
+| 1.0    | 14/02/2022 |   Criação do Documento   | Giulia Lobo Barros | Murilo Gomes de Souza |
+| 1.1    | 15/02/2022 | Atualização do Documento | Giulia Lobo Barros |      Pedro Lima       |
 
 <!-- NÃO ESQUECER DE ADICIONAR AO "/_sidebar.md" -->
 
@@ -147,7 +147,17 @@ Aproximando:
 
 ### Estimativa de Custo
 
-Considerando que já foram definidas as estimativas de esforço e de tempo, podemos calcular a estimativa de custo:
+A estimativa de custo deve levar em conta os custo de infraestrutura que o time vai ter para o desenvolvimento do projeto. Levando em conta as ferramentas que são necessárias ao cenário do projeto temos os seguintes parâmetros:
+
+* **Notebook**: O requisitos presentes no *Notebook Lenovo* são os ideais para o desenvolvimento do projeto.
+* **Internet**: Após um busca de mercado a *Internet Banda larga* da Vivo foi a que mais se adequou aos membros do grupo.
+  
+| Ferramenta | Quantidade | Valor unitário | Valor mensal | Tempo de uso necessário (meses) |  Total   |
+| ---------- | :--------: | :------------: | :----------: | :-----------------------------: | :------: |
+| Notebook   |     10     |    3.155,41    |      -       |                -                | 31.554,1 |
+| Internet   |     10     |     112,00     |    99.99     |                5                | 6.119,5  |
+
+Considerando que já foram definidas as estimativas de esforço e de tempo, podemos calcular a estimativa do custo dão mão de obra:
 
 *Custo = T(horas[considerando um dia com 8hs]) x custo-aluno x quantidade-alunos*
 
@@ -163,10 +173,29 @@ Substituindo na fórmula, temos:
 
 *Custo = R$ 7280,00*
 
+Logo temos:
+
+|  Recursos   |  Valor   |
+| :---------: | :------: |
+|  Notebook   | 31.554,1 |
+|  Internet   | 6.119,5  |
+| Mão de obra | 7.280,00 |
+|  **Total**  | 44.953,6 |
+
 ## Conclusão
 
-Com a finalização desse documento pode-se obter uma vasta lista de símbolos e palavras pertencentes ao contexto da aplicação que está sendo desenvolvida. Este documento pode servir para auxiliar o entendimento de membros da equipe e até mesmo usuários sobre a linguagem utilizada dentro do site Chapa Quente.
+Com a estimativa de custo do projeto feitas é possível ter mais controle dos recursos que estão ao alcance do grupo e assim ter certa prudencia e maturidade no decorrer do desenvolvimento. Isso acaba por tornar o cenário do projeto mais proximo da realidade do mercado atual.
 
 ## Bibliografia
 
 SERRANO, Milene; Arquitetura e Desenho de Software - AULA - PROJETO E DESENHO DE SOFTWARE; Disponível em: https://aprender3.unb.br/pluginfile.php/1558828/mod_label/intro/Arquitetura%20e%20Desenho%20de%20software%20-%20Aula%20Projeto-DSW%20-%20Profa.%20Milene.pdf;
+
+MELLER, Maristela Corrêa. Modelos Para Estimar Custos De Software: Estudo Comparativo Com Softwares De Pequeno Porte. 2002. Disponível em: https://repositorio.ufsc.br/xmlui/handle/123456789/82351 Acessado em 16 de fevereiro de 2022.
+
+Estimativas de Custos e Esforços. Disponível em: https://unbarqdsw2021-1.github.io/2021.1_G5_ProjetoDonner/pages/base/estimativa_de_custos_esforços. Acessado em 15 de fevereiro de 2022.
+
+ESTIMATIVAS DE CUSTO. Disponível em: https://2019-2-arquitetura-desenho.github.io/wiki/dinamica_seminario_I/estimativas_de_custo. Acessado em 15 de fevereiro de 2022.
+
+Notebook Lenovo, Submarino. Disponível em: https://www.submarino.com.br/produto/3171318128?epar=zoom. Acessado em 15 de fevereiro de 2022.
+
+Internet Banda larga, Vivo. Disponível em: https://www.vivo.com.br/para-voce/produtos-e-servicos/para-casa/internet. Acessado em 15 de fevereiro de 2022.
