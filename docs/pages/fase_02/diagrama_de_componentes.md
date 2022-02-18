@@ -1,4 +1,4 @@
-# Nome do Artefato
+# Diagrama de Componentes
 
 ## Versionamento
 
@@ -7,7 +7,8 @@
 | 1.0    | 16/02/2022 | Criação do Documento | João Pedro Alves da Silva Chaves |  Guilherme Daniel Fernandes da Silva |
 | 1.1    | 16/02/2022 | Adição de introdução e tabela com legenda | Dafne Moretti Moreira | Guilherme Daniel Fernandes da Silva |
 | 1.2    | 17/02/2022 | Adição da metodologia e item da legenda | João Pedro Alves da Silva Chaves |Guilherme Daniel Fernandes da Silva |
-| 1.3 | 17/02/2022 | Correções ortográficas nos textos solicitadas pelo revisor | João Pedro Alves da Silva Chaves | Guilherme Daniel Fernandes da Silva |
+| 1.3 | 17/02/2022 | Correções ortográficas nos textos solicitadas pelo revisor | João Pedro Alves da Silva Chaves | Guilherme Daniel Fernandes da Silva, Rodrigo Tiago Costa Lima, Lucas da Cunha Andrade e Pedro Lima |
+| 1.4 | 17/02/2022 | Correções nas legendas das figuras | João Pedro Alves da Silva Chaves | Guilherme Daniel Fernandes da Silva, Rodrigo Tiago Costa Lima, Lucas da Cunha Andrade e Pedro Lima |
 
 ## Introdução
 
@@ -19,29 +20,31 @@ O diagrama de componentes é um diagrama estático cuja função principal é ap
 
 | Símbolo |  Nome  |  Descrição |
 | ------ | ---------- | ------------ |
-| ![Componente](./../../assets/images/componente.png ":size=200") </br> Fonte: Autoria própria  | Componente | Ilustra os componentes do sistema |
-| ![Dependência](./../../assets/images/dependencia.png ":size=200") </br> Fonte: Autoria própria    | Dependência | Representa a relação de dependência entre partes do sistema. |
-| ![Porta](./../../assets/images/porta.png ":size=200") </br> Fonte: Autoria própria   | Porta |  Simboliza a comunicação entre o ambiente externo e os componentes. |
-| ![Interface](./../../assets/images/interface.png ":size=200") </br> Fonte: Autoria própria   | Interface |  Simboliza a interface necessária para o relacionamento entre os componentes. |
+| ![Componente](./../../assets/images/componente.png ":size=200") </br> | Componente | Ilustra os componentes do sistema |
+| ![Dependência](./../../assets/images/dependencia.png ":size=200") </br>   | Dependência | Representa a relação de dependência entre partes do sistema. |
+| ![Porta](./../../assets/images/porta.png ":size=200") </br>  | Porta |  Simboliza a comunicação entre o ambiente externo e os componentes. |
+| ![Interface](./../../assets/images/interface.png ":size=200") </br>  | Interface |  Simboliza a interface necessária para o relacionamento entre os componentes. |
+
+<figcaption style="text-align: center">Tabela Legenda dos Componentes. Autores: João Pedro</figcaption>
 
 ## Metodologia
 
 O desenvolvimento do diagrama de componentes foi feito com base na documentação do **Chapa Quente** e chegamos nos seguintes subsistemas: Autenticação, Lanchonete, Pedido, Cardápio. A plataforma utilizada para o desenvolvimento do diagrama foi o [draw.io](https://app.diagrams.net), pois é uma ferramenta gratuita e dispõe dos elementos necessários para a tarefa desejada.
 
 ![Diagrama de Componentes](../../assets/images/diagrama_de_componentes.png)
-<figcaption>Figura 01. Imagem que contém o diagrama de componentes da aplicação.</figcaption>
+<figcaption style="text-align: center"><a href="../../assets/images/diagrama_de_componentes.png">Figura 01</a>: Diagrama de Componentes. Autores: João Pedro Alves da Silva Chaves e Dafne Moretti Moreira</figcaption>
 
 ![Subsistema Autenticação](../../assets/images/subsistema_autenticacao.png)
-<figcaption>Figura 02. Imagem que contém o subsistema Autenticação do diagrama de componentes da aplicação.</figcaption>
+<figcaption style="text-align: center"><a href="../../assets/images/subsistema_autenticacao.png">Figura 02</a>: Subsistema Autenticação do diagrama de componentes. Autores: João Pedro Alves da Silva Chaves e Dafne Moretti Moreira</figcaption>
 
 ![Subsistema Lanchonete](../../assets/images/subsistema_lanchonete.png)
-<figcaption>Figura 03. Imagem que contém o subsistema Lanchonete do diagrama de componentes da aplicação.</figcaption>
+<figcaption style="text-align: center"><a href="../../assets/images/subsistema_lanchonete.png">Figura 03</a>: Subsistema Lanchonete do diagrama de componentes. Autores: João Pedro Alves da Silva Chaves e Dafne Moretti Moreira</figcaption>
 
 ![Subsistema Pedido](../../assets/images/subsistema_pedido.png)
-<figcaption>Figura 04. Imagem que contém o subsistema Pedido do diagrama de componentes da aplicação.</figcaption>
+<figcaption style="text-align: center"><a href="../../assets/images/subsistema_pedido.png">Figura 04</a>: Subsistema Pedido do diagrama de componentes. Autores: João Pedro Alves da Silva Chaves e Dafne Moretti Moreira</figcaption>
 
 ![Subsistema Cardápio](../../assets/images/subsistema_cardapio.png)
-<figcaption>Figura 05. Imagem que contém o subsistema Cardápio do diagrama de componentes da aplicação.</figcaption>
+<figcaption style="text-align: center"><a href="../../assets/images/subsistema_pedido.png">Figura 05</a>: Subsistema Cardápio do diagrama de componentes. Autores: João Pedro Alves da Silva Chaves e Dafne Moretti Moreira</figcaption>
 
 ## Bibliografia
 
