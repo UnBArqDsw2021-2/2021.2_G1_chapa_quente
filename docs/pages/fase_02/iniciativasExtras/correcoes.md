@@ -4,7 +4,7 @@
 
 | Versão | Data       | Modificação          | Autor                        |Revisor|
 | ------ | :--------: | :------------------: | :--------------------------: | :---: |
-| 1.0    | 18/02/2022 | Criação do Documento | Dafne Moretti Moreira |  |
+| 1.0    | 18/02/2022 | Criação do Documento | Dafne Moretti Moreira | Murilo Gomes de Souza            |
 
 
 ## Introdução
