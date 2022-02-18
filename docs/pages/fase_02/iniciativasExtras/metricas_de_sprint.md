@@ -1,5 +1,11 @@
 # Métricas de Sprint
 
+## Versionamento
+
+| Versão |    Data    |       Modificação        |       Autor        |        Revisor        |
+| ------ | :--------: | :----------------------: | :----------------: | :-------------------: |
+| 1.0    | 14/02/2022 |   Criação do Documento   | Liverson Paulo | Murilo Gomes de Souza |
+
 ## Introdução
 
 As métricas são utilizadas para coletar e analisar dados relevantes para o desenvolvimento do projeto, ao mensurar os aspectos do desenvolvimento, as métricas ajudam a perceber como está a evolução da equipe ao longo das Sprints.
