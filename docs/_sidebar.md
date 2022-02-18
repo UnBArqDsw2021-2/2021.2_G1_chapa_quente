@@ -19,6 +19,7 @@
         - [Priorização Moscow](pages/fase_01/priorizacao_moscow.md)
       - Modelagem de Requisitos
         - [Diagrama de Casos de Uso](pages/fase_01/casos_de_uso.md)
+        - [NFR](pages/fase_01/nfr.md)
   - **Processos, Metodologias e Abordagens**
     - [Modelagem BPMN](pages/fase_01/modelagem_bpmn.md)
     - [Metodologias](pages/fase_01/metodologias.md)
@@ -28,8 +29,25 @@
     - [First Things First](pages/fase_01/iniciativasExtras/first_things_first.md)
   - **Apresentações**
     - [Vídeos](pages/fase_01/apresentacoes_base.md)
+
 - **Modelagem**
-    - **Modelagem ágil**
+  - **Modelagem ágil**
     - [Épicos](pages/fase_02/modelagem_agil/epicos.md)
     - [Histórias de usuário](pages/fase_02/modelagem_agil/historias_usuario.md)
     - [Backlog do produto](pages/fase_02/modelagem_agil/backlog_produto.md)
+  - **Diagramas Estáticos**
+    - [Diagrama de Classes](pages/fase_02/diagrama_de_classes.md)
+    - [Diagrama de Classe Abstrata](pages/fase_02/diagrama_de_classe_abstrata.md)
+    - [Diagrama de Agregação e Composição](pages/fase_02/diagrama_de_agregacao_composicao.md)
+    - [Diagrama de Pacote](pages/fase_02/diagrama_de_pacote.md)
+    - [Diagrama de Sequência](pages/fase_02/diagrama_de_sequencia.md)
+    - [Diagrama de Componentes](pages/fase_02/diagrama_de_componentes.md)
+  - **Diagramas Dinâmicos**
+    - [Diagrama de Atividades](pages/fase_02/diagrama_de_atividade.md)
+    - [Diagrama de Sequência](pages/fase_02/diagrama_de_sequencia.md)
+    - [Diagrama de Comunicação](pages/fase_02/diagrama_comunicacao.md)
+    - [Diagrama de Estados](pages/fase_02/diagrama_de_estados.md)
+  - **Iniciativas extras**
+    - [Atas](_indiceReuniao.md)
+    - [Léxicos](pages/fase_02/lexicos.md)
+    - [Gerenciamento de Riscos](pages/fase_02/gerenciamento_de_riscos.md)
