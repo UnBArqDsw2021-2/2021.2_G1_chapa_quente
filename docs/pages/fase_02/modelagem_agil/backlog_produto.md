@@ -4,7 +4,7 @@
 
 | Versão | Data       | Modificação          | Autor                        |Revisor|
 | ------ | :--------: | :------------------: | :--------------------------: | :---: |
-| 1.0    | 15/02/2022 | Criação do Documento |  Dafne Moretti Moreira |  	Murilo Gomes de Souza e     |
+| 1.0    | 15/02/2022 | Criação do Documento |  Dafne Moretti Moreira |  	Murilo Gomes de Souza,João Pedro Alves da Silva Chaves, Guilherme Daniel Fernandes da Silva e Pedro Henrique de Lima Malaquias |
 
 ## Introdução
 
@@ -14,7 +14,7 @@ O Backlog do Produto apresenta uma listagem de itens que devem estar no produto 
 
 ## Metodologia
 
-Para a construção do Backlog do Produto, dois integrantes do time fizeram um [backlog individual 1](../pages/fase_02/modelagem_agil/backlog_produto?id=backlog-individual-1) e o [backlog individual 2](../pages/fase_02/modelagem_agil/backlog_produto?id=backlog-individual-2) e realizaram um pareamento para compreender o que podia ser acrescentado no backlog final, refinando e analisando os épicos, features e histórias. Após isso, a primeira versão do backlog foi validada em grupo por meio de leitura do backlog por todos os membros da equipe durante a reunião de planning e retrospectiva.
+Para a construção do Backlog do Produto, dois integrantes do time (Lucas Andrade e Dafne Moretti) fizeram um [backlog individual 1](../pages/fase_02/modelagem_agil/backlog_produto?id=backlog-individual-1) e o [backlog individual 2](../pages/fase_02/modelagem_agil/backlog_produto?id=backlog-individual-2) e realizaram um pareamento para compreender o que podia ser acrescentado no backlog final, refinando e analisando os épicos, features e histórias. Após isso, a primeira versão do backlog foi validada em grupo por meio de leitura do backlog por todos os membros da equipe durante a reunião de planning e retrospectiva.
 
 O Backlog do Produto contém todas as histórias que podem ser desenvolvidas para a aplicação pensada, mesmo que não estejam dentro do escopo do projeto da disciplina de Arquitetura e Desenho de Software. Para priorizar as histórias que devem ser feitas com maior urgência, foi utilizada a [priorização moscow](../pages/fase_01/priorizacao_moscow?id=prioriza%c3%a7%c3%a3o-moscow) anteriormente adotada pelo grupo. 
 
