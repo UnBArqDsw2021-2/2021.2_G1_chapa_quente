@@ -4,11 +4,10 @@
 
 | Versão |    Data    |     Modificação      |   Autor    |     Revisor     |
 | ------ | :--------: | :------------------: | :--------: | :-------------: |
-| 1.0    | 15/02/2022 | Criação do Documento | Murilo Gomes e Liverson Paulo | Philipe Serafim e Giulia Lobo |
-
+| 1.0    | 15/02/2022 | Criação do Documento | Murilo Gomes e Liverson Paulo | Philipe Serafim, Giulia Lobo, Lucas Andrade e Pedro Lima |
 ## Introdução
 
-É um diagrama do tipo dinâmico, esse diagrama também é conhecido como diagrama de máquina de estados. Esse tipo de diagrama é utilizado para modelar um comportamento discreto em sistemas de transição entre estados finitos. Os principais elementos que constituem um diagrama de estados são:
+É um diagrama do tipo dinâmico, também sendo conhecido como diagrama de máquina de estados. Esse tipo de diagrama é utilizado para modelar um comportamento discreto em sistemas de transição entre estados finitos. Os principais elementos que constituem um diagrama de estados são:
 
 * Estado inicial: Ponto inicial, onde começa a utilização do objeto;
 * Evento ou Transição: Representa uma ação externa sobre um objeto;
@@ -18,8 +17,6 @@
     * Ação de atividade: é executada dentro do estado;
     * Ação de saída: executada quando se sai de um estado.
 * Estado final: Ponto de saída do objeto.
-
-
 
 
 ## Metodologia
