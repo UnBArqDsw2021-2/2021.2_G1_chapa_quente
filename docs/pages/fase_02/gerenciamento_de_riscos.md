@@ -4,7 +4,7 @@
 
 | Versão |    Data    |     Modificação      | Autor | Revisor |
 | ------ | :--------: | :------------------: | :---: | :-----: |
-| 1.0    | 16/02/2022 | Criação do Documento | Rodrigo Lima e Giulia Lobo |   |
+| 1.0    | 16/02/2022 | Criação do Documento | Rodrigo Lima e Giulia Lobo | Pedro Lima |
 
 <!-- NÃO ESQUECER DE ADICIONAR AO "/_sidebar.md" -->
 
