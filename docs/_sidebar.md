@@ -40,4 +40,6 @@
     - [Diagrama de Atividades](pages/fase_02/diagrama_de_atividade.md)
     - [Diagrama de Comunicação](pages/fase_02/diagrama_comunicacao.md)
   - **Iniciativas extras**
+    - [Atas](_indiceReuniao.md)
     - [Léxicos](pages/fase_02/lexicos.md)
+
