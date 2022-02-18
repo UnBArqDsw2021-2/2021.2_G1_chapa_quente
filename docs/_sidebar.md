@@ -54,3 +54,4 @@
     - [Cronograma do Projeto](pages/fase_02/cronograma_do_projeto.md)
     - [Gerenciamento de Riscos](pages/fase_02/gerenciamento_de_riscos.md)
     - [Estimativas](pages/fase_02/iniciativasExtras/estimativas.md)
+    - [Tabela de Competências](pages/fase_02/iniciativasExtras/tabela_competencias.md)
