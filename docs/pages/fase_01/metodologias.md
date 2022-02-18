@@ -102,11 +102,12 @@ Pesquisas realizadas anteriormente mostraram que os desenvolvedores percebem que
 |   <img width="100" height="100" src="./assets/images/logoGithub.png">    |    Github    |                             Versionamento e documentação.                              |
 | <img width="190" height="100" src="./assets/images/logoGoogledrive.png"> | Google Drive | Armazenamento de dados, compartilhamento de documentos e sincronização de informações. |
 |   <img width="170" height="100" src="./assets/images/logoDiscord.png">   |   Discord    |                                Reuniões e pareamentos.                                 |
-|   <img width="120" height="100" src="./assets/images/logoJira.jpeg">    |    Jira    |                                     Quadro Kanban                                      |
+|   <img width="120" height="50" src="./assets/images/logoJira.jpeg">    |    Jira    |                                     Quadro Kanban                                      |
 |   <img width="110" height="100" src="./assets/images/logoDrawIo.png">    |   Draw.io    |                        Construção de Rich Pictures e modelagens                        |
 |    <img width="200" height="100" src="./assets/images/logoMiro.svg">     |     Miro     |                           Construção do brainstorming e 5w2h                           |
 | <img width="170" height="100" src="./assets/images/logoLucidchart.jpg">  |  LucidChart  |                          Construção de modelagens e diagramas                          |
 | <img width="170" height="100" src="./assets/images/logoFun.png">  |  FunRetrospectives  |                          Ferramenta para realizar as retrospectivas.                 |
+| <img width="170" height="100" src="./assets/images/logoNotion.png">  |  Notion  |                          Ferramenta para criação de notas.                 |
 
 ## Conclusão
 
