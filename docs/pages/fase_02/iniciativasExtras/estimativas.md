@@ -6,6 +6,8 @@
 | ------ | :--------: | :----------------------: | :----------------: | :-------------------: |
 | 1.0    | 14/02/2022 |   Criação do Documento   | Giulia Lobo Barros | Murilo Gomes de Souza |
 | 1.1    | 15/02/2022 | Atualização do Documento | Giulia Lobo Barros |      Pedro Lima       |
+| 1.2    | 16/02/2022 | Alterações na conclusão | Pedro Lima |      Giulia Lobo       |
+| 1.3    | 17/02/2022 | Últimas alterações na conclusão | Giulia Lobo Barros |      Philipe Serafim       |
 
 <!-- NÃO ESQUECER DE ADICIONAR AO "/_sidebar.md" -->
 
@@ -32,8 +34,9 @@ Tendo o método **COCOMO** apresentado, podemos mostrar como será utilizado pel
     * **Modo Semidestacado**: projetos intermediários (em tamanho e complexidade), com alguns requisitos rígidos e outros não tão rígidos, com níveis mistos de experiência nas equipes;
     * **Modo Embutido**: projetos com conjunto rígido de restrições operacionais, tanto de hardware, quanto de software.
 
-    *E que essas possuem coeficientes, representados pela tabela a seguir:*
+*E que essas possuem coeficientes, representados pela tabela a seguir:*
 <iframe src="https://docs.google.com/spreadsheets/d/1-C-9O3lvICseggB15Jxzs70cJPvZhf7DRFDAx0HvvOs/edit?usp=sharing" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<figcapction>Tabela 1 - Coeficientes do COCOMO Intermediário. Autora: Giulia Lobo</figcapction>
 
 * *E, por fim, é necessário avaliar onde o projeto em questão se classifica e quais seriam as implementações e classes de projetos adequadas:*
     * Considerando que o objetivo da equipe é calcular esforço, tempo e custo, a opção de implementação que mais se encaixa é o **COCOMO Intermediário**;
@@ -71,6 +74,7 @@ Essas categorias e direcionadores de custo são de fundamental importância para
 Para calcular as estimativas em questão, o primeiro passo é conhecer a escala do **COCOMO Intermediário**.Essa escala possui valores conhecidos como *Multiplicadores de Esforço*, que, multiplicados dão origem ao *Fator de Ajustamento de Esforço*, que também faz parte do cálculo.
 
 <iframe src="https://docs.google.com/spreadsheets/d/1lsQ5bkc4ZBrkWmeHm4pupgHVwWO-IIwQN0YuB98Lnug/edit?usp=sharing" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<figcapction>Tabela 2 - Direcionadores de Custo. Autora: Giulia Lobo</figcapction>
 
 Tendo essa escala, o grupo pôde fazer uma avaliação do esforço de cada um dos atributos e definir os valores dos *Multiplicadores de Esforço* que utilizaríamos nos cálculos. Esses são os que estão destacados na tabela.
 
@@ -80,7 +84,8 @@ Para iniciar o cálculo, o grupo se reuniu e definiu a estimativa de linhas de c
 
 Sendo assim, a estimativa ficou da seguinte forma:
 
-<iframe src="https://docs.google.com/spreadsheets/d/1lsQ5bkc4ZBrkWmeHm4pupgHVwWO-IIwQN0YuB98Lnug/edit?usp=sharing" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1Qi5qJ4j2LwqRw88c44caZQEb6-nHBVf8ucPGEpeemEY/edit?usp=sharing" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<figcapction>Tabela 3 - Estimativa de Linhas de Código. Autora: Giulia Lobo</figcapction>
 
 De acordo com essa tabela e após discussão entre o grupo, podemos definir uma média total de linhas em, aproximandamente, **2128 linhas = 2128 Loc**, ou seja **2,128 KLoc**, que pode ser aproximado para **2 KLoc**.
 
@@ -147,40 +152,37 @@ Aproximando:
 
 ### Estimativa de Custo
 
-A estimativa de custo deve levar em conta os custo de infraestrutura que o time vai ter para o desenvolvimento do projeto. Levando em conta as ferramentas que são necessárias ao cenário do projeto temos os seguintes parâmetros:
+A estimativa de custo deve levar em conta os custo de infraestrutura que o time vai ter para o desenvolvimento do projeto. Levando em conta as ferramentas que são necessárias ao cenário do projeto temos o seguinte parâmetro:
 
-* **Notebook**: O requisitos presentes no *Notebook Lenovo* são os ideais para o desenvolvimento do projeto.
 * **Internet**: Após um busca de mercado a *Internet Banda larga* da Vivo foi a que mais se adequou aos membros do grupo.
   
 | Ferramenta | Quantidade | Valor unitário | Valor mensal | Tempo de uso necessário (meses) |  Total   |
 | ---------- | :--------: | :------------: | :----------: | :-----------------------------: | :------: |
-| Notebook   |     10     |    3.155,41    |      -       |                -                | 31.554,1 |
-| Internet   |     10     |     112,00     |    99.99     |                5                | 6.119,5  |
+| Internet   |     10     |     112,00     |    99.99     |                5                | 6.119,50  |
 
 Considerando que já foram definidas as estimativas de esforço e de tempo, podemos calcular a estimativa do custo dão mão de obra:
 
-*Custo = T(horas[considerando um dia com 8hs]) x custo-aluno x quantidade-alunos*
+*Custo = T(horas) x custo-aluno x E*
 
 Sendo que:
 
-* **T (horas)** = 9;
-* **c** = 2,50;
-* **d** = 0,35.
+* **T (horas)** = 1200 (considerando 8hs trabalhadas por dia);
+* **custo-aluno** = 2,04;
+* **E** = 9.
 
 Substituindo na fórmula, temos:
 
-*Custo = 2,50 x 9^0,35*
+*Custo = 1200 x 2,04 x 9*
 
-*Custo = R$ 7280,00*
+*Custo = R$ 22.032,00*
 
-Logo temos:
+Logo, temos:
 
 |  Recursos   |  Valor   |
 | :---------: | :------: |
-|  Notebook   | 31.554,1 |
-|  Internet   | 6.119,5  |
-| Mão de obra | 7.280,00 |
-|  **Total**  | 44.953,6 |
+|  Internet   | 6.119,50  |
+| Mão de obra | 22.032,00 |
+|  **Total**  | 28.151,50 |
 
 ## Conclusão
 
@@ -188,14 +190,14 @@ Com a estimativa de custo do projeto feitas é possível ter mais controle dos r
 
 ## Bibliografia
 
-SERRANO, Milene; Arquitetura e Desenho de Software - AULA - PROJETO E DESENHO DE SOFTWARE; Disponível em: https://aprender3.unb.br/pluginfile.php/1558828/mod_label/intro/Arquitetura%20e%20Desenho%20de%20software%20-%20Aula%20Projeto-DSW%20-%20Profa.%20Milene.pdf;
+* SERRANO, Milene; Arquitetura e Desenho de Software - AULA - PROJETO E DESENHO DE SOFTWARE; Disponível em: https://aprender3.unb.br/pluginfile.php/1558828/mod_label/intro/Arquitetura%20e%20Desenho%20de%20software%20-%20Aula%20Projeto-DSW%20-%20Profa.%20Milene.pdf;
 
-MELLER, Maristela Corrêa. Modelos Para Estimar Custos De Software: Estudo Comparativo Com Softwares De Pequeno Porte. 2002. Disponível em: https://repositorio.ufsc.br/xmlui/handle/123456789/82351 Acessado em 16 de fevereiro de 2022.
+* MELLER, Maristela Corrêa. Modelos Para Estimar Custos De Software: Estudo Comparativo Com Softwares De Pequeno Porte. 2002. Disponível em: https://repositorio.ufsc.br/xmlui/handle/123456789/82351 Acessado em 16 de fevereiro de 2022.
 
-Estimativas de Custos e Esforços. Disponível em: https://unbarqdsw2021-1.github.io/2021.1_G5_ProjetoDonner/pages/base/estimativa_de_custos_esforços. Acessado em 15 de fevereiro de 2022.
+* Estimativas de Custos e Esforços. Disponível em: https://unbarqdsw2021-1.github.io/2021.1_G5_ProjetoDonner/pages/base/estimativa_de_custos_esforços. Acessado em 15 de fevereiro de 2022.
 
-ESTIMATIVAS DE CUSTO. Disponível em: https://2019-2-arquitetura-desenho.github.io/wiki/dinamica_seminario_I/estimativas_de_custo. Acessado em 15 de fevereiro de 2022.
+* ESTIMATIVAS DE CUSTO. Disponível em: https://2019-2-arquitetura-desenho.github.io/wiki/dinamica_seminario_I/estimativas_de_custo. Acessado em 15 de fevereiro de 2022.
 
-Notebook Lenovo, Submarino. Disponível em: https://www.submarino.com.br/produto/3171318128?epar=zoom. Acessado em 15 de fevereiro de 2022.
+* Notebook Lenovo, Submarino. Disponível em: https://www.submarino.com.br/produto/3171318128?epar=zoom. Acessado em 15 de fevereiro de 2022.
 
-Internet Banda larga, Vivo. Disponível em: https://www.vivo.com.br/para-voce/produtos-e-servicos/para-casa/internet. Acessado em 15 de fevereiro de 2022.
+* Internet Banda larga, Vivo. Disponível em: https://www.vivo.com.br/para-voce/produtos-e-servicos/para-casa/internet. Acessado em 15 de fevereiro de 2022.
