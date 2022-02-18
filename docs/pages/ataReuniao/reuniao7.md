@@ -28,8 +28,8 @@ Fim: 21:23
 ### Retrospectiva
 
 * Foi feito um check-in de todo o time.
-* Foi coletado feedbacks dos pontos positivos, negativos e pontos que quase funcionaram ultima sprint.
-* Os pontos aqui coletados e debatidos serão melhorados na proxima sprint.
+* Foi coletado feedbacks dos pontos positivos, negativos e pontos que quase funcionaram última sprint.
+* Os pontos aqui coletados e debatidos serão melhorados na próxima sprint.
 * Validação do backlog em equipe.
 
 ### Planning
@@ -40,7 +40,7 @@ Fim: 21:23
 
 ## Registros
 
-* Nessa reunião foi atribuído atividades que foram debatidas referentes ao proxima entrega da disciplina.
+* Nessa reunião foi atribuído atividades que foram debatidas referentes ao próxima entrega da disciplina.
 
 ## Pendências
 
