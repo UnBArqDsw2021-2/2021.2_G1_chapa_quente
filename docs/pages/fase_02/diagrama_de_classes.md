@@ -1,4 +1,4 @@
-# Diagrama de Agregação e Composição
+# Diagrama de Classes
 
 ## Versionamento
 

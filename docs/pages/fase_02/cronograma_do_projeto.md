@@ -1,4 +1,4 @@
-# Diagrama de Comunicação
+# Cronograma do Projeto
 
 ## Versionamento
 
