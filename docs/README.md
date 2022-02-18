@@ -21,6 +21,7 @@ O projeto Chapa Quente tem como maior intuito promover uma forma de pedir lanche
 
 ### Versionamento
 
-| Versão | Data       | Modificação          | Autor                        |
-| ------ | ---------- | -------------------- | ---------------------------- |
-| 1.0    | 25/01/2022 | Criação do Documento | Philipe Serafim e Pedro Lima |
+| Versão | Data       | Modificação          | Autor | Revisor(es)                       |
+| ------ | ---------- | -------------------- | ---------------------------- | ------------- |
+| 1.0    | 25/01/2022 | Criação do Documento | Philipe Serafim e Pedro Lima | Giulia Lobo Barros |
+| 1.1    | 14/02/2022 | Inclusão do "Sobre o Projeto" | Giulia Lobo Barros | Phililpe Serafim, Liverson Paulo, Murilo Gomes e Dafne Moretti |
