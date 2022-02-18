@@ -1,37 +1,43 @@
-# ATA DE REUNIÃO - SPRINT X (XX/XX/2022)
+# Reunião do time - dd/mm/yyyy
 
-## Versionamento
+## Informações
 
-| Versão |    Data    |       Modificação       |      Autor      | Revisor |
-| ------ | :--------: | :---------------------: | :-------------: | :-----: |
-| 1.0    | 25/01/2022 |  Criação do Documento   | Philipe Serafim |         |
+Data: dd/mm/yyyy
 
-<!-- NAO ESQUECER DE ADICIONAR A REUNIÃO EM QUESTÃO AO DOCUMENTO "/_indiceReuniao.md" -->
+Início: hh:mm
 
-## 1.Porcentagem de membros presentes: 8
+Fim: hh:mm
 
-## 2.Considerações iniciais da reunião
+## Participantes
 
-Reunião iniciada às XX:XX pelo XXXXXXX.
+| Nome                                | Presença |
+| ----------------------------------- | -------- |
+| Dafne Moretti Moreira               | ✔️       |
+| Giulia Lobo Barros                  | ✔️       |
+| Guilherme Daniel Fernandes da Silva | ✔️       |
+| João Pedro Alves da Silva Chaves    | ✔️       |
+| Liverson Paulo Furtado Severo       | ✔️       |
+| Lucas da Cunha Andrade              | ✔️       |
+| Murilo Gomes de Souza               | ✔️       |
+| Pedro Henrique de Lima Malaquias    | ✔️       |
+| Philipe Rosa Serafim                | ✔️       |
+| Rodrigo Tiago Costa Lima            | ✔️       |
 
-## 3.Pautas da reunião
 
-### PAUTA 1
+## Pautas
+### Retrospectiva 
 
-discussão sobre pauta 1
+* Tópico
+  * Exemplo para ser atualizado
+  * Exemplo para ser atualizado
+  * Exemplo para ser atualizado
+### Planning 
 
-### PAUTA 2
 
-discussão sobre pauta 2
+## Registros
 
-### PAUTA 3
+* Nessa reunião foi feito iniciado o desenvolvimento da regra de negocio. (Exemplo)
 
-discussão sobre pauta 3
+## Pendências
 
-### PAUTA 4
-
-discussão sobre pauta 4
-
-## 4.Considerações finais
-
-Reunião manteve a mesma quantidade dos membros (?) iniciais e foi finalizada às XX:XX.
+* Se houver necessidade
