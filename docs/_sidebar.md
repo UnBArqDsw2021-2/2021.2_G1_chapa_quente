@@ -31,6 +31,10 @@
     - [Vídeos](pages/fase_01/apresentacoes_base.md)
 
 - **Modelagem**
+  - **Modelagem ágil**
+    - [Épicos](pages/fase_02/modelagem_agil/epicos.md)
+    - [Histórias de usuário](pages/fase_02/modelagem_agil/historias_usuario.md)
+    - [Backlog do produto](pages/fase_02/modelagem_agil/backlog_produto.md)
   - **Diagramas Estáticos**
     - [Diagrama de Classes](pages/fase_02/diagrama_de_classes.md)
     - [Diagrama de Classe Abstrata](pages/fase_02/diagrama_de_classe_abstrata.md)
