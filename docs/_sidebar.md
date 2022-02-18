@@ -42,3 +42,4 @@
   - **Iniciativas extras**
     - [Léxicos](pages/fase_02/lexicos.md)
     - [Cronograma do Projeto](pages/fase_02/cronograma_do_projeto.md)
+    - [Gerenciamento de Riscos](pages/fase_02/gerenciamento_de_riscos.md)
