@@ -106,6 +106,7 @@ Pesquisas realizadas anteriormente mostraram que os desenvolvedores percebem que
 |   <img width="110" height="100" src="./assets/images/logoDrawIo.png">    |   Draw.io    |                        Construção de Rich Pictures e modelagens                        |
 |    <img width="200" height="100" src="./assets/images/logoMiro.svg">     |     Miro     |                           Construção do brainstorming e 5w2h                           |
 | <img width="170" height="100" src="./assets/images/logoLucidchart.jpg">  |  LucidChart  |                          Construção de modelagens e diagramas                          |
+| <img width="170" height="100" src="./assets/images/logoFun.png">  |  FunRetrospectives  |                          Ferramenta para realizar as retrospectivas.                 |
 
 ## Conclusão
 
