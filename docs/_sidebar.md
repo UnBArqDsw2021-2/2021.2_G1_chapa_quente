@@ -40,6 +40,7 @@
     - [Diagrama de Atividades](pages/fase_02/diagrama_de_atividade.md)
     - [Diagrama de Comunicação](pages/fase_02/diagrama_comunicacao.md)
   - **Iniciativas extras**
+    - [Atas](_indiceReuniao.md)
     - [Léxicos](pages/fase_02/lexicos.md)
     - [Cronograma do Projeto](pages/fase_02/cronograma_do_projeto.md)
     - [Gerenciamento de Riscos](pages/fase_02/gerenciamento_de_riscos.md)
