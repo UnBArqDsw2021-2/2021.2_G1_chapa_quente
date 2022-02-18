@@ -8,7 +8,9 @@
   <!-- - [Reunião 4](pages/ataReuniao/reuniao4.md) -->
 - Sprint 2
   <!-- - [Reunião 5](pages/ataReuniao/reuniao5.md) -->
-  - [Reunião 6](pages/ataReuniao/reuniao5.md)
+  - [Reunião 6](pages/ataReuniao/reuniao6.md)
+<!-- - Sprint 3
+  - -->
 - Sprint 3
   - [Reunião 7](pages/ataReuniao/reuniao7.md)
 
