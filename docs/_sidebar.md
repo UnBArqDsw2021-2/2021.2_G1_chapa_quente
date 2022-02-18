@@ -42,4 +42,4 @@
   - **Iniciativas extras**
     - [Atas](_indiceReuniao.md)
     - [Léxicos](pages/fase_02/lexicos.md)
-
+    - [Gerenciamento de Riscos](pages/fase_02/gerenciamento_de_riscos.md)
