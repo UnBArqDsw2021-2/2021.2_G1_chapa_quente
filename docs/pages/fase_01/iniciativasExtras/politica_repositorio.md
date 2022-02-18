@@ -4,7 +4,7 @@
 
 | Versão | Data       | Modificação          | Autor                        |Revisor|
 | ------ | :--------: | :------------------: | :--------------------------: | :---: |
-| 1.0    | 02/02/2022 | Criação do Documento |  Dafne Moretti Moreira | João Pedro Alves da Silva Chaves e Philipe Serafim |
+| 1.0    | 02/02/2022 | Criação do Documento |  Dafne Moretti Moreira | João Pedro Alves da Silva Chaves, Philipe Serafim e Murilo Gomes de Souza |
 
 ## Introdução
 
@@ -12,7 +12,15 @@ Neste documento estão especificados os padrões a serem seguidos pelos contribu
 
 ## Metodologia
 
-A metodologia utilizada pela equipe para definição dos padrões foi a elaboração de enquetes na ferramenta de comunicação Telegram, análise dos resultados finais e discussão de ideias em reunião com os membros.
+A metodologia utilizada pela equipe para definição dos padrões foi a elaboração de [enquetes]() na ferramenta de comunicação Telegram, análise dos resultados finais e discussão de ideias em reunião com os membros.
+
+#### Enquetes
+
+![enquete1](../../../assets/images/enquete1.jpg ":size=300") </br> Figura 1 - Enquete 1. Fonte: Autoria própria
+
+![enquete2](../../../assets/images/enquete2.jpg ":size=300") </br> Figura 2 - Enquetes 2 e 3. Fonte: Autoria própria
+
+![enquete3](../../../assets/images/enquete3.jpg ":size=300") </br> Figura 3 - Enquete 4. Fonte: Autoria própria
 
 ## 1. Política de Branches
 

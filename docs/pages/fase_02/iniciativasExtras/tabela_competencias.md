@@ -1,4 +1,4 @@
-# Léxicos
+# Tabela de Competências
 
 ## Versionamento
 
