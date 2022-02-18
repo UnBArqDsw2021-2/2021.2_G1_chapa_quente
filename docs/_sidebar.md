@@ -39,6 +39,8 @@
   - **Diagramas Dinâmico**
     - [Diagrama de Atividades](pages/fase_02/diagrama_de_atividade.md)
     - [Diagrama de Comunicação](pages/fase_02/diagrama_comunicacao.md)
+  - **Modelagem Ágil**
+    - [Backlog Projeto](pages/fase_02/backlog_projeto.md)
   - **Iniciativas extras**
     - [Atas](_indiceReuniao.md)
     - [Léxicos](pages/fase_02/lexicos.md)

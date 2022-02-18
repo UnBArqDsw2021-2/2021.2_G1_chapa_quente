@@ -4,7 +4,7 @@
 
 | Versão | Data       | Modificação          | Autor                        |Revisor|
 | ------ | :--------: | :------------------: | :--------------------------: | :---: |
-| 1.0    | 09/02/2022 | Criação do Documento | Lucas Andrade | João Pedro Alves da Silva Chaves |
+| 1.0    | 09/02/2022 | Criação do Documento | Lucas Andrade | João Pedro Alves da Silva Chaves, Giulia Lobo Barros, Guilherme Daniel Fernandes da Silva, Rodrigo Tiago Costa Lima |
 
 ## Introdução
 
