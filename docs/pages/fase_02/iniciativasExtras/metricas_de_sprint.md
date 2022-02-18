@@ -30,4 +30,4 @@ O burndown é reponsável por mostrar como a equipe lida com o fluxo de tarefas 
 
 ## Bibliografia
 
-https://promovesolucoes.com/metricas-do-scrum-como-medir-resultados/
+ProMove Soluções. Métricas do Scrum: Como medir resultados? Disponível em: https://promovesolucoes.com/metricas-do-scrum-como-medir-resultados/ (Acesso em 18/02/2022)
