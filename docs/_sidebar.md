@@ -37,7 +37,8 @@
     - [Diagrama de Agregação e Composição](pages/fase_02/diagrama_de_agregacao_composicao.md)
     - [Diagrama de Pacote](pages/fase_02/diagrama_de_pacote.md)
     - [Diagrama de Sequência](pages/fase_02/diagrama_de_sequencia.md)
-  - **Diagramas Dinâmico**
+    - [Diagrama de Componentes](pages/fase_02/diagrama_de_componentes.md)
+  - **Diagramas Dinâmicos**
     - [Diagrama de Atividades](pages/fase_02/diagrama_de_atividade.md)
     - [Diagrama de Comunicação](pages/fase_02/diagrama_comunicacao.md)
   - **Iniciativas extras**
