@@ -19,6 +19,7 @@
         - [Priorização Moscow](pages/fase_01/priorizacao_moscow.md)
       - Modelagem de Requisitos
         - [Diagrama de Casos de Uso](pages/fase_01/casos_de_uso.md)
+        - [NFR](pages/fase_01/nfr.md)
   - **Processos, Metodologias e Abordagens**
     - [Modelagem BPMN](pages/fase_01/modelagem_bpmn.md)
     - [Metodologias](pages/fase_01/metodologias.md)
@@ -34,8 +35,12 @@
     - [Diagrama de Classe Abstrata](pages/fase_02/diagrama_de_classe_abstrata.md)
     - [Diagrama de Agregação e Composição](pages/fase_02/diagrama_de_agregacao_composicao.md)
     - [Diagrama de Pacote](pages/fase_02/diagrama_de_pacote.md)
-  - **Diagramas Dinâmicos**
+    - [Diagrama de Sequência](pages/fase_02/diagrama_de_sequencia.md)
+  - **Diagramas Dinâmico**
+    - [Diagrama de Atividades](pages/fase_02/diagrama_de_atividade.md)
     - [Diagrama de Comunicação](pages/fase_02/diagrama_comunicacao.md)
   - **Iniciativas extras**
+    - [Atas](_indiceReuniao.md)
     - [Léxicos](pages/fase_02/iniciativasExtras/lexicos.md)
+    - [Gerenciamento de Riscos](pages/fase_02/gerenciamento_de_riscos.md)
     - [Estimativas](pages/fase_02/iniciativasExtras/estimativas.md)
