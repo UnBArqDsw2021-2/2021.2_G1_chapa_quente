@@ -8,19 +8,19 @@
 
 ## Introdução
 
-O Project Backlog é uma das várias ferramentas ageis voltadas para a gestão de projetos, que consiste em uma lista de funcionalidades e que são ordenadas considerando a prioridade dessa funcionalidade no projeto.
-Essa ferramenta se assemelha a ideia trazida pelo Product Backlog, porém aqui existe uma consideração com o tempo disponível para a elaboração do projeto. No Project Backlog, assim como no Product Backlog, temos uma lista de funcionalidades que esta sempre sujeita a mudanças, com a adição ou remoção de funcionalidades. Essa atualização do backlog acontece justamente com o andamento do projeto, e considerando o progresso do time.
+O Project Backlog é uma das várias ferramentas ágeis voltadas para a gestão de projetos, que consiste em uma lista de funcionalidades e que são ordenadas considerando a prioridade dessa funcionalidade no projeto.
+Essa ferramenta se assemelha a ideia trazida pelo Product Backlog, porém aqui existe uma consideração com o tempo disponível para a elaboração do projeto. No Project Backlog, assim como no Product Backlog, temos uma lista de funcionalidades que esta sempre sujeita a mudanças, com a adição ou remoção de funcionalidades. Essa atualização do backlog acontece justamente com o andamento do projeto e considerando o progresso do time.
 
 ## Metodologia
 
-Para a elaboração do Backlog do Projeto, assim como no levantamento de algumas informações adicionais, foram utilizadas as seguintes tecnicas:
+Para a elaboração do Backlog do Projeto, assim como no levantamento de algumas informações adicionais, foram utilizadas as seguintes técnicas:
 
 - [Brainstorming (Requisitos)](pages/fase_01/brainstorming.md)
 - [First Things First (FTF) (Riscos)](pages/fase_01/iniciativasExtras/first_things_first)
 - [Moscow (Priorização)](pages/fase_01/priorizacao_moscow.md)
 - [Storytelling (Requisitos)](pages/fase_01/storytelling.md)
 
-Para os valores de **risco** foi utilizado o risco relativo, obtidos atráves da tecnica de FTF.
+Para os valores de **risco** foi utilizado o risco relativo, obtidos atráves da técnica de FTF.
 Na elaboração do Project Backlog foi considerado e registrado:
 
 - Épico
