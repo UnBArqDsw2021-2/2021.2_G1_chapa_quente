@@ -6,7 +6,7 @@
 | ------ | :--------: | :--------------------------------------------: | :-------------------: | :----------------: |
 | 1.0    | 02/02/2022 |              Criação do Documento              | Dafne Moretti Moreira | Giulia Lobo Barros |
 | 1.1    | 03/02/2022 | Adiciona descrição das metodologias utilizadas | Dafne Moretti Moreira | Giulia Lobo Barros |
-| 1.2    | 17/02/2022 | Mudança nas ferramentas utilizadas             | Guilherme Fernandes   |                     |
+| 1.2    | 17/02/2022 | Mudança nas ferramentas utilizadas             | Guilherme Fernandes   |  Liverson, Dafne, Giulia e Murilo |
 
 ## Introdução
 
@@ -108,6 +108,7 @@ Pesquisas realizadas anteriormente mostraram que os desenvolvedores percebem que
 | <img width="170" height="100" src="./assets/images/logoLucidchart.jpg">  |  LucidChart  |                          Construção de modelagens e diagramas                          |
 | <img width="170" height="100" src="./assets/images/logoFun.png">  |  FunRetrospectives  |                          Ferramenta para realizar as retrospectivas.                 |
 | <img width="170" height="100" src="./assets/images/logoNotion.png">  |  Notion  |                          Ferramenta para criação de notas.                 |
+| <img width="170" height="100" src="./assets/images/logoFigma.png">  |  Figma  |                          Ferramenta para criação de protótipos de interface. |
 
 ## Conclusão
 
