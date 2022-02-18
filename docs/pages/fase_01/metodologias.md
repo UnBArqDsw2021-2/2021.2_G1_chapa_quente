@@ -10,7 +10,7 @@
 
 ## Introdução
 
-Para a definição das melhores metodologias e ferramentas a serem utilizadas no projeto, primeiramente foi realizado um brainstorming com todos os membros da equipe. Além disso, houve a elaboração de um artefato para analisar e compreender as tecnologias cujos membros possuíam maior familiaridade visando adaptar o projeto à realidade do time.
+Para a definição das melhores metodologias e ferramentas a serem utilizadas no projeto, primeiramente foi realizado um brainstorming com todos os membros da equipe. Além disso, houve a elaboração de um [artefato](../pages/fase_02/iniciativasExtras/tabela_competencias?id=tabela-de-compet%c3%aancias) para analisar e compreender as tecnologias cujos membros possuíam maior familiaridade visando adaptar o projeto à realidade do time.
 
 As ferramentas utilizadas pelos colaboradores do projeto foram discutidas também em reunião, sendo verificados os pontos positivos e negativos de cada uma delas e selecionadas as que mais se adequam ao contexto do projeto Chapa Quente.
 
