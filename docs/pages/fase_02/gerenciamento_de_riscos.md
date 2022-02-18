@@ -1,4 +1,4 @@
-# Plano de Gerenciamento de Riscos
+# Gerenciamento de Riscos
 
 ## Versionamento
 

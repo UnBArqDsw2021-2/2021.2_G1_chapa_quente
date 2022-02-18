@@ -19,7 +19,6 @@
         - [Priorização Moscow](pages/fase_01/priorizacao_moscow.md)
       - Modelagem de Requisitos
         - [Diagrama de Casos de Uso](pages/fase_01/casos_de_uso.md)
-        - [NFR](pages/fase_01/nfr.md)
   - **Processos, Metodologias e Abordagens**
     - [Modelagem BPMN](pages/fase_01/modelagem_bpmn.md)
     - [Metodologias](pages/fase_01/metodologias.md)
@@ -50,6 +49,7 @@
   - **Iniciativas extras**
     - [Atas da Entrega](_indiceReuniao2.md)
     - [Léxicos](pages/fase_02/iniciativasExtras/lexicos.md)
+    - [NFR](pages/fase_01/nfr.md)
     - [Cronograma do Projeto](pages/fase_02/cronograma_do_projeto.md)
     - [Gerenciamento de Riscos](pages/fase_02/gerenciamento_de_riscos.md)
     - [Estimativas](pages/fase_02/iniciativasExtras/estimativas.md)

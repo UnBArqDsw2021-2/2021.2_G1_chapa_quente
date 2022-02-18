@@ -13,6 +13,6 @@ Este documento apresenta algumas correções realizadas nos documentos da entreg
 
 ### Correções
 
-* Adição de rastreabilidade de metodologia no documento de [Política de repositório](../pages/fase_01/iniciativasExtras/politica_repositorio?id=pol%c3%adtica-de-reposit%c3%b3rio)
-* Adição de rastreabilidade de metodologia no documento de [Metodologias](../pages/fase_01/metodologias?id=metodologias)
+* Adição de rastreabilidade de metodologia no documento de [Política de repositório](pages/fase_01/iniciativasExtras/politica_repositorio.md)
+* Adição de rastreabilidade de metodologia no documento de [Metodologias](pages/fase_01/metodologias.md)
 
