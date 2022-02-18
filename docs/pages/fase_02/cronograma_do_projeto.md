@@ -4,8 +4,7 @@
 
 | Versão | Data       | Modificação          | Autor                        |Revisor|
 | ------ | :--------: | :------------------: | :--------------------------: | :---: |
-| 1.0    | 17/02/2022 | Criação do Documento | Giulia Lobo Barros | Murilo Gomes de Souza |
-
+| 1.0    | 17/02/2022 | Criação do Documento | Giulia Lobo Barros | Lucas Andrade, Rodrigo Lima, João Pedro Chaves e Dafne Moretti |
 ## Introdução
 
 O Cronograma do Projeto é um guia que ajuda a ter noção de prazos e progresso do projeto ao longo tempo. Normalmente, são colocadas fases macro que, posteriormente, são detalhadas e ilustradas em formato de linha do tempo.
