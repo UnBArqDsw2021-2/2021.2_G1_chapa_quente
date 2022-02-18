@@ -17,8 +17,9 @@ Para o nosso grupo, foi feito um cronograma/roadmap, no aplicativo [Notion](http
 
 A seguir, o cronograma do projeto:
 
-<iframe src="https://brainy-clipper-316.notion.site/f6b4cbf06c0a4feea82d243a4b53ed6c?v=00affd6eb74842c6a7d43ef7f8419418" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-<figcapction>Cronograma do Projeto Chapa Quente. Autora: Giulia Lobo</figcapction>
+* Link do Notion: https://brainy-clipper-316.notion.site/f6b4cbf06c0a4feea82d243a4b53ed6c?v=00affd6eb74842c6a7d43ef7f8419418
+* Relatório exportado do notion:
+<img src="Roadmap_do_Projeto_page-0001.jpg" alt="Minha Figura">
 
 ## Conclusão
 
