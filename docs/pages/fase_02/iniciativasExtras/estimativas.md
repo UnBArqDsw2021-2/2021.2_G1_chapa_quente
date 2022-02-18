@@ -7,7 +7,7 @@
 | 1.0    | 14/02/2022 |   Criação do Documento   | Giulia Lobo Barros | Murilo Gomes de Souza |
 | 1.1    | 15/02/2022 | Atualização do Documento | Giulia Lobo Barros |      Pedro Lima       |
 | 1.2    | 16/02/2022 | Alterações na conclusão | Pedro Lima |      Giulia Lobo       |
-| 1.3    | 17/02/2022 | Últimas alterações na conclusão | Giulia Lobo Barros |      Philipe Serafim       |
+| 1.3    | 17/02/2022 | Últimas alterações na conclusão | Giulia Lobo Barros |      Philipe Serafim, Murilo Gomes, Dafne Moretti e  Liverson Paulo      |
 
 <!-- NÃO ESQUECER DE ADICIONAR AO "/_sidebar.md" -->
 
@@ -29,7 +29,7 @@ Tendo o método **COCOMO** apresentado, podemos mostrar como será utilizado pel
     * **COCOMO Básico (Basic)**: Que computa o esforço e o custo de desenvolvimento considerando uma estimativa do tamanho do programa;
     * **COCOMO Intermediário (Intermediate)**: Que computa o esforço e o custo de desenvolvimento considerando uma estimativa do tamanho do programa e um conjunto de direcionadores de custo (avaliações subjetivas do produto, do hardware, do pessoal e dos atributos do projeto);
     * **COCOMO Detalhado (Detailed)**: Que, além das características do COCOMO intermediário, inclui uma avaliação do impacto dos direcionadores de custo sobre cada etapa do desenvolvimento.
-* *Posteriomente, é necessário saber que ele também pode ser aplicado em três classes de projeto, que são:*
+* *Posteriormente, é necessário saber que ele também pode ser aplicado em três classes de projeto, que são:*
     * **Modo Orgânico**: projetos simples, relativamente pequenos, com conjuntos de requisitos não tão rígidos, com equipes pequenas e experientes;
     * **Modo Semidestacado**: projetos intermediários (em tamanho e complexidade), com alguns requisitos rígidos e outros não tão rígidos, com níveis mistos de experiência nas equipes;
     * **Modo Embutido**: projetos com conjunto rígido de restrições operacionais, tanto de hardware, quanto de software.
@@ -87,7 +87,7 @@ Sendo assim, a estimativa ficou da seguinte forma:
 <iframe src="https://docs.google.com/spreadsheets/d/1Qi5qJ4j2LwqRw88c44caZQEb6-nHBVf8ucPGEpeemEY/edit?usp=sharing" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <figcapction>Tabela 3 - Estimativa de Linhas de Código. Autora: Giulia Lobo</figcapction>
 
-De acordo com essa tabela e após discussão entre o grupo, podemos definir uma média total de linhas em, aproximandamente, **2128 linhas = 2128 Loc**, ou seja **2,128 KLoc**, que pode ser aproximado para **2 KLoc**.
+De acordo com essa tabela e após discussão entre o grupo, podemos definir uma média total de linhas em, aproximadamente, **2128 linhas = 2128 Loc**, ou seja **2,128 KLoc**, que pode ser aproximado para **2 KLoc**.
 
 ### Estimativa de Esforço
 
@@ -160,7 +160,7 @@ A estimativa de custo deve levar em conta os custo de infraestrutura que o time 
 | ---------- | :--------: | :------------: | :----------: | :-----------------------------: | :------: |
 | Internet   |     10     |     112,00     |    99.99     |                5                | 6.119,50  |
 
-Considerando que já foram definidas as estimativas de esforço e de tempo, podemos calcular a estimativa do custo dão mão de obra:
+Considerando que já foram definidas as estimativas de esforço e de tempo, podemos calcular a estimativa do custo da mão de obra:
 
 *Custo = T(horas) x custo-aluno x E*
 
