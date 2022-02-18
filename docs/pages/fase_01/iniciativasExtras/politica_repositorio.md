@@ -4,7 +4,7 @@
 
 | Versão | Data       | Modificação          | Autor                        |Revisor|
 | ------ | :--------: | :------------------: | :--------------------------: | :---: |
-| 1.0    | 02/02/2022 | Criação do Documento |  Dafne Moretti Moreira | João Pedro Alves da Silva Chaves e Philipe Serafim |
+| 1.0    | 02/02/2022 | Criação do Documento |  Dafne Moretti Moreira | João Pedro Alves da Silva Chaves, Philipe Serafim e Murilo Gomes de Souza |
 
 ## Introdução
 
