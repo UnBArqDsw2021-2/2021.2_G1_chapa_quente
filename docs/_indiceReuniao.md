@@ -11,6 +11,8 @@
   - [Reunião 6](pages/ataReuniao/reuniao6.md)
 <!-- - Sprint 3
   - -->
+- Sprint 3
+  - [Reunião 7](pages/ataReuniao/reuniao7.md)
 
 ### Versionamento
 
@@ -20,3 +22,4 @@
 | 1.1    | 25/01/2022 | Adição da Reunião 1 e 2 | Pedro Lima                   |
 | 1.2    | 02/02/2022 | Adição da Reunião 3     | Philipe Serafim              |
 | 1.3    | 15/02/2022 | Adição da Reunião 5     | Philipe Serafim              |
+| 1.4    | 17/02/2022 | Adição da Reunião 7     | Giulia Lobo Barros           |
