@@ -40,7 +40,7 @@ Fim: 21:23
 
 ## Registros
 
-* Nessa reunião foi atribuído atividades qeu foram debatidas referentes ao proxima entrega da disciplina.
+* Nessa reunião foi atribuído atividades que foram debatidas referentes ao proxima entrega da disciplina.
 
 ## Pendências
 
