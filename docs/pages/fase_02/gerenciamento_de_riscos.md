@@ -12,7 +12,7 @@
 O Plano de Gerenciamento de Riscos descreve como as atividades de gerenciamento dos riscos serão estruturadas e executadas. Descreve ainda alguns dos riscos encontrados pelos participantes do projeto, os tipos de risco (que serão explicados a frente), a probabilidade de o risco se tornar real, o impacto dele no projeto e também o plano de ação para lidar com cada risco.
 
 ## Metodologia
-Os integrantes do grupo Chapa Quente elucidaram, em conjunto, diversos riscos que envolvem o projeto atual, categorizaram os riscos em seus tipos, a probabilidade deles se tornarem reais e seus impactos, com base nisso o risco recebeu um nivel de prioridade e então o grupo procurou planos de ação para mitigar tais riscos.
+Os integrantes do grupo Chapa Quente elucidaram, em conjunto, diversos riscos que envolvem o projeto atual, categorizaram os riscos em seus tipos, a probabilidade deles se tornarem reais e seus impactos, com base nisso o risco recebeu um nível de prioridade e então o grupo procurou planos de ação para mitigar tais riscos.
 
 A categorização de tais riscos foi dividida em:
 * Técnico: Requisitos, Tecnologia, Confiabilidade, Usabilidade, Desempenho, Qualidade.
@@ -53,3 +53,5 @@ https://2019-2-arquitetura-desenho.github.io/wiki/dinamica_seminario_II/controle
 
 * Space Shooter. Plano de Riscos. Disponível em:
 https://github.com/DesenhoMaster2017/SpaceShooter/wiki/Plano-de-Riscos . Acesso em: 16 de fevereiro de 2022.
+
+* RODRIGUES, Eli. EAR para projetos de software. Disponível em: https://www.elirodrigues.com/2013/09/21/gerenciamento-de-riscos-ear-para-projetos-de-software/ . Acesso em 17 de fevereiro de 2022. 
