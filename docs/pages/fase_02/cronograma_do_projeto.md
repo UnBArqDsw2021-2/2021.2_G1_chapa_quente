@@ -19,7 +19,7 @@ A seguir, o cronograma do projeto:
 
 * Link do Notion: https://brainy-clipper-316.notion.site/f6b4cbf06c0a4feea82d243a4b53ed6c?v=00affd6eb74842c6a7d43ef7f8419418
 * Relatório exportado do notion:
-<img src="./../../assets/images/Roadmap_do_Projeto_page-0001.jpg" alt="Minha Figura">
+![Roadmap do Projeto](../../assets/images/Roadmap_do_Projeto_page-0001.jpg)
 
 ## Conclusão
 
