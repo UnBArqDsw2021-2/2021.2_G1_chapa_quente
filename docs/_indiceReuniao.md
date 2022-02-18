@@ -5,7 +5,7 @@
   - [Reunião 2](pages/ataReuniao/reuniao2.md)
 - Sprint 1
   - [Reunião 3](pages/ataReuniao/reuniao3.md)
-  <!-- - [Reunião 4](pages/ataReuniao/reuniao4.md) -->
+  - [Reunião 4](pages/ataReuniao/reuniao4.md)
 - Sprint 2
   <!-- - [Reunião 5](pages/ataReuniao/reuniao5.md) -->
   - [Reunião 6](pages/ataReuniao/reuniao5.md)
