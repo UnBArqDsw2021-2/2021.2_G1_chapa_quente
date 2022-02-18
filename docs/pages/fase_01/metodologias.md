@@ -6,6 +6,7 @@
 | ------ | :--------: | :--------------------------------------------: | :-------------------: | :----------------: |
 | 1.0    | 02/02/2022 |              Criação do Documento              | Dafne Moretti Moreira | Giulia Lobo Barros |
 | 1.1    | 03/02/2022 | Adiciona descrição das metodologias utilizadas | Dafne Moretti Moreira | Giulia Lobo Barros |
+| 1.2    | 17/02/2022 | Mudança nas ferramentas utilizadas             | Guilherme Fernandes   |  Liverson, Dafne, Giulia e Murilo |
 
 ## Introdução
 
@@ -101,10 +102,14 @@ Pesquisas realizadas anteriormente mostraram que os desenvolvedores percebem que
 |   <img width="100" height="100" src="./assets/images/logoGithub.png">    |    Github    |                             Versionamento e documentação.                              |
 | <img width="190" height="100" src="./assets/images/logoGoogledrive.png"> | Google Drive | Armazenamento de dados, compartilhamento de documentos e sincronização de informações. |
 |   <img width="170" height="100" src="./assets/images/logoDiscord.png">   |   Discord    |                                Reuniões e pareamentos.                                 |
-|   <img width="120" height="100" src="./assets/images/logoTrello.png">    |    Trello    |                                     Quadro Kanban                                      |
+|   <img width="120" height="50" src="./assets/images/logoJira.jpeg">    |    Jira    |                                     Quadro Kanban                                      |
 |   <img width="110" height="100" src="./assets/images/logoDrawIo.png">    |   Draw.io    |                        Construção de Rich Pictures e modelagens                        |
 |    <img width="200" height="100" src="./assets/images/logoMiro.svg">     |     Miro     |                           Construção do brainstorming e 5w2h                           |
 | <img width="170" height="100" src="./assets/images/logoLucidchart.jpg">  |  LucidChart  |                          Construção de modelagens e diagramas                          |
+| <img width="170" height="100" src="./assets/images/logoFun.png">  |  FunRetrospectives  |                          Ferramenta para realizar as retrospectivas.                 |
+| <img width="170" height="100" src="./assets/images/logoNotion.png">  |  Notion  |                          Ferramenta para criação de notas.                 |
+| <img width="170" height="100" src="./assets/images/logoFigma.png">  |  Figma  |                          Ferramenta para criação de protótipos de interface. |
+| <img width="170" height="60" src="./assets/images/logoDailyBot.png">  |  Daily Bot  |                          Ferramenta para execução das dailys (integrada ao Discord) |
 
 ## Conclusão
 
