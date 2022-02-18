@@ -109,6 +109,7 @@ Pesquisas realizadas anteriormente mostraram que os desenvolvedores percebem que
 | <img width="170" height="100" src="./assets/images/logoFun.png">  |  FunRetrospectives  |                          Ferramenta para realizar as retrospectivas.                 |
 | <img width="170" height="100" src="./assets/images/logoNotion.png">  |  Notion  |                          Ferramenta para criação de notas.                 |
 | <img width="170" height="100" src="./assets/images/logoFigma.png">  |  Figma  |                          Ferramenta para criação de protótipos de interface. |
+| <img width="170" height="60" src="./assets/images/logoDailyBot.png">  |  Daily Bot  |                          Ferramenta para execução das dailys (integrada ao Discord) |
 
 ## Conclusão
 
