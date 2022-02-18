@@ -22,11 +22,11 @@ Foi discutido acerca das entregas que estavam pendentes para a sprint.
 
 ### Retrospectiva
 
-Foi realizada uma retrospectiva acerca da entrega anterior. Foram discutidos os pontos positivos, negativos e de melhora para a próxima sprint.
+Foi realizada uma retrospectiva acerca da entrega anterior relacionada à elicitação de requisitos. Foram discutidos os pontos positivos, negativos e de melhora para a próxima sprint.
 
 ### Planning
 
-Foi realizada a planning da próxima sprint, levantando quais documentos seriam gerados e quais membros seriam responsáveis por cada documento.
+Foi realizada a planning da próxima sprint, levantando quais documentos seriam gerados para a próxima entrega (entrega 2 de Modelagem) e quais membros seriam responsáveis por cada documento.
 
 ## 4.Considerações finais
 
