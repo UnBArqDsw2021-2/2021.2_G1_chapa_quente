@@ -32,13 +32,18 @@
 
 - **Modelagem**
   - **Diagramas Estáticos**
+    - [Diagrama de Classes](pages/fase_02/diagrama_de_classes.md)
     - [Diagrama de Classe Abstrata](pages/fase_02/diagrama_de_classe_abstrata.md)
     - [Diagrama de Agregação e Composição](pages/fase_02/diagrama_de_agregacao_composicao.md)
     - [Diagrama de Pacote](pages/fase_02/diagrama_de_pacote.md)
+    - [Diagrama de Sequência](pages/fase_02/diagrama_de_sequencia.md)
+    - [Diagrama de Componentes](pages/fase_02/diagrama_de_componentes.md)
   - **Diagramas Dinâmicos**
     - [Diagrama de Atividades](pages/fase_02/diagrama_de_atividade.md)
     - [Diagrama de Sequência](pages/fase_02/diagrama_de_sequencia.md)
     - [Diagrama de Comunicação](pages/fase_02/diagrama_comunicacao.md)
     - [Diagrama de Estados](pages/fase_02/diagrama_de_estados.md)
   - **Iniciativas extras**
+    - [Atas](_indiceReuniao.md)
     - [Léxicos](pages/fase_02/lexicos.md)
+    - [Gerenciamento de Riscos](pages/fase_02/gerenciamento_de_riscos.md)
