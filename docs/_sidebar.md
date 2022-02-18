@@ -27,7 +27,6 @@
     - [Atas](_indiceReuniao.md)
     - [Política de repositório](pages/fase_01/iniciativasExtras/politica_repositorio.md)
     - [First Things First](pages/fase_01/iniciativasExtras/first_things_first.md)
-    - [Métricas de Sprint](pages/fase_02/iniciativasExtras/metricas_de_sprint.md)
   - **Apresentações**
     - [Vídeos](pages/fase_01/apresentacoes_base.md)
 
@@ -55,3 +54,4 @@
     - [Cronograma do Projeto](pages/fase_02/cronograma_do_projeto.md)
     - [Gerenciamento de Riscos](pages/fase_02/gerenciamento_de_riscos.md)
     - [Estimativas](pages/fase_02/iniciativasExtras/estimativas.md)
+    - [Métricas de Sprint](pages/fase_02/iniciativasExtras/metricas_de_sprint.md)
