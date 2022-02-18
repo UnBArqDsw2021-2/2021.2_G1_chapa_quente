@@ -4,7 +4,7 @@
 
 | Versão | Data       | Modificação          | Autor                        |Revisor|
 | ------ | :--------: | :------------------: | :--------------------------: | :---: |
-| 1.0    | 15/02/2022 | Criação do Documento |  Dafne Moretti Moreira |       |
+| 1.0    | 15/02/2022 | Criação do Documento |  Dafne Moretti Moreira | Murilo Gomes de Souza,João Pedro Alves da Silva Chaves, Guilherme Daniel Fernandes da Silva e Pedro Henrique de Lima Malaquias |
 
 ## Introdução
 
