@@ -50,6 +50,7 @@
     - [Diagrama de Estados](pages/fase_02/diagrama_de_estados.md)
   - **Iniciativas extras**
     - [Atas](_indiceReuniao.md)
-    - [Léxicos](pages/fase_02/lexicos.md)
+    - [Léxicos](pages/fase_02/iniciativasExtras/lexicos.md)
     - [Cronograma do Projeto](pages/fase_02/cronograma_do_projeto.md)
     - [Gerenciamento de Riscos](pages/fase_02/gerenciamento_de_riscos.md)
+    - [Estimativas](pages/fase_02/iniciativasExtras/estimativas.md)
