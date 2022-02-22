@@ -58,15 +58,45 @@ Para acessar o vídeo clique em: https://www.youtube.com/embed/iNoo6HqQl2g
 
 Para acessar o vídeo clique em: https://www.youtube.com/embed/nc_Ye5fgmS4
 
-<!-- ## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
+## Screenshots Segunda Entrega FOCO: DSW(Modelagem)
 
-Adicione 2 ou mais screenshots do projeto em termos de artefatos da Segunda Entrega.
+![](./docs/assets/images/fase02-print01.png)
 
-## Vídeo(s) Segunda Entrega <<FOCO: DSW(Modelagem)>>
+<figcaption>Figura 1 - Screenshot do artefato de Diagrama de Atividade</figcaption>
 
-Adicione o(s)s vídeo(s) da Segunda Entrega.
+</br>
+</br>
 
-## Screenshots Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
+![](./docs/assets/images/fase02-print02.png)
+
+<figcaption>Figura 2 - Screenshot do artefato de Backlog do Produto</figcaption>
+
+</br>
+</br>
+
+![](./docs/assets/images/fase02-print03.png)
+
+<figcaption>Figura 3 - Screenshot da listagem de artefatos da fase 02 presentes na main até o deadline</figcaption>
+
+## Vídeo(s) Segunda Entrega FOCO: DSW(Modelagem)
+
+### Notação UML – Diagramas Estáticos
+
+Para acessar o vídeo clique em: https://www.youtube.com/watch?v=yHI60JMtKXY
+
+### Notação UML – Diagramas Dinâmicos
+
+Para acessar o vídeo clique em: https://www.youtube.com/watch?v=Js3eh_BaNWQ
+
+### Modelagem Ágil
+
+Para acessar o vídeo clique em: https://www.youtube.com/watch?v=-Vj9ovAmh-E
+
+### Iniciativas Extras de Modelagem
+
+Para acessar o vídeo clique em: https://www.youtube.com/watch?v=o538S_RTook
+
+<!-- ## Screenshots Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
 
 Adicione 2 ou mais screenshots do projeto em termos de artefatos da Terceira Entrega.
 
