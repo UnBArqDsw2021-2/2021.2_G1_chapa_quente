@@ -58,3 +58,7 @@
     - [Correções](pages/fase_02/iniciativasExtras/correcoes.md)
   - **Apresentações**
     - [Vídeos](pages/fase_02/apresentacoes_modelagem.md)
+
+- **Padrões de Projeto**
+  - **GRASPs**
+    - [Polimorfismo](pages/fase_03/grasp_polimorfismo.md)
