@@ -4,7 +4,7 @@
 
 | Versão | Data       | Modificação          | Autor                        |Revisor|
 | ------ | :--------: | :------------------: | :--------------------------: | :---: |
-| 1.0    | 27/02/2022 | Criação do Documento | Giulia Lobo Barros | A definir |
+| 1.0    | 27/02/2022 | Criação do Documento | Giulia Lobo Barros | Pedro Lima e Philipe Serafim |
 
 ## Introdução e Metodologia
 
