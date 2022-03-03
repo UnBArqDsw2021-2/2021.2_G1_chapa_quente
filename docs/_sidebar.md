@@ -58,3 +58,5 @@
     - [Correções](pages/fase_02/iniciativasExtras/correcoes.md)
   - **Apresentações**
     - [Vídeos](pages/fase_02/apresentacoes_modelagem.md)
+
+  -[Invenção Pura](pages/invencao_pura.md)
