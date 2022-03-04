@@ -58,3 +58,7 @@
     - [Correções](pages/fase_02/iniciativasExtras/correcoes.md)
   - **Apresentações**
     - [Vídeos](pages/fase_02/apresentacoes_modelagem.md)
+
+- **Padrões de projeto**
+  -**GRASPS**
+  - [GRASP indireção](pages/fase_03/GRASP_indirecao.md)
