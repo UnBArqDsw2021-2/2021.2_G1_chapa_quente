@@ -1,6 +1,6 @@
 # Alta Coesão e Baixo Acoplamento
 
-## Introdução - GRASP
+## Introdução
 
 Os padrões GRASP (General Responsibility Assignment Software Patterns) consistem numa série de princípios para entender o design de objetos essenciais de uma aplicação e aplicar o design de uma forma metódica, racional e explicável.
 
