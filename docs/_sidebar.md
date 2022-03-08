@@ -58,3 +58,6 @@
     - [Correções](pages/fase_02/iniciativasExtras/correcoes.md)
   - **Apresentações**
     - [Vídeos](pages/fase_02/apresentacoes_modelagem.md)
+
+- **Padrões de projeto**
+    - [GOF Prototype](pages/fase_03/gof_criacional_prototype.md)
