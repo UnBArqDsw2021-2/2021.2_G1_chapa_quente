@@ -10,21 +10,18 @@
 
 O padrão **Facade** busca facilitar o uso de uma funcionalidade que requer a operação de um conjunto de classes, tornando a utilização de tal funcionalidade algo complexo para o usuário.
 
-A ideia é a instalação de uma nova interface, onde dentro dela são realizadas todas as etapas para o resultado desejado, tais etapas sequer ficam a mostra dos usuários.
+A ideia é a instalação de uma nova interface, onde dentro dela é realizada todas as etapas para o resultado desejado. Tais etapas não ficam evidentes para o usuário.
 
 ## Metodologia
 
-Um exemplo seria a conversão de um vídeo. Esse processo é extremamente complexo, requerendo várias operações para realizar a mudança de formato com sucesso. O **facade** propõem facilitar esse processo fornecendo ao usuário um meio de realizar todas as operações necessárias de uma forma direta, com a chamada de um metodo de uma unica classe: ```codificarVideo(arquivo, formato)```.
+Um exemplo de uso do padrão Facade no projeto é nas rotas do cardápio do restaurante.
 
 ![Exemplo Implementação Facade](../../assets/images/gof-facade-example.png)
-Figura 1 - Exemplo de uso do padrão facade na conversão de um vídeo.
-Fonte: [https://refactoring.guru/](https://refactoring.guru/)
-
-O grupo vê a utilização do padrão **facade** nas partes referentes ao cadastro, tanto de usuário quanto de items no cardápio.
+<figcaption style="text-align: center">Exemplo de uso do padrão facade no gerenciamento do menu do restaurante.</figcaption>
 
 ## Conclusão
 
-O padrão facade traz uma saída para funcionalidades que requerem a operação de um conjunto de classes, que devem seguir uma determinada organização, tornando tal operação bastante complexa. O objetivo é tornar a realização dessa atividade algo mais fácil para o usuário.
+O padrão **facade** traz uma saída para funcionalidades que requerem a operação de um conjunto de classes, que devem seguir uma determinada organização, tornando tal operação bastante complexa. Objetiva-se assim tornar a  realização dessa atividade algo mais fácil e intuitivo para o usuário. O grupo enxerga o uso do padrão **facade** nas rotas da aplicação, com relação as controllers responsáveis por coordenar a aplicação.
 
 ## Bibliografia
 
