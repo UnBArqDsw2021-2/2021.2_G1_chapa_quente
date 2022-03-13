@@ -4,7 +4,7 @@
 
 | Versão |    Data    |                  Modificação                   |         Autor         |      Revisor       |
 | ------ | :--------: | :--------------------------------------------: | :-------------------: | :----------------: |
-| 1.0    | 25/02/2022 |              Criação do Documento              | Murilo Gomes e Rodrigo Lima | |
+| 1.0    | 25/02/2022 |              Criação do Documento              | Murilo Gomes e Rodrigo Lima | Lucas Andrade e Dafne Moretti |
 
 ## Introdução
 
@@ -23,7 +23,6 @@ O Composite é composto por 4 tipos de classes atuantes:
 * Leaf: Classe que estende de Component e tem como objetivo representar os objetos a serem utilizados na composição
 * Composite: Classe que estende de Component e agrupa objetos das classes Leafs. Tem como objetivo implementar os métodos de Component para acessar e gerenciar as Leafs armazenadas.
 * Client: Classe que interage com Component para gerenciar a composição a ser utilizada.
-
 
 ## Conclusão
 
