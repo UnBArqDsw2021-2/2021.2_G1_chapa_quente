@@ -56,5 +56,5 @@
     - [Métricas de Sprint](pages/fase_02/iniciativasExtras/metricas_de_sprint.md)
     - [Tabela de Competências](pages/fase_02/iniciativasExtras/tabela_competencias.md)
     - [Correções](pages/fase_02/iniciativasExtras/correcoes.md)
-  - **Apresentações**
-    - [Vídeos](pages/fase_02/apresentacoes_modelagem.md)
+    - **Apresentações**
+      - [Vídeos](pages/fase_02/apresentacoes_modelagem.md)
