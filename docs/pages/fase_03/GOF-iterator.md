@@ -4,7 +4,7 @@
 
 | Versão |    Data    |     Modificação      | Autor | Revisor |
 | ------ | :--------: | :------------------: | :---: | :-----: |
-| 1.0    | 25/02/2022 | Criação do Documento |Philipe Serafim e Lucas Andrade|         |
+| 1.0    | 25/02/2022 | Criação do Documento |Philipe Serafim e Lucas Andrade| Dafne Moretti |
 
 <!-- NÃO ESQUECER DE ADICIONAR AO "/_sidebar.md" -->
 
