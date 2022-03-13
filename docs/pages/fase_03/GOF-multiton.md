@@ -14,15 +14,15 @@ Sendo uma extensão do Singleton, o Multiton tem por objetivo instanciar um núm
 
 ## Metodologia
 
-O construtor do Multiton deve ser privado, afim de evitar que instanciações que não seriam criadas dentro do dicionário já estabelecido. Também deve existir, um método que retorne um objeto do dicionário a partir de uma chave identificadora passada como argumento.
+O construtor do Multiton deve ser privado, a fim de evitar que instanciações que não seriam criadas dentro do dicionário já estabelecido. Também deve existir um método que retorne um objeto do dicionário a partir de uma chave identificadora passada como argumento.
 
 ![](../../assets/images/multiton.png)
 
-<figcaption>Figura 1 - Classe multiton. (CARR)</figcaption>
+Figura 1 - Classe multiton. Fonte: [CARR](http://www.blackwasp.co.uk/multiton.aspx)
 
 ## Conclusão
 
-O acesso centralizado a partir da chave informada, permite com que o Multiton exerça diversos papeis em projetos distintos. Entretanto deve-se prestar atenção ao fato de que o Multiton nunca irá retornar um valor nulo, caso não exista instanciação para a chave indicada, uma nova instância será criada para a chave em questão, podendo causa um uso inesperado de memória.
+O acesso centralizado a partir da chave informada permite com que o Multiton exerça diversos papéis em projetos distintos. Entretanto deve-se prestar atenção ao fato de que o Multiton nunca irá retornar um valor nulo, caso não exista instanciação para a chave indicada, uma nova instância será criada para a chave em questão, podendo causa um uso inesperado de memória.
 
 ## Bibliografia
 
