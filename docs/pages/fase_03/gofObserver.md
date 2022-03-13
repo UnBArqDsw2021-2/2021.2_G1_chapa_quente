@@ -4,7 +4,7 @@
 
 | Versão |    Data    |     Modificação      | Autor | Revisor |
 | ------ | :--------: | :------------------: | :---: | :-----: |
-| 1.0    | 25/02/2022 | Criação do Documento | Guilherme Fernandes |         |
+| 1.0    | 25/02/2022 | Criação do Documento | Guilherme Fernandes | Lucas Andrade e João Pedro Alves da Silva Chaves |
 
 <!-- NÃO ESQUECER DE ADICIONAR AO "/_sidebar.md" -->
 

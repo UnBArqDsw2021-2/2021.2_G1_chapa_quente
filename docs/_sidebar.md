@@ -58,7 +58,3 @@
     - [Correções](pages/fase_02/iniciativasExtras/correcoes.md)
     - **Apresentações**
       - [Vídeos](pages/fase_02/apresentacoes_modelagem.md)
-
-- **Padrões de Projeto**
-  - **Padrões de Projeto GoFs**
-    - [GOF Strategy](pages/fase_03/gof_strategy.md)
