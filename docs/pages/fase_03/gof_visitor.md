@@ -23,7 +23,7 @@ Para a implementação é preciso:
 <figcaption style="text-align: center"><a href="../../assets/images/visitor.png" >Figura 1 </a>: Exemplo de Visitor. Fonte: <a href="https://sourcemaking.com/design_patterns/visitor" > Visitor Design Pattern</a>. Acesso em: 25/02/2022 </figcaption>
 
 ## Conclusão
-Analisando as caractirísticas do Visitor, percebo que, a pricipio, não é um padrão que se encaixe no projeto Chapa Quente.
+Analisando as características do Visitor, percebo que, a princípio, não é um padrão que se encaixe no projeto Chapa Quente.
 
 ## Bibliografia
 * SOURCE MAKING - Visitor Design Pattern. Disponível em: https://sourcemaking.com/design_patterns/visitor . Acesso em: 25 de fevereiro de 2022.
