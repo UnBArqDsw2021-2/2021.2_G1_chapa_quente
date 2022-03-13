@@ -12,7 +12,7 @@
 Os padrões GoF buscam solucionar problemas recorrentes em projetos da Engenharia de Software. Neste documento será tratado acerca do padrão Observer, um padrão comportamental amplamente utilizado em aplicações e APIs disponíveis no mercado.
 
 ## Metodologia
-O Observer é um padrão GoF comportamental que consiste na criação de um mecanismo de assinatura que notifica múltiplos objetos quando qualquer evento que eles estão observando acontece. Dessa forma, é possível para um objeto observar os eventos que ocorrem em N objetos aos quais ele está observando. 
+O Observer é um padrão GoF comportamental que consiste na criação de um mecanismo de assinatura que notifica múltiplos objetos quando qualquer evento que eles estão observando acontece. Dessa forma, é possível para um objeto observar os eventos que ocorrem em N objetos aos quais ele está observando.
 
 No padrão Observer há dois papéis:
 - Subject: a entidade que faz a publicação dos eventos.
