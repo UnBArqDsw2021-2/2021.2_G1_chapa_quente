@@ -10,16 +10,17 @@
 
 O padrão **Facade** busca facilitar o uso de uma funcionalidade que requer a operação de um conjunto de classes, tornando a utilização de tal funcionalidade algo complexo para o usuário.
 
-A ideia é a instalação de uma nova interface, onde dentro dela é realizada todas as etapas para o resultado desejado, onde tais etapas sequer ficam a mostra dos usuários.
+A ideia é a instalação de uma nova interface, onde dentro dela são realizadas todas as etapas para o resultado desejado, tais etapas sequer ficam a mostra dos usuários.
 
 ## Metodologia
 
-Um exemplo seria a conversão de um video. Esse processo é extremamente complexo, requerendo várias operações para realizar a mudança de formato com sucesso. O **facade** propõem facilitar esse processo fornecendo ao usuario um meio de realizar todas as operações necessárias de uma forma direta, com a chamada de um metodo de uma unica classe: ```codificarVideo(arquivo, formato)```.
+Um exemplo seria a conversão de um vídeo. Esse processo é extremamente complexo, requerendo várias operações para realizar a mudança de formato com sucesso. O **facade** propõem facilitar esse processo fornecendo ao usuário um meio de realizar todas as operações necessárias de uma forma direta, com a chamada de um metodo de uma unica classe: ```codificarVideo(arquivo, formato)```.
 
 ![Exemplo Implementação Facade](../../assets/images/gof-facade-example.png)
-<figcaption style="text-align: center">Exemplo de uso do padrão facade na conversão de um vídeo. Fonte: https://refactoring.guru/</figcaption>
+Figura 1 - Exemplo de uso do padrão facade na conversão de um vídeo.
+Fonte: [https://refactoring.guru/](https://refactoring.guru/)
 
-O grupo vê a utilização do padrão **facade** nas partes referentes ao cadastro, tanto de usuário quanto de items no cardapio.
+O grupo vê a utilização do padrão **facade** nas partes referentes ao cadastro, tanto de usuário quanto de items no cardápio.
 
 ## Conclusão
 
