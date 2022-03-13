@@ -15,6 +15,7 @@ O padrão GOF criacional factory method é um padrão que tem como objetivo melh
 ## Metodologia
 
 O factory method funciona da seguinte forma: é criada uma hierarquia espelho que será dedicada à instanciação. Geralmente a classe abstrata da hierarquia espelho é referenciada como **Creator** e tem no mínimo uma relação de dependência com a classe abstrata da hierarquia "original"(para facilitar a compreensão vamos chamar de **Product**). 
+
 A classe **Creator** tem um método abstrato de criação referenciado geralmente como factory Method (por isso o nome do padrão), porém pode possuir outros métodos e operações. A classe concreta que herda do **Creator** é chamada **ConcreteCreator**, que por meio da sobrescrita modifica o corpo do método factory Method para atender ao objetivo que é criar a instância do **Concrete Product**(classe que herda do **Product**).
 
 
