@@ -1,10 +1,10 @@
-# Decorator
+# GOF Decorator
 
 ## Versionamento
 
 | Versão |    Data    |     Modificação      |              Autor               |    Revisor     |
 | ------ | :--------: | :------------------: | :------------------------------: | :------------: |
-| 1.0    | 02/03/2022 | Criação do Documento | João Pedro Chaves e Murilo Gomes | Liverson Paulo |
+| 1.0    | 02/03/2022 | Criação do Documento | João Pedro Chaves e Murilo Gomes | Lucas Andrade e Dafne Moretti |
 
 <!-- NÃO ESQUECER DE ADICIONAR AO "/_sidebar.md" -->
 
