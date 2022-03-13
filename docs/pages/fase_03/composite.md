@@ -13,7 +13,7 @@ Composite é um padrão comportamental que tem como objetivo compor objetos em e
 ## Metodologia
 
 ![Padrão Composite](../../assets/images/composite.png)
-<figcaption><a href="../../assets/images/composite.png">Figura 1:</a> Diagrama do Padrão Composite. Fonte: https://itnext.io/easy-patterns-composite-8b28aa1f158 </figcaption>
+<figcaption><a href="../../assets/images/composite.png">Figura 1:</a> Diagrama do Padrão Composite. Fonte: <a href="https://itnext.io/easy-patterns-composite-8b28aa1f158" > https://itnext.io/easy-patterns-composite-8b28aa1f158</a></figcaption>
 
 O Composite é um padrão que consiste em agrupar objetos (Leafs) de um tipo definido (Component) dentro de uma classe herdada (Composite) desse mesmo tipo, permitindo que essa classe (Composite) execute os métodos definidos pelo Component baseados na composição de Leafs contidas no Composite.
 
