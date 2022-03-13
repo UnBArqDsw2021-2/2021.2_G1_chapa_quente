@@ -8,13 +8,13 @@
 
 ## Introdução
 
-O padrão projeto Adapter é utilizado quando precisamos utilizar um certa funcionalidade, muitas vezes uma biblioteca externa, porém está possui uma certa incompatibilidade com o formato de dados que a aplicação usa.
+O padrão de projeto Adapter é utilizado quando precisamos fazer o uso de uma certa funcionalidade, muitas vezes uma biblioteca externa, porém esta possui incompatibilidade com o formato de dados que a aplicação usa.
 
-Neste tipo de situação, modificar a funcionalidade para aceitar o formato original pode muitas vezes se mostrar inviavel: modificar o código pode trazer problemas em outras partes ou então podemos ter a situação de ser um código fechado, impossibilitando alterações.
+Neste tipo de situação, modificar a funcionalidade para aceitar o formato original pode muitas vezes se mostrar inviável: modificar o código pode trazer problemas em outras partes ou então podemos ter a situação de ser um código fechado, impossibilitando alterações.
 
 A proposta do padrão Adapter é servir como um tradutor entre duas interfaces distintas.
 
-### Pontos Positivos:
+### Pontos Positivos:z
 - Facilita manutenção
 - Emprega uma linguagem universal (padrão)
 - Modularização do projeto, dividindo bem as funções
@@ -24,7 +24,7 @@ A proposta do padrão Adapter é servir como um tradutor entre duas interfaces d
 
 ## Metodologia
 
-Uma bom exemplo para explicar o padrão Adapter é a ideia de uma tomada. 
+Um bom exemplo para explicar o padrão Adapter é a ideia de uma tomada. 
 
 ![Adapter Exemplo](../../assets/images/adapter-example.png)
 
