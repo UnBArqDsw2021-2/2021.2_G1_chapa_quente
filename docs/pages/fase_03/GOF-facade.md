@@ -4,7 +4,7 @@
 
 | Versão | Data       | Modificação          | Autor                        |Revisor|
 | ------ | :--------: | :------------------: | :--------------------------: | :---: |
-| 1.0    | 02/03/2022 | Criação do Documento | Lucas Andrade |  |
+| 1.0    | 02/03/2022 | Criação do Documento | Lucas Andrade | Dafne Moretti |
 
 ## Introdução
 

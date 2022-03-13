@@ -58,7 +58,3 @@
     - [Correções](pages/fase_02/iniciativasExtras/correcoes.md)
   - **Apresentações**
     - [Vídeos](pages/fase_02/apresentacoes_modelagem.md)
-- **Desenho de Software**
-  - **Padrões de Projeto GRASPs**
-  - **Padrões de Projeto GoFs**
-    - [Facade](pages/fase_03/GOF-facade.md)
