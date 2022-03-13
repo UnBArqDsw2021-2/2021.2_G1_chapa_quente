@@ -1,10 +1,10 @@
-# GoF Criacional - Abstract Factory
+# GoF Abstract Factory
 
 ## Versionamento
 
 | Versão | Data       | Modificação          | Autor                        |Revisor|
 | ------ | :--------: | :------------------: | :--------------------------: | :---: |
-| 1.0    | 15/02/2022 | Criação do Documento |  Liverson Paulo, Giulia Lobo | A definir |
+| 1.0    | 15/02/2022 | Criação do Documento |  Liverson Paulo e Giulia Lobo | Lucas Andrade e Dafne Moretti |
 
 ## Introdução e metodologia
 
