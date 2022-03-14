@@ -4,7 +4,7 @@
 
 | Versão |    Data    |     Modificação      | Autor | Revisor |
 | ------ | :--------: | :------------------: | :---: | :-----: |
-| 1.0    | 03/03/2022 | Criação do Documento |  Dafne Moretti Moreira     |         |
+| 1.0    | 03/03/2022 | Criação do Documento |  Dafne Moretti Moreira     | Lucas Andrade e João Pedro Alves da Silva Chaves |
 
 ## Introdução
 
@@ -14,7 +14,7 @@ O padrão GRASP Invenção Pura aborda o conceito de criação de uma classe "fi
 
 Abaixo é possível visualizar um exemplo de GRASP de Invenção Pura sendo utilizado.
 
-![Diagrama de invenção pura](./../../assets/images/invencao_pura1.png ":size=600") </br> Figura 1 - Diagrama que representa invenção pura. Fonte: 
+![Diagrama de invenção pura](./../../assets/images/invencao_pura1.png ":size=600") </br> Figura 1 - Diagrama que representa invenção pura.
 
 ## Conclusão
 
