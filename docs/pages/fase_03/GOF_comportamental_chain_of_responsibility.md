@@ -14,6 +14,8 @@ Abaixo há um exemplo do funcionamento de Chain of Responsibility associando com
 
 ![](../../assets/images/chainofresponsibility.png)
 
+<figcaption> Exemplo de Chain of Responsibility. Tirado de https://refactoring.guru/pt-br/design-patterns/chain-of-responsibility<figcaption>
+
 ## Conclusão
 
 Este GOF comportamental pode ser extremamente importante para o projeto, já que em um sistema de lanchonete há pedidos com os quais é necessário lidar o tempo inteiro, portanto este GOF comportamental é bem-vindo na aplicação do projeto.
