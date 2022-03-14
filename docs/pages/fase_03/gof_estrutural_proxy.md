@@ -4,7 +4,7 @@
 
 | Versão |    Data    |     Modificação      | Autor | Revisor |
 | ------ | :--------: | :------------------: | :---: | :-----: |
-| 1.0    | 04/03/2022 | Criação do Documento | Dafne Moretti e Rodrigo Lima   |         |
+| 1.0    | 04/03/2022 | Criação do Documento | Dafne Moretti e Rodrigo Lima   | Lucas Andrade e Dafne Moretti |
 
 <!-- NÃO ESQUECER DE ADICIONAR AO "/_sidebar.md" -->
 
