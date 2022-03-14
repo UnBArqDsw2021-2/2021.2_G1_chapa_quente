@@ -18,11 +18,13 @@
 
  ![Mediator Exemplo](./../../assets/images/gof-mediator.png)
 
-## Aplicabilidade
+### Aplicabilidade
 
- É possível utilizar o GoF comportamental Mediator é aplicado em diversos contextos, sendo principalmente utilizado em soluções onde é necessário que classes se comuniquem sem que seja necessário um alto acoplamento entre elas. Por utilizar uma interface como mediador, é interessante para implementações que utilizam classes que contém as mesmas funções, mas com implementação diferente. Um exemplo é classes que realizam autenticação de serviços, pois é possível definir um protocolo chamado Autenticação e passar para o mediador qual serviço será utilizado (ex: Firebase, Facebook, Google Sign In, etc). Dessa forma, é possível reduzir o acoplamento entre classes, aumentar a testabilidade e a manutenibilidade da solução, além de permitir que o código seja reutilizado em outras partes da aplicação.
+ É possível utilizar o GoF comportamental Mediator é aplicado em diversos contextos, sendo principalmente utilizado em soluções onde é necessário que classes se comuniquem sem que seja necessário um alto acoplamento entre elas. Por utilizar uma interface como mediador, é interessante para implementações que utilizam classes que contém as mesmas funções, mas com implementação diferente. 
+ 
+ Um exemplo é classes que realizam autenticação de serviços, pois é possível definir um protocolo chamado Autenticação e passar para o mediador qual serviço será utilizado (ex: Firebase, Facebook, Google Sign In, etc). Dessa forma, é possível reduzir o acoplamento entre classes, aumentar a testabilidade e a manutenibilidade da solução, além de permitir que o código seja reutilizado em outras partes da aplicação.
 
-## Vantagens e desvantagens
+### Vantagens e desvantagens
 
  | Vantagens | Desvantagens |
  | :-------: | :----------: |
