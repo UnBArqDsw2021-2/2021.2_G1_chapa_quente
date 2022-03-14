@@ -4,7 +4,7 @@
 
 | Versão |    Data    |     Modificação      | Autor | Revisor |
 | ------ | :--------: | :------------------: | :---: | :-----: |
-| 1.0    | 03/03/2022 | Criação do Documento |  Dafne Moretti Moreira   |         |
+| 1.0    | 03/03/2022 | Criação do Documento |  Dafne Moretti Moreira   | Lucas Andrade e João Pedro Alves da Silva Chaves |
 
 ## Introdução
 
