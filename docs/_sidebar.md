@@ -89,3 +89,4 @@
       - [Visitor](pages/fase_03/gof_visitor.md)
   - **Padrões Emergentes**
     - [MVC](pages/fase_03/mvc.md)
+    - [Injeção de Independência](pages/fase_03/injecao_de_independencia.md) 
