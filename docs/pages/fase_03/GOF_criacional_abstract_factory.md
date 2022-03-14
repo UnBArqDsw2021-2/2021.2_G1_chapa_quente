@@ -6,13 +6,16 @@
 | ------ | :--------: | :------------------: | :--------------------------: | :---: |
 | 1.0    | 15/02/2022 | Criação do Documento |  Liverson Paulo e Giulia Lobo | Lucas Andrade e Dafne Moretti |
 
-## Introdução e metodologia
+## Introdução 
 
 O GoF de Abstract Factory é um GoF criacional que o seu propósito é ter famílias de objetos relacionados, onde não é necessário especificar suas classes concretas.
+
+## Metodologia
 
 Ele é utilizado quando o código precisa trabalhar com famílias de produtos relacionados, mas que não se deseja depender das classes concretas para permitir uma futura escalabilidade.
 
 ![](../../assets/images/abstractfactory.png)
+</br> Figura 1 - Ilustração de Abstract Factory. Fonte: [https://thispersondoesnotexist.com/](ThisPersonDoesNotExist)
 
 ## Conclusão
 
