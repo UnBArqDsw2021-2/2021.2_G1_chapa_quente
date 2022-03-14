@@ -1,4 +1,10 @@
-# Alta Coesão e Baixo Acoplamento
+# GRASP Alta Coesão e Baixo Acoplamento
+
+## Versionamento
+
+| Versão | Data       | Modificação          | Autor                        |Revisor|
+| ------ | :--------: | :------------------: | :--------------------------: | :---: |
+| 1.0    | 07/03/2022 | Criação do Documento | Dafne Moretti, Guilherme e Giulia Lobo | Lucas Andrade |
 
 ## Introdução
 
