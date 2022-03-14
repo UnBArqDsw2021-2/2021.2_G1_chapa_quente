@@ -17,10 +17,13 @@ Basicamente este método extrai uma das dimensões de uma hierarquia em uma clas
 ### Exemplo de execução sem Bridge
 
 ![](../../assets/images/bridgept1.png)
+</br> Figura 1 - Exemplo de execução sem Bridge. Fonte: [https://refactoring.guru/pt-br/design-patterns/bridge](https://refactoring.guru/pt-br/design-patterns/bridge)
+
 
 ### Exemplo de execução com Bridge
 
 ![](../../assets/images/bridgept2.png)
+</br> Figura 2 - Exemplo de execução com Bridge. Fonte: [https://refactoring.guru/pt-br/design-patterns/bridge](https://refactoring.guru/pt-br/design-patterns/bridge)
 
 ## Conclusão
 
