@@ -15,12 +15,12 @@ O padrão Controller, ou Controlador, delega a classes **não-visuais** o dever 
 ## Metodologia
 
 ![Interação Usuario com UI](./../../../assets/images/user-controller_interaction.png)
-<figcaption>Interação do usuario com a UI e o papel da Controller.</figcaption>
+<figcaption style="text-align: center">Interação do usuario com a UI e o papel da Controller. Autores: Lucas Andrade</figcaption>
 
 O exemplo mostra a interação do cliente com a interface de usuário (UI), e como a Controller funciona como uma ponte, fornecendo as funcionalidades da aplicação para serem exibidas aos usuários na UI.  
 
 ![Exemplos de Controller](./../../../assets/images/GRASP-Controller.png)
-<figcaption>Exemplo de controllers que estão dentro da ideia da aplicação</figcaption>
+<figcaption style="text-align: center">Exemplo de controllers que estão dentro da ideia da aplicação. Autores: Lucas Andrade</figcaption>
 
 Acima temos dois exemplos de Controllers, a responsável pelas atividades relacionadas aos usuários e uma relacionada ao menu da aplicação. Visando um baixo acoplamento, cada Controller deve possui poucas atribuições.
 
