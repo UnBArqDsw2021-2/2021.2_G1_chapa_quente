@@ -59,7 +59,34 @@
   - **Apresentações**
     - [Vídeos](pages/fase_02/apresentacoes_modelagem.md)
 
-- **Padrões de Projeto**
+
+  - **GRASPs**
+    - [Alta Coesão Baixo Acoplamento](pages/fase_03/grasp_altacoesao_baixoacoplamento.md)
+    - [Criador](pages/fase_03/grasp_criador.md)
+    - [Especialista](pages/fase_03/grasp_especialista.md)
+    - [Polimorfismo](pages/fase_03/grasp_polimorfismo.md)
+    - [Controller](pages/fase_03/GRASP-Controller.md)
+    - [Invenção Pura](pages/fase_03/invencao_pura.md)
   - **GoFs**
+    - **Criacional**
+      - [Factory Method](pages/fase_03/gof_factory_method.md)
+      - [Object Pool](pages/fase_03/GOF-Object-Pool.md)
+      - [Prototype](pages/fase_03/gof_criacional_prototype.md)
+      - [Multiton](pages/fase_03/GOF-multiton.md)
+    - **Estrutural**
+      - [Adapter](pages/fase_03/GOF-Adapter.md)
+      - [Bridge](pages/fase_03/GOF_estrutural_bridge.md)
+      - [Decorator](pages/fase_03/gof-decorator.md)
+      - [Facade](pages/fase_03/GOF-facade.md)
+      - [Flyweight](pages/fase_03/gof_flyweight.md)
+      - [Proxy](pages/fase_03/gof_estrutural_proxy.md)
     - **Comportamental**
       - [Command](pages/fase_03/gof_comportamental_command.md)
+      - [Composite](pages/fase_03/composite.md)
+      - [Iterator](pages/fase_03/GOF-iterator.md)
+      - [Observer](pages/fase_03/gofObserver.md)
+      - [State](pages/fase_03/gof_state.md)
+      - [Strategy](pages/fase_03/gof_strategy.md)
+      - [Visitor](pages/fase_03/gof_visitor.md)
+  - **Padrões Emergentes**
+    - [MVC](pages/fase_03/mvc.md)
