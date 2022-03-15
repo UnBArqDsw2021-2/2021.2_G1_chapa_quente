@@ -4,7 +4,7 @@
 
 | Versão |    Data    |     Modificação      | Autor | Revisor |
 | ------ | :--------: | :------------------: | :---: | :-----: |
-| 1.0    | 03/03/2022 | Criação do Documento |  Giulia Lobo Barros e Guilherme Fernandes | Dafne Moretti, João Chaves, Lucas Andrade e Rodrigo Tiago |
+| 1.0    | 03/03/2022 | Criação do Documento |  Giulia Lobo Barros e Guilherme Fernandes | Dafne Moretti, João Chaves, Lucas Andrade e Rodrigo Lima |
 
 ## Introdução
 

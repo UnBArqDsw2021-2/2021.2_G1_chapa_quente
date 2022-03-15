@@ -4,7 +4,7 @@
 
 | Versão |    Data    |     Modificação      | Autor | Revisor |
 | ------ | :--------: | :------------------: | :---: | :-----: |
-| 1.0    | 03/03/2022 | Criação do Documento |  Giulia Lobo Barros e Guilherme Fernandes  | Lucas Andrade, João Pedro Alves da Silva Chaves e Dafne Moretti |
+| 1.0    | 03/03/2022 | Criação do Documento |  Giulia Lobo Barros e Guilherme Fernandes  | Lucas Andrade, João Pedro Alves da Silva Chaves, Dafne Moretti e Rodrigo Lima |
 
 ## Introdução
 O GoF Memento é um GoF comportamental que tem o objetivo de restaurar o estado anterior de um objeto que foi salvo em algum tipo de armazenamento e faz isso sem revelar os detalhes da sua implementação.
