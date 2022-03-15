@@ -4,7 +4,8 @@
 
 | Versão | Data       | Modificação          | Autor                        |Revisor|
 | ------ | :--------: | :------------------: | :--------------------------: | :---: |
-| 1.0    | 02/03/2022 | Criação do Documento | Lucas Andrade | Dafne Moretti |
+| 1.0    | 02/03/2022 | Criação do Documento | Lucas Andrade | Dafne Moretti e João Pedro |
+| 1.1    | 15/03/2022 | Adição de código de exemplo e da conclusão | Lucas Andrade | Giulia Lobo e Guilherme Daniel Fernandes |
 
 ## Introdução
 
@@ -21,7 +22,7 @@ Um exemplo de uso do padrão Facade no projeto é nas rotas do cardápio do rest
 
 ## Conclusão
 
-O padrão **facade** traz uma saída para funcionalidades que requerem a operação de um conjunto de classes, que devem seguir uma determinada organização, tornando tal operação bastante complexa. Objetiva-se assim tornar a  realização dessa atividade algo mais fácil e intuitivo para o usuário. O grupo enxerga o uso do padrão **facade** nas rotas da aplicação, com relação as controllers responsáveis por coordenar a aplicação.
+O padrão **facade** traz uma saída para funcionalidades que requerem a operação de um conjunto de classes, que devem seguir uma determinada organização, tornando tal operação bastante complexa. Objetiva-se assim tornar a  realização dessa atividade algo mais fácil e intuitivo para o usuário. O grupo vê utilização do padrão **facade** nas rotas da aplicação, com relação as controllers responsáveis por coordenar a aplicação.
 
 ## Bibliografia
 
