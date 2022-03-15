@@ -4,7 +4,7 @@
 
 | Versão | Data       | Modificação          | Autor                        |Revisor|
 | ------ | :--------: | :------------------: | :--------------------------: | :---: |
-| 1.0    | 25/01/2022 | Criação do Documento | Liverson Paulo e Lucas Andrade | A definir |
+| 1.0    | 25/01/2022 | Criação do Documento | Liverson Paulo e Lucas Andrade | Dafne Moretti e João Pedro |
 
 ## Introdução e Metodologia
 
