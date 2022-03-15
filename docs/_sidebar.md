@@ -87,5 +87,6 @@
       - [State](pages/fase_03/gof_state.md)
       - [Strategy](pages/fase_03/gof_strategy.md)
       - [Visitor](pages/fase_03/gof_visitor.md)
+      - [Template Method](pages/fase_03/template-method.md)
   - **Padrões Emergentes**
     - [MVC](pages/fase_03/mvc.md)
