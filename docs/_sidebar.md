@@ -90,3 +90,6 @@
       - [Template Method](pages/fase_03/template-method.md)
   - **Padrões Emergentes**
     - [MVC](pages/fase_03/mvc.md)
+  - **Iniciativas extras**
+    - [Atas da Entrega](_indiceReuniao4.md)
+  - **Apresentações**
