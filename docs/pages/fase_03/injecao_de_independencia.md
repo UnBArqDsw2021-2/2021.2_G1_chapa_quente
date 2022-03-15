@@ -95,6 +95,17 @@ describe('Team', function() {
 
 É possível constatar que a diferença dá-se pelo uso do padrão *Factory*, onde ele é usado para a injeção dos objetos criados. No exemplo, é realizada a injeção da model User ao passá-la na criação da função da model *Team*. 
 
+## Exemplo no Projeto
+Abaixo ilustramos como esse padrão pode ser utilizado no projeto Chapa Quente:
+
+![](../../assets/images/pessoaController.png)
+> Figura 2: Pessoa Controller. Fonte: Autoria própria.
+
+![](../../assets/images/clienteController.png)
+> Figura 1: Cliente Controller. Fonte: Autoria própria.
+
+No exemplo acima a classe ClienteController herda de PessoaController e no seu construtor é chamado o construtor da PessoaController, injetando a Model de Cliente na PessoaController como dependência caso nenhuma opção seja passada para ClienteController, caso contrário, é injetada a Model que foi passada na ClienteController.
+
 ## Vantagens e Desvantagens
 
 * Vantagens
