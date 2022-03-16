@@ -6,6 +6,7 @@
 | ------ | :--------: | :------------------: | :--------------------------: | :---: |
 | 1.0    | 04/03/2022 | Criação do Documento | Liverson Paulo, Lucas Andrade | João Pedro |
 | 1.1    | 16/03/2022 | Melhorias no texto   | Lucas Andrade | João Pedro Chaves |
+| 1.2    | 16/03/2022 | Adições na conclusão   | Liverson Paulo | Pedro Lima |
 
 ## Introdução
 
@@ -20,6 +21,8 @@ O GRASP de Indireção possui uma certa similaridade com o GRASP de Invenção P
 ## Conclusão
 
 O padrão de indireção permite uma maior flexibilidade no código, e quando aplicado, permite a utilização de quase qualquer GoF, sem exigir a necessidade de se realizar um refatoramento nas classes. Este padrão, se aplicado de forma conjunta com o de invenção pura, tem o potencial de ser muito útil para a equipe no desenvolvimento do projeto, promovendo o baixo acomplamento e alta coesão no código, além de facilitar a aplicação de demais GoFs.
+
+Ao utilizar a invenção pura, há grandes chances deste GRASP ser utilizado para trabalhar de forma conjunta.
 
 ## Bibliografia
 
