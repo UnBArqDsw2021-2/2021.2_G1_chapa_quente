@@ -5,6 +5,7 @@
 | Versão |    Data    |     Modificação      | Autor | Revisor |
 | ------ | :--------: | :------------------: | :---: | :-----: |
 | 1.0    | 04/03/2022 | Criação do Documento | Dafne Moretti e Rodrigo Lima   | Pedro Lima e Philipe Serafim |
+| 1.1    | 16/03/2022 | Adição de exemplo de código | Murilo Gomes e Philipe Serafim | Giulia Lobo e Liverson Paulo |
 
 <!-- NÃO ESQUECER DE ADICIONAR AO "/_sidebar.md" -->
 
@@ -35,12 +36,17 @@ Resumindo:
 <figcaption><a href="../../assets/images/gof-comportamental-command.png">Figura 1:</a> Diagrama do Padrão Command. Fonte: <a href="https://sourcemaking.com/files/v2/content/patterns/Command.png" > Source Making</a></figcaption>
 
 ## Conclusão
-O padrão Command é muito interessante pela sua capacidade de encapsulamento e de gerenciar as solicitações, isso auxilia muito nos crescimento de uma aplicação compatível, além de possibilitar uma leitura de código de mais fácil entendimento e facilitar a manutenção. 
+O padrão Command é muito interessante pela sua capacidade de encapsulamento e de gerenciar as solicitações, isso auxilia muito nos crescimento de uma aplicação compatível, além de possibilitar uma leitura de código de mais fácil entendimento e facilitar a manutenção.
+
+![Exemplo de Código com Command](../../assets/images/exemploCommand.png)
+<figcaption><a href="../assets/images/exemploCommand.png">Figura 1:</a> Exemplo de código usando Command. Fonte: Autoria Própria </figcaption>
+
+Acima consta uma implementação exemplo de como o command poderia funcionar no escopo do nosso projeto, mostrando a parte de enviar notificações tanto pro entregador quanto pro cliente.
 
 ## Bibliografia
 
 * SERRANO, Milene. Padrões de Projeto - Gofs - Comportamental. Acesso em: 04 de março de 2022.
 
-* SOURCE MAKING - Proxy Design Pattern. Disponível em: https://sourcemaking.com/design_patterns/command . Acesso em: 04 de março de 2022.
+* SOURCE MAKING - Command Design Pattern. Disponível em: https://sourcemaking.com/design_patterns/command . Acesso em: 04 de março de 2022.
 
 * SERRA, Luiz; MATOS, Matheus - Command. Disponível em: http://www.csi.uneb.br/padroes_de_projetos/command_2.html. Acesso em: 04 de março de 2022.
