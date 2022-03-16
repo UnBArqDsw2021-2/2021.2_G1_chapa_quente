@@ -139,7 +139,7 @@
 
  ## Conclusão
 
-O padrão Mediator é amplamente utilizado por reduzir o acoplamento entre classes. Dessa forma, seu uso é extremamente interessante para que haja um aumento da qualidade da aplicação. Todavia, esse padrão deve ser arquitetado cautelosamente na solução para que não haja a criação de um Objeto Deus. Além disso, é um padrão recomendado em soluções que apresentem classes com comportamentos parecidos, mas que fazem implementações distintas.
+O padrão Mediator é amplamente utilizado por reduzir o acoplamento entre classes. Dessa forma, seu uso é extremamente interessante para que haja um aumento da qualidade da aplicação. Todavia, esse padrão deve ser arquitetado cautelosamente na solução para que não haja a criação de um Objeto Deus. Além disso, é um padrão recomendado em soluções que apresentem classes com comportamentos parecidos, mas que fazem implementações distintas. Sendo assim, no contexto do nosso projeto, não há aplicações aparentes para a utilização do Mediator pois ele adiciona uma camada de abstração desnecessária no escopo do projeto, visto que é um projeto menos robusto.
 
  ## Bibliografia
 
