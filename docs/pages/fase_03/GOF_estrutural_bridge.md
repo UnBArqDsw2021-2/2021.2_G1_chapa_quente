@@ -30,21 +30,21 @@ Basicamente este método extrai uma das dimensões de uma hierarquia em uma clas
 
 Abaixo, temos um exemplo de implementação do padrão GoF Bridge em Java:
 
-![Interface Device](../../assets/images/deviceInterface.png)
+![Interface Device](../../assets/images/snackInterface.png)
 
-A interface Device se comporta como uma interface comum para todos os dispositivos. Nela, temos as funções desempenhadas por cada dispositivo.
+A interface Snack se comporta como uma interface comum para todos as comidas. Nela, temos as funções disponíveis nas comidas.
 
-![Implementação TV](../../assets/images/tvImplementation.png)
+![Implementação Food](../../assets/images/foodImplementation.png)
 
-A classe TV vai ser responsável por implementar a classe device, apresentando as funções comuns entre os devices. Dessa forma, é possível passar um objeto do tipo device para uma função, aumentando o reaproveitamento de código.
+A classe Food vai ser responsável por implementar a interface Snack, apresentando as funções comuns entre os Snacks. Dessa forma, é possível passar um objeto que implemente a interface Snack para uma função, aumentando o reaproveitamento de código.
 
-![Implementação Radio](../../assets/images/radioImplementation.png)
+![Implementação Drink](../../assets/images/drinkImplementation.png)
 
-A classe rádio também implementa a interface Device, pois é um tipo de Device e apresenta características e funcionalidades semelhantes à TV. Todavia, ela implementa os métodos também presentes na TV de forma diferente.
+A classe Drink também implementa a interface Snack, pois é um tipo de Snack e apresenta características e funcionalidades semelhantes à Food. Todavia, ela implementa os métodos também presentes na Food de forma diferente.
 
 ![Exemplo de Implementação](../../assets/images/implementationExample.png)
 
-Acima, temos um exemplo de utilização do padrão Bridge, onde são passadas para a chamada da função os objetos que são instâncias de classes que implementam a interface. Dessa forma, é possível utilizar os métodos presentes na interface tanto para a TV quanto para o rádio.
+Acima, temos um exemplo de utilização do padrão Bridge, onde são passadas para a chamada da função os objetos que são instâncias de classes que implementam a interface. Dessa forma, é possível utilizar os métodos presentes na interface tanto para a Food quanto para o Drink.
 
 ## Conclusão
 
