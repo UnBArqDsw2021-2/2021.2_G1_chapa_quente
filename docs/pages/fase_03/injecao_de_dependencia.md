@@ -16,81 +16,21 @@ No contexto da nossa aplicação, a utilização desse padrão é extremamente �
 
 Abaixo, é possível ver uma comparação entre um código utilizando injeção de dependência e outro não utilizando:
 
-```// team.js
-function Team (options) {
-  this.options = options;
-}
-
-Team.prototype.getTeam = function (teamId) {
-  return this.options.User.find ({teamId: teamId})
-}
-
-function create (options) {
-  return new Team (options);
-} 
-
-```
+![team.js](../../assets/images/injecao_de_dependencia_example.png)
 
 > Exemplo de código que utiliza Injeção de Dependência.
 
-```// team.spec.js
-var Team = require('./team');
-
-describe('Team', function() {
-  it('#getTeam', function* () {
-    var users = [{id: 1, id: 2}];
-    
-    var fakeUser = {
-      find: function() {
-        return Promise.resolve(users);
-      }
-    };
-
-    var team = Team.create({
-      User: fakeUser
-    });
-
-    var team = yield team.getTeam();
-
-    expect(team).to.eql(users);
-  });
-});
-```
+![team.spec.js](../../assets/images/injecao_de_dependencia.png)
 
 > Exemplo de teste unitário numa função que utiliza Injeção de Dependência.
 >
 
 Acima, é possível ver um exemplo de teste quando não é utilizado a injeção de dependência. Desse modo, é necessário que haja a criação de *stubs* para que seja possível testar os métodos utilizando o método de *sandbox*. Isso adiciona mais complexidade na criação do teste, além de haver um maior acoplamento entre as classes.
 
-```// team.js
-var User = require('./user');
-
-function getTeam(teamId) {
-  return User.find({teamId: teamId});
-}
-
-module.exports.getTeam = getTeam;
-```
+![team.js](../../assets/images/injecao.png)
 > Exemplo de código que não utiliza Injeção de Dependência.
 
-```// team.spec.js
-var Team = require('./team');
-var User = require('./user');
-
-describe('Team', function() {
-  it('#getTeam', function* () {
-    var users = [{id: 1, id: 2}];
-
-    this.sandbox.stub(User, 'find', function() {
-      return Promise.resolve(users);
-    });
-
-    var team = yield team.getTeam();
-
-    expect(team).to.eql(users);
-  });
-});
-```
+![team.spec.js](../../assets/images/dependencia_2.png)
 > Exemplo de teste unitário numa função que não utiliza Injeção de Dependência.
 
 É possível constatar que a diferença dá-se pelo uso do padrão *Factory*, onde ele é usado para a injeção dos objetos criados. No exemplo, é realizada a injeção da model User ao passá-la na criação da função da model *Team*. 
