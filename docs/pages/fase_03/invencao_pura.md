@@ -22,6 +22,8 @@ Ao verificar o diagrama de classe do projeto, foi possível perceber que esse GR
 
 Por exemplo, para criar uma classe geral que englobará alguns métodos que na versão atual do diagrama constam em diversas classes (bebida, sanduiche, acompanhamento e sobremesa) repetidamente.
 
+Além disso, será utilizada persistência e API REST.
+
 ## Aplicação - Código
 
 O código abaixo representa um código de "serviço", que é como o padrão de invenção pura é comumente chamado.
