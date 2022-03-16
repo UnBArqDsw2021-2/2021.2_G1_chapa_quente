@@ -5,7 +5,7 @@
 | Versão |    Data    |                  Modificação                   |         Autor         |      Revisor       |
 | ------ | :--------: | :--------------------------------------------: | :-------------------: | :----------------: |
 | 1.0    | 25/02/2022 |              Criação do Documento              | Murilo Gomes e Rodrigo Lima | Lucas Andrade e Dafne Moretti |
-| 1.1    | 16/03/2022 | Adição de exemplo de cógido                    | Rodrigo Lima | | 
+| 1.1    | 16/03/2022 | Adição de exemplo de cógido                    | Rodrigo Lima | Murilo Gomes e Giulia Lobo | 
 
 ## Introdução
 

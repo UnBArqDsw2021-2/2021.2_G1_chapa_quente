@@ -5,11 +5,11 @@
 | Versão |    Data    |     Modificação      | Autor | Revisor |
 | ------ | :--------: | :------------------: | :---: | :-----: |
 | 1.0    | 25/02/2022 | Criação do Documento | Murilo Gomes e Rodrigo Lima | Lucas Andrade e Dafne Moretti |
-| 1.1    | 16/03/2022 | Adição de Exemplo | Rodrigo Lima |     |
+| 1.1    | 16/03/2022 | Adição de Exemplo | Rodrigo Lima | Murilo Gomes e Giulia Lobo |
 
 <!-- NÃO ESQUECER DE ADICIONAR AO "/_sidebar.md" -->
 
-## Introdução
+## Introduçãoroca de codigo por imagem de codigo"
 O Visitor é um padrão comportamental GOF que tem como objetivo executar e adicionar diferentes operações em objetos de tipos similares, sem ter que alterá-los. 
 
 ## Metodologia

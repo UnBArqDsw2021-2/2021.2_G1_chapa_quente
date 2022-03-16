@@ -5,7 +5,7 @@
 | Versão |    Data    |     Modificação      | Autor | Revisor |
 | ------ | :--------: | :------------------: | :---: | :-----: |
 | 1.0    | 25/02/2022 | Criação do Documento | Murilo Gomes e Rodrigo Lima | Lucas Andrade, Dafne Moretti e João Pedro Alves da Silva Chaves |
-| 1.1    | 16/03/2022 | Adição de exemplo    | Rodrigo Lima |    |
+| 1.1    | 16/03/2022 | Adição de exemplo    | Rodrigo Lima | Murilo Gomes e Giulia Lobo |
 
 <!-- NÃO ESQUECER DE ADICIONAR AO "/_sidebar.md" -->
 
