@@ -4,7 +4,7 @@
 
 | Versão |    Data    |     Modificação      | Autor | Revisor |
 | ------ | :--------: | :------------------: | :---: | :-----: |
-| 1.0    | 04/03/2022 | Criação do Documento | Dafne Moretti e Rodrigo Lima   |         |
+| 1.0    | 04/03/2022 | Criação do Documento | Dafne Moretti e Rodrigo Lima   | Pedro Lima e Philipe Serafim |
 
 <!-- NÃO ESQUECER DE ADICIONAR AO "/_sidebar.md" -->
 
@@ -35,7 +35,7 @@ Resumindo:
 <figcaption><a href="../../assets/images/gof-comportamental-command.png">Figura 1:</a> Diagrama do Padrão Command. Fonte: <a href="https://sourcemaking.com/files/v2/content/patterns/Command.png" > Source Making</a></figcaption>
 
 ## Conclusão
-
+O padrão Command é muito interessante pela sua capacidade de encapsulamento e de gerenciar as solicitações, isso auxilia muito nos crescimento de uma aplicação compatível, além de possibilitar uma leitura de código de mais fácil entendimento e facilitar a manutenção. 
 
 ## Bibliografia
 
