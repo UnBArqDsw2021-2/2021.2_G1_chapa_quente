@@ -28,7 +28,7 @@ O Composite é composto por 4 tipos de classes atuantes:
 
 O padrão composite poderá ser utilizado no projeto na estrutura de combos de produtos em que a classe Produto seria o Component, os tipos de produto (bebida, sanduíche, sobremesa) seriam as Leafs e o Combo seria o Composite, sendo possível adicionar ou remover produtos do combo e executar operações sobre os produtos contidos no mesmo.
 
-## Aplicação - código
+## Aplicação - Código
 
 Tendo em vista a análise do padrão de projeto no escopo do Chapa Quente, foi criado o código de aplicação abaixo.
 

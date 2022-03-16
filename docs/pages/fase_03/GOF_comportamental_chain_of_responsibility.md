@@ -1,4 +1,4 @@
-# GOF comportamental Chain of responsibility
+# Chain of responsibility
 
 ## Versionamento
 
