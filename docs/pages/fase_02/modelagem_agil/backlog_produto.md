@@ -5,6 +5,7 @@
 | Versão | Data       | Modificação          | Autor                        |Revisor|
 | ------ | :--------: | :------------------: | :--------------------------: | :---: |
 | 1.0    | 15/02/2022 | Criação do Documento |  Dafne Moretti Moreira |  	Murilo Gomes de Souza,João Pedro Alves da Silva Chaves, Guilherme Daniel Fernandes da Silva e Pedro Henrique de Lima Malaquias |
+| 1.1 | 12/03/2022 | Correção dos elos dos documentos e adição de referências | João Pedro Chaves | Giulia Lobo e Guilherme Daniel Fernandes da Silva |
 
 ## Introdução
 
@@ -41,40 +42,44 @@ A equipe optou por utilizar o [formato de planilha](../pages/fase_02/modelagem_a
 
 |        Épico          |       Feature  |    História de Usuário             |             Priorização  |    Requisito relacionado         |
 | :-------------: | :-----------------: | :-----------------: |  :------------: | :----------: |                                                                               
-|        [EP01 - Conta](../pages/fase_02/modelagem_agil/epicos?id=ep01-conta)        | F01 - Criação do usuário | [US01](../pages/fase_02/modelagem_agil/historias_usuario?id=us01)  </br> | MUST | [RF04](../pages/fase_01/priorizacao_moscow?id=resultados)|
-|           | F02 - Login do usuário | [US02](../pages/fase_02/modelagem_agil/historias_usuario?id=us02) </br> | MUST | [RF04](../pages/fase_01/priorizacao_moscow?id=resultados) |
-|           | F03 - Edição do usuário | [US03](../pages/fase_02/modelagem_agil/historias_usuario?id=us03) </br> | SHOULD | [RF04](../pages/fase_01/priorizacao_moscow?id=resultados) |
-|           |  F03 - Edição do usuário | [US04](../pages/fase_02/modelagem_agil/historias_usuario?id=us04) </br> | SHOULD | [RF04](../pages/fase_01/priorizacao_moscow?id=resultados) |
-|           | F04 - Exclusão do usuário | [US05](../pages/fase_02/modelagem_agil/historias_usuario?id=us05) </br> | COULD | [RF04](../pages/fase_01/priorizacao_moscow?id=resultados) |
-|           | F04 - Exclusão do usuário | [US06](../pages/fase_02/modelagem_agil/historias_usuario?id=us06) </br> | COULD | [RF04](../pages/fase_01/priorizacao_moscow?id=resultados)|
-|           | F05 - Dados do usuário | [US07](../pages/fase_02/modelagem_agil/historias_usuario?id=us07) </br> | SHOULD | [RF04](../pages/fase_01/priorizacao_moscow?id=resultados)|
-|      [EP02 - Lanchonete](../pages/fase_02/modelagem_agil/epicos?id=ep02-lanchonete )   | F06 - Dados da lanchonete | [US08](../pages/fase_02/modelagem_agil/historias_usuario?id=us08) </br> | MUST | [RF01](../pages/fase_01/priorizacao_moscow?id=resultados) |
-|           | F06 - Dados da lanchonete | [US09](../pages/fase_02/modelagem_agil/historias_usuario?id=us09) </br> | COULD | [RF01](../pages/fase_01/priorizacao_moscow?id=resultados) |
-|           | F06 - Dados da lanchonete | [US10](../pages/fase_02/modelagem_agil/historias_usuario?id=us10) </br> | SHOULD | [RF01](../pages/fase_01/priorizacao_moscow?id=resultados) |
-|       [EP03 - Cardápio](../pages/fase_02/modelagem_agil/epicos?id=ep03-card%c3%a1pio )      | F07 - Filtragem de Produtos | [US11](../pages/fase_02/modelagem_agil/historias_usuario?id=us11) </br> | MUST | [RF02](../pages/fase_01/priorizacao_moscow?id=resultados) |
-|           | F07 - Filtragem de Produtos | [US12](../pages/fase_02/modelagem_agil/historias_usuario?id=us12)  </br> | SHOULD | [RF17](../pages/fase_01/priorizacao_moscow?id=resultados) |
-|           | F07 - Filtragem de Produtos | [US13](../pages/fase_02/modelagem_agil/historias_usuario?id=us13) </br> | SHOULD | [RF03](../pages/fase_01/priorizacao_moscow?id=resultados) |
-|           | F08 - Adição de itens ao cardápio | [US14](../pages/fase_02/modelagem_agil/historias_usuario?id=us14) </br> | MUST | [RF08](../pages/fase_01/priorizacao_moscow?id=resultados) |
-|           | F09 - Edição de itens do cardápio | [US15](../pages/fase_02/modelagem_agil/historias_usuario?id=us15) </br> | MUST | [RF08](../pages/fase_01/priorizacao_moscow?id=resultados) |
-|           | F10 - Remoção de itens do cardápio | [US16](../pages/fase_02/modelagem_agil/historias_usuario?id=us16) </br> | MUST | [RF09](../pages/fase_01/priorizacao_moscow?id=resultados) |
-|     [EP04 - Finalização do pedido](../pages/fase_02/modelagem_agil/epicos?id=ep04-finaliza%c3%a7%c3%a3o-do-pedido)         | F11 - Pagamento | [US17](../pages/fase_02/modelagem_agil/historias_usuario?id=us17) </br> | MUST | [RF04](../pages/fase_01/priorizacao_moscow?id=resultados) |
-|           | F11 - Pagamento | [US18](../pages/fase_02/modelagem_agil/historias_usuario?id=us18) </br> | MUST | [RF04](../pages/fase_01/priorizacao_moscow?id=resultados) |
-|           | F12 - Cupons | [US19](../pages/fase_02/modelagem_agil/historias_usuario?id=us19) </br> | COULD | [RF14](../pages/fase_01/priorizacao_moscow?id=resultados) |
-|           | F12 - Cupons | [US20](../pages/fase_02/modelagem_agil/historias_usuario?id=us20) </br> | COULD | [RF14](../pages/fase_01/priorizacao_moscow?id=resultados) |
-|     [EP05 - Rastramento do pedido](../pages/fase_02/modelagem_agil/epicos?id=ep05-rastreamento-do-pedido)         | F13 - Preparação e cozinha | [US21](../pages/fase_02/modelagem_agil/historias_usuario?id=us21) </br> | SHOULD | [RF13](../pages/fase_01/priorizacao_moscow?id=resultados) |
-|           | F13 - Preparação e cozinha | [US22](../pages/fase_02/modelagem_agil/historias_usuario?id=us22) </br> | MUST | [RF06](../pages/fase_01/priorizacao_moscow?id=resultados) |
-|           | F14 - Entrega | [US23](../pages/fase_02/modelagem_agil/historias_usuario?id=us23) </br> | SHOULD | [RF07](../pages/fase_01/priorizacao_moscow?id=resultados) |
-|           | F14 - Entrega | [US24](../pages/fase_02/modelagem_agil/historias_usuario?id=us24) </br> | MUST | [RF10](../pages/fase_01/priorizacao_moscow?id=resultados) |
-|           | F14 - Entrega  | [US25](../pages/fase_02/modelagem_agil/historias_usuario?id=us25) </br> | COULD | [RF11](../pages/fase_01/priorizacao_moscow?id=resultados) |
-|           | F14 - Entrega  | [US26](../pages/fase_02/modelagem_agil/historias_usuario?id=us26) </br> | COULD | [RF11](../pages/fase_01/priorizacao_moscow?id=resultados) |
-|           | F14 - Entrega  | [US27](../pages/fase_02/modelagem_agil/historias_usuario?id=us27) </br> | COULD | [RF10](../pages/fase_01/priorizacao_moscow?id=resultados) |
-|           | F14 - Entrega  | [US28](../pages/fase_02/modelagem_agil/historias_usuario?id=us28) </br> | COULD | [RF12](../pages/fase_01/priorizacao_moscow?id=resultados) |
-|           | F14 - Entrega  | [US29](../pages/fase_02/modelagem_agil/historias_usuario?id=us29) </br> | COULD | [RF12](../pages/fase_01/priorizacao_moscow?id=resultados) |
-|           | F14 - Entrega | [US30](../pages/fase_02/modelagem_agil/historias_usuario?id=us30) </br> | COULD | [RF12](../pages/fase_01/priorizacao_moscow?id=resultados) |
-|           | F15 - Pedido no local | [US31](../pages/fase_02/modelagem_agil/historias_usuario?id=us31) </br> | SHOULD | [RF16](../pages/fase_01/priorizacao_moscow?id=resultados) |
-|      [EP06 - Avaliação](../pages/fase_02/modelagem_agil/epicos?id=ep06-avalia%c3%a7%c3%a3o)      |  F16 - Avaliação | [US32](../pages/fase_02/modelagem_agil/historias_usuario?id=us32) | COULD | [RF15](../pages/fase_01/priorizacao_moscow?id=resultados) |
-|           | F16 - Avaliação | [US33](../pages/fase_02/modelagem_agil/historias_usuario?id=us33) </br> | COULD | [RF15](../pages/fase_01/priorizacao_moscow?id=resultados) |
+|        [EP01 - Conta](/pages/fase_02/modelagem_agil/epicos?id=ep01-conta)        | F01 - Criação do usuário | [US01](/pages/fase_02/modelagem_agil/historias_usuario?id=us01)  </br> | MUST | [RF04](/pages/fase_01/priorizacao_moscow?id=resultados)|
+|           | F02 - Login do usuário | [US02](/pages/fase_02/modelagem_agil/historias_usuario?id=us02) </br> | MUST | [RF04](/pages/fase_01/priorizacao_moscow?id=resultados) |
+|           | F03 - Edição do usuário | [US03](/pages/fase_02/modelagem_agil/historias_usuario?id=us03) </br> | SHOULD | [RF04](/pages/fase_01/priorizacao_moscow?id=resultados) |
+|           |  F03 - Edição do usuário | [US04](/pages/fase_02/modelagem_agil/historias_usuario?id=us04) </br> | SHOULD | [RF04](/pages/fase_01/priorizacao_moscow?id=resultados) |
+|           | F04 - Exclusão do usuário | [US05](/pages/fase_02/modelagem_agil/historias_usuario?id=us05) </br> | COULD | [RF04](/pages/fase_01/priorizacao_moscow?id=resultados) |
+|           | F04 - Exclusão do usuário | [US06](/pages/fase_02/modelagem_agil/historias_usuario?id=us06) </br> | COULD | [RF04](/pages/fase_01/priorizacao_moscow?id=resultados)|
+|           | F05 - Dados do usuário | [US07](/pages/fase_02/modelagem_agil/historias_usuario?id=us07) </br> | SHOULD | [RF04](/pages/fase_01/priorizacao_moscow?id=resultados)|
+|      [EP02 - Lanchonete](/pages/fase_02/modelagem_agil/epicos?id=ep02-lanchonete )   | F06 - Dados da lanchonete | [US08](/pages/fase_02/modelagem_agil/historias_usuario?id=us08) </br> | MUST | [RF01](/pages/fase_01/priorizacao_moscow?id=resultados) |
+|           | F06 - Dados da lanchonete | [US09](/pages/fase_02/modelagem_agil/historias_usuario?id=us09) </br> | COULD | [RF01](/pages/fase_01/priorizacao_moscow?id=resultados) |
+|           | F06 - Dados da lanchonete | [US10](/pages/fase_02/modelagem_agil/historias_usuario?id=us10) </br> | SHOULD | [RF01](/pages/fase_01/priorizacao_moscow?id=resultados) |
+|       [EP03 - Cardápio](/pages/fase_02/modelagem_agil/epicos?id=ep03-card%c3%a1pio )      | F07 - Filtragem de Produtos | [US11](/pages/fase_02/modelagem_agil/historias_usuario?id=us11) </br> | MUST | [RF02](/pages/fase_01/priorizacao_moscow?id=resultados) |
+|           | F07 - Filtragem de Produtos | [US12](/pages/fase_02/modelagem_agil/historias_usuario?id=us12)  </br> | SHOULD | [RF17](/pages/fase_01/priorizacao_moscow?id=resultados) |
+|           | F07 - Filtragem de Produtos | [US13](/pages/fase_02/modelagem_agil/historias_usuario?id=us13) </br> | SHOULD | [RF03](/pages/fase_01/priorizacao_moscow?id=resultados) |
+|           | F08 - Adição de itens ao cardápio | [US14](/pages/fase_02/modelagem_agil/historias_usuario?id=us14) </br> | MUST | [RF08](/pages/fase_01/priorizacao_moscow?id=resultados) |
+|           | F09 - Edição de itens do cardápio | [US15](/pages/fase_02/modelagem_agil/historias_usuario?id=us15) </br> | MUST | [RF08](/pages/fase_01/priorizacao_moscow?id=resultados) |
+|           | F10 - Remoção de itens do cardápio | [US16](/pages/fase_02/modelagem_agil/historias_usuario?id=us16) </br> | MUST | [RF09](/pages/fase_01/priorizacao_moscow?id=resultados) |
+|     [EP04 - Finalização do pedido](/pages/fase_02/modelagem_agil/epicos?id=ep04-finaliza%c3%a7%c3%a3o-do-pedido)         | F11 - Pagamento | [US17](/pages/fase_02/modelagem_agil/historias_usuario?id=us17) </br> | MUST | [RF04](/pages/fase_01/priorizacao_moscow?id=resultados) |
+|           | F11 - Pagamento | [US18](/pages/fase_02/modelagem_agil/historias_usuario?id=us18) </br> | MUST | [RF04](/pages/fase_01/priorizacao_moscow?id=resultados) |
+|           | F12 - Cupons | [US19](/pages/fase_02/modelagem_agil/historias_usuario?id=us19) </br> | COULD | [RF14](/pages/fase_01/priorizacao_moscow?id=resultados) |
+|           | F12 - Cupons | [US20](/pages/fase_02/modelagem_agil/historias_usuario?id=us20) </br> | COULD | [RF14](/pages/fase_01/priorizacao_moscow?id=resultados) |
+|     [EP05 - Rastramento do pedido](/pages/fase_02/modelagem_agil/epicos?id=ep05-rastreamento-do-pedido)         | F13 - Preparação e cozinha | [US21](/pages/fase_02/modelagem_agil/historias_usuario?id=us21) </br> | SHOULD | [RF13](/pages/fase_01/priorizacao_moscow?id=resultados) |
+|           | F13 - Preparação e cozinha | [US22](/pages/fase_02/modelagem_agil/historias_usuario?id=us22) </br> | MUST | [RF06](/pages/fase_01/priorizacao_moscow?id=resultados) |
+|           | F14 - Entrega | [US23](/pages/fase_02/modelagem_agil/historias_usuario?id=us23) </br> | SHOULD | [RF07](/pages/fase_01/priorizacao_moscow?id=resultados) |
+|           | F14 - Entrega | [US24](/pages/fase_02/modelagem_agil/historias_usuario?id=us24) </br> | MUST | [RF10](/pages/fase_01/priorizacao_moscow?id=resultados) |
+|           | F14 - Entrega  | [US25](/pages/fase_02/modelagem_agil/historias_usuario?id=us25) </br> | COULD | [RF11](/pages/fase_01/priorizacao_moscow?id=resultados) |
+|           | F14 - Entrega  | [US26](/pages/fase_02/modelagem_agil/historias_usuario?id=us26) </br> | COULD | [RF11](/pages/fase_01/priorizacao_moscow?id=resultados) |
+|           | F14 - Entrega  | [US27](/pages/fase_02/modelagem_agil/historias_usuario?id=us27) </br> | COULD | [RF10](/pages/fase_01/priorizacao_moscow?id=resultados) |
+|           | F14 - Entrega  | [US28](/pages/fase_02/modelagem_agil/historias_usuario?id=us28) </br> | COULD | [RF12](/pages/fase_01/priorizacao_moscow?id=resultados) |
+|           | F14 - Entrega  | [US29](/pages/fase_02/modelagem_agil/historias_usuario?id=us29) </br> | COULD | [RF12](/pages/fase_01/priorizacao_moscow?id=resultados) |
+|           | F14 - Entrega | [US30](/pages/fase_02/modelagem_agil/historias_usuario?id=us30) </br> | COULD | [RF12](/pages/fase_01/priorizacao_moscow?id=resultados) |
+|           | F15 - Pedido no local | [US31](/pages/fase_02/modelagem_agil/historias_usuario?id=us31) </br> | SHOULD | [RF16](/pages/fase_01/priorizacao_moscow?id=resultados) |
+|      [EP06 - Avaliação](/pages/fase_02/modelagem_agil/epicos?id=ep06-avalia%c3%a7%c3%a3o)      |  F16 - Avaliação | [US32](/pages/fase_02/modelagem_agil/historias_usuario?id=us32) | COULD | [RF15](/pages/fase_01/priorizacao_moscow?id=resultados) |
+|           | F16 - Avaliação | [US33](/pages/fase_02/modelagem_agil/historias_usuario?id=us33) </br> | COULD | [RF15](/pages/fase_01/priorizacao_moscow?id=resultados) |
 
 ## Bibliografia
 
-PRODUCT BACKLOG | ELEMENTOS BASE DO FRAMEWORK SCRUM. [S. l.: s. n.], 29 de dez. de 2018. Disponível em: [https://www.youtube.com/watch?v=Gh9PEgZIBCo&t=1s)](https://www.youtube.com/watch?v=Gh9PEgZIBCo&t=1s). Acesso em: 15 fev. 2022.
+* PRODUCT BACKLOG | ELEMENTOS BASE DO FRAMEWORK SCRUM. [S. l.: s. n.], 29 de dez. de 2018. Disponível em: [https://www.youtube.com/watch?v=Gh9PEgZIBCo&t=1s)](https://www.youtube.com/watch?v=Gh9PEgZIBCo&t=1s). Acesso em: 15 fev. 2022.
+
+* ARTEFATO: Backlog do Produto. Disponível em: https://www.trt9.jus.br/pds/Scrum/workproducts/product_backlog_68345C16.html#:~:text=O%20Backlog%20do%20Produto%20%C3%A9,cliente%20ao%20longo%20das%20Sprints. Acesso em: 12 mar. 2022.
+
+* PINTO, Rodrigo. O que é o Backlog do Produto?. [S. l.], 6 ago. 2020. Disponível em: https://agileschool.com.br/o-que-e-o-backlog-do-produto/. Acesso em: 12 mar. 2022.
