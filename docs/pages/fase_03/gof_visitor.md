@@ -5,7 +5,8 @@
 | Versão |    Data    |     Modificação      |            Autor            |            Revisor            |
 | ------ | :--------: | :------------------: | :-------------------------: | :---------------------------: |
 | 1.0    | 25/02/2022 | Criação do Documento | Murilo Gomes e Rodrigo Lima | Lucas Andrade e Dafne Moretti |
-| 1.1    | 16/03/2022 |   Correção do path   |       Philipe Serafim       | Lucas Andrade e Dafne Moretti |
+| 1.1    | 16/03/2022 | Adição de Exemplo | Rodrigo Lima | Murilo Gomes e Giulia Lobo |
+| 1.2    | 16/03/2022 |   Correção do path   |       Philipe Serafim       | Lucas Andrade e Dafne Moretti |
 
 <!-- NÃO ESQUECER DE ADICIONAR AO "/_sidebar.md" -->
 
@@ -26,10 +27,14 @@ Para a implementação é preciso:
 
 <figcaption style="text-align: center"><a href="./assets/images/visitor.png" >Figura 1 </a>: Exemplo de Visitor. Fonte: <a href="https://sourcemaking.com/design_patterns/visitor" > Visitor Design Pattern</a>. Acesso em: 25/02/2022 </figcaption>
 
+ ![Exemplo de Código de Visito](../../assets/images/visitorCode.png)
+  <figcaption> Figura 2: Exemplo de código de Visitor em Java retirado de [link](https://refactoring.guru/pt-br/design-patterns/visitor)</figcaption>
+
 ## Conclusão
 
 Analisando as características do Visitor, percebemos que, a princípio, não é um padrão que se encaixe no projeto Chapa Quente.
 
 ## Bibliografia
+- REFACTORING GURU - Visitor. Disponível em: https://refactoring.guru/pt-br/design-patterns/visitor. Acessi em: 16 de março de 2022.
 
 - SOURCE MAKING - Visitor Design Pattern. Disponível em: https://sourcemaking.com/design_patterns/visitor . Acesso em: 25 de fevereiro de 2022.

@@ -5,7 +5,9 @@
 | Versão |    Data    |     Modificação      |            Autor            |                             Revisor                             |
 | ------ | :--------: | :------------------: | :-------------------------: | :-------------------------------------------------------------: |
 | 1.0    | 25/02/2022 | Criação do Documento | Murilo Gomes e Rodrigo Lima | Lucas Andrade, Dafne Moretti e João Pedro Alves da Silva Chaves |
-| 1.1    | 16/03/2022 |   Correção de path   |       Philipe Serafim       | Lucas Andrade, Dafne Moretti e João Pedro Alves da Silva Chaves |
+| 1.1    | 16/03/2022 | Adição de exemplo    | Rodrigo Lima | Murilo Gomes e Giulia Lobo |
+| 1.2    | 16/03/2022 |   Correção de path   |       Philipe Serafim       | Lucas Andrade, Dafne Moretti e João Pedro Alves da Silva Chaves |
+
 
 <!-- NÃO ESQUECER DE ADICIONAR AO "/_sidebar.md" -->
 
@@ -29,10 +31,16 @@ A sua implementação se assemelha muito com o padrão Strategy. Em que:
 <figcaption style="text-align: center"><a href="./assets/images/state.png" >Figura 1 </a>: Exemplo de State. Fonte: <a href="https://sourcemaking.com/design_patterns/state" > State Design Pattern
  </a>. Acesso em: 25/02/2022 </figcaption>
 
+ ![Exemplo de Código de State](../../assets/images/stateCode.png)
+  
+  <figcaption>Figura 2 - Exemplo de state em Java retirado desse [link](https://edirlei.com/aulas/poo/POO_Aula_12_GOF_State_Strategy_2015.html)</figcaption>
+
 ## Conclusão
 
 Analisando o padrão State, temos que ele provavelmente será utilizado para gerenciar os estados da classe Pedido no projeto Chapa Quente.
 
 ## Bibliografia
+
+- SOURCE MAKING - State Design Pattern. Disponível em: https://sourcemaking.com/design_patterns/state . Acesso em: 25 de fevereiro de 2022.
 
 - SOURCE MAKING - State Design Pattern. Disponível em: https://sourcemaking.com/design_patterns/state . Acesso em: 25 de fevereiro de 2022.
