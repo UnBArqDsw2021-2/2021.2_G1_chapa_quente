@@ -81,6 +81,7 @@
       - [Flyweight](pages/fase_03/gof_flyweight.md)
       - [Proxy](pages/fase_03/gof_estrutural_proxy.md)
     - **Comportamental**
+      - [Chain of Responsibility](pages/fase_03/GOF_comportamental_chain_of_responsibility.md)
       - [Composite](pages/fase_03/composite.md)
       - [Iterator](pages/fase_03/GOF-iterator.md)
       - [Observer](pages/fase_03/gofObserver.md)
@@ -88,5 +89,6 @@
       - [Strategy](pages/fase_03/gof_strategy.md)
       - [Visitor](pages/fase_03/gof_visitor.md)
       - [Memento](pages/fase_03/gof_memento.md)
+      - [Template Method](pages/fase_03/template-method.md)
   - **Padrões Emergentes**
     - [MVC](pages/fase_03/mvc.md)
