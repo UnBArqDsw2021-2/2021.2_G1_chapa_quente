@@ -24,7 +24,7 @@ A classe **Creator** tem um método abstrato de criação referenciado geralment
 
 ## Conclusão
 
-Ao analisar o contexto do nosso projeto e levando em consideração como o padrão GOF Factory Method funciona e os seus objetivos, o padrão pode ser aplicado no contexto da criação dos diferentes tipos de produtos e a repetição da ação.
+Ao analisar o contexto do nosso projeto e levando em consideração como o padrão GOF Factory Method funciona e os seus objetivos, o padrão vai ser aplicado no nosso projeto no contexto da criação dos diferentes tipos de produtos e a repetição da ação.
 
 
 ## Bibliografia
