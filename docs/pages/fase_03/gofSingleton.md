@@ -12,7 +12,7 @@
 Os padrões de projeto descrevem uma solução geral para um problema que acontece recorrentemente dentro de um projeto de software. Este documento tem como objetivo explicar sobre o padrão GoF Singleton e suas aplicações. 
 
 ## Metodologia
-O Singleton é um GoF criacional que permite que uma classe disponha de apenas uma instância, podendo ser acessada globalmente em outras classes. Dessa forma, uma classe será responsável por gerenciar a própria instância, além de evitar que novas instâncias sejam criadas. Abaixo, um exemplo de Singleton em C#:
+O Singleton é um GoF criacional que permite que uma classe disponha de apenas uma instância, podendo ser acessada globalmente em outras classes. Dessa forma, uma classe será responsável por gerenciar a própria instância, além de evitar que novas instâncias sejam criadas. Abaixo, um exemplo de Singleton em Swift:
 
 ![Relação entre acoplamento de coesão](../../assets/images/exemploSingleton.png)
 
