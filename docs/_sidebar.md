@@ -82,6 +82,7 @@
       - [Flyweight](pages/fase_03/gof_flyweight.md)
       - [Proxy](pages/fase_03/gof_estrutural_proxy.md)
     - **Comportamental**
+      - [Command](pages/fase_03/gof_comportamental_command.md)
       - [Chain of Responsibility](pages/fase_03/GOF_comportamental_chain_of_responsibility.md)
       - [Composite](pages/fase_03/composite.md)
       - [Iterator](pages/fase_03/GOF-iterator.md)
