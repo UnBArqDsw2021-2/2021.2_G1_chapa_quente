@@ -6,12 +6,15 @@
 | ------ | :--------: | :----------------------: | :-------------: | :----------: |
 | 1.0    | 11/02/2022 |   Criação do Documento   | Philipe Serafim | Rodrigo Lima |
 | 1.1    | 12/02/2022 | Correção da bibliografia | Philipe Serafim | Rodrigo Lima |
+| 1.2    | 13/03/2022 | Adição de rastros para outros documentos | João Pedro Chaves | Giulia Lobo e Guilherme Daniel Fernandes |
 
 <!-- NÃO ESQUECER DE ADICIONAR AO "/_sidebar.md" -->  
 
 ## Introdução
 
 Dentro do escopo do projeto, as classes elicitadas podem necessitar de um complemento de outra classe, seja servindo como base ou prestando parte de uma informação crucial ao contexto daquela classe. Esse relacionamento entre classes é chamado de **Associação**. Em um diagrama UML existem vários relacionamentos que podem ser utilizados. Neste artefato serão discutidas as associações por agregação e por associação.
+
+O Diagrama de Classes com os **atributos** e **métodos** das classes aqui apresentadas pode ser acessado clicando nesse [link](pages/fase_02/diagrama_de_classes.md). Já o Diagrama de Classes Abstratas pode ser acessado por meio desse [link](pages/fase_02/diagrama_de_classe_abstrata.md). Ambos diagramas foram a base para o Diagrama de Agregação e também para o Diagrama de Composição.
 
 ## Metodologia
 

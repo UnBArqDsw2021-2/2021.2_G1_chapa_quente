@@ -26,6 +26,16 @@ O iterator precisa ter a implementação de sua interface de forma extremamente 
 
 A praticidade do iterator está diretamente relacionada a sua possibilidade de percorrer estruturas, independente da sua forma, facilitando o acesso aos itens de forma sequencial.
 
+Analisando o projeto Chapa Quente, pode-se perceber que o padrão será aplicado em diferentes situações, como por exemplo, na iteração de produtos que devem constar no cardápio.
+
+## Aplicação - Código
+
+Tendo em vista a possibilidade de aplicação do padrão na iteração dos produtos que serão vistos no cardápio, foi criado o código de aplicação abaixo onde é possível perceber a iteração sobre esses produtos, uma função next (responsável por acessar o próximo elemento cada vez que é chamada) e uma função first (que oferece o primeiro elemento desse cardápio).
+
+![Código Padrão Iterator](../../assets/images/codigo_iterator.png)
+<figcaption><a href="../../assets/images/codigo_iterator.png">Figura 2:</a> Código de aplicação do Padrão Iterator no escopo do projeto. Autor: Dafne Moretti
+
+
 ## Bibliografia
 
 SIERRA, Kathy; BATES, Bert. **Padrões de Projetos**. 2ª Edição Rio de Janeiro: Alta Books, 2009.
