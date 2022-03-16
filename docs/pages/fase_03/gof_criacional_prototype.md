@@ -33,7 +33,7 @@ O Prototype será utilizado na aplicação Chapa Quente, uma vez que a principal
 A aplicação deste padrão de projeto no Chapa Quente pode ser vista na criação de novos cupons, já que serão criados muitos cupons iguais e distribuídos para diferentes tipos de usuários.
 O código abaixo demonstra o **cupom_surpresa** que tem como prototype o objeto **cupom**.
 
-![Código representando o prototype](../../assets/images/code_prototype.png ":size=600") </br> Figura 2 - Código representando o prototype. Autor: Dafne Moretti
+![Código representando o prototype](../../assets/images/code_prototype2.png ":size=600") </br> Figura 2 - Código representando o prototype. Autor: Dafne Moretti
 
 ## Bibliografia
 
