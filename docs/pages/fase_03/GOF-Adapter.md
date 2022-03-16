@@ -1,10 +1,11 @@
-# Adapter
+# GOF Adapter
 
 ## Versionamento
 
 | Versão | Data       | Modificação          | Autor                        |Revisor|
 | ------ | :--------: | :------------------: | :--------------------------: | :---: |
 | 1.0    | 23/02/2022 | Criação do Documento | Lucas Andrade e Philipe Serafim | Dafne Moretti |
+| 1.1    | 15/03/2022 | Adição de código e da conclusão | Lucas Andrade | Giulia Lobo e João Pedro |
 
 ## Introdução
 
@@ -14,30 +15,31 @@ Neste tipo de situação, modificar a funcionalidade para aceitar o formato orig
 
 A proposta do padrão Adapter é servir como um tradutor entre duas interfaces distintas.
 
-### Pontos Positivos:z
+### Pontos Positivos
+
 - Facilita manutenção
 - Emprega uma linguagem universal (padrão)
 - Modularização do projeto, dividindo bem as funções
 
-### Pontos Negativo:
+### Pontos Negativos
+
 - Aumenta complexidade do codigo, já que agora será necessário uma etapa extra (A -> **ADAPTER** -> B)
 
 ## Metodologia
 
-Um bom exemplo para explicar o padrão Adapter é a ideia de uma tomada. 
+Um exemplo aplicabilidade do Adapter é na utilização de algum serviço de localização, externo a aplicação, que recebe dados do cliente, e retorna mais informações sobre esse dado. No exemplo temos um serviço que recebe o CEP do cliente e se propõem a informar mais dados do endereço do cliente a partir desse CEP. O problema é que esse serviço retorna os dados no formato XML, e a aplicação espera um JSON. O adapter aqui possui a função de realizar a transformação desse dado para assim poder ser utilizado na aplicação.
 
-![Adapter Exemplo](../../assets/images/adapter-example.png)
-
-Ainda não foi identificado um uso para o padrão Adapter no projeto.
+![Adapter Exemplo](../../assets/images/gof-adapter-example.png)
+<figcaption style="text-align: center">Figura 1 - Exemplo de uso do padrão Adapter. Autor: Lucas Andrade</figcaption>
 
 ## Conclusão
 
-Utilizando o padrão Adapter podemos facilmente criar um modo de realizar a comunicação entre duas interfaces diferentes. É importante saber usar bem esse padrão para não prejudicar a evolução do software.
+Utilizando o padrão Adapter podemos facilmente criar um modo de realizar a comunicação entre duas interfaces diferentes, sendo importante saber bem quando utiliza-lo, evitando prejudicar a evolução do software. Ainda não foi identificado um cenário de uso para o padrão Adapter no projeto.
 
 ## Bibliografia
 
-- ADAPTER. [S. l.]. Disponível em: https://refactoring.guru/pt-br/design-patterns/adapter. Acesso em: 23 de fevereiro de 2022.
+- ADAPTER. [S. l.]. Disponível em: <https://refactoring.guru/pt-br/design-patterns/adapter>. Acesso em: 23 de fevereiro de 2022.
 
 - SERRANO, Milene. AULA - GOFS ESTRUTURAIS. Acesso em: 23 de fevereiro de 2022.
 
-- MEDEIROS, Higor. Padrão de Projeto Adapter em Java. Disponível em: https://www.devmedia.com.br/padrao-de-projeto-adapter-em-java/26467. Acesso em: 25 de fevereiro de 2022.
+- MEDEIROS, Higor. Padrão de Projeto Adapter em Java. Disponível em: <https://www.devmedia.com.br/padrao-de-projeto-adapter-em-java/26467>. Acesso em: 25 de fevereiro de 2022.

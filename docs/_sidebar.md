@@ -88,7 +88,11 @@
       - [State](pages/fase_03/gof_state.md)
       - [Strategy](pages/fase_03/gof_strategy.md)
       - [Visitor](pages/fase_03/gof_visitor.md)
+      - [Memento](pages/fase_03/gof_memento.md)
       - [Template Method](pages/fase_03/template-method.md)
   - **Padrões Emergentes**
     - [MVC](pages/fase_03/mvc.md)
     - [Injeção de Independência](pages/fase_03/injecao_de_independencia.md) 
+  - **Iniciativas extras**
+    - [Atas da Entrega](_indiceReuniao4.md)
+  - **Apresentações**
