@@ -16,7 +16,7 @@
 
 ## Metodologia
 
-Temos aqui dois exemplos de utilização do padrão Chain of Responsibility associado com o projeto. No primeiro temos validações para realização do login e no segundo a troca de senha de um usuário. Para esse segundo, temos a validação de **token** e **senha**. Essas validações são realizar por metodos contidos na classe validation.
+Temos aqui dois exemplos de utilização do padrão Chain of Responsibility associado com o projeto. No primeiro temos validações para realização do login e no segundo a troca de senha de um usuário. Para esse segundo, temos a validação de **token** e **senha**. Essas validações são realizar por métodos contidos na classe validation.
 
 ![Chain of Responsibility Example 1](../../assets/images/gof-chain-of-responsability-example.png)
 <figcaption style="text-align: center">Exemplo de uso do padrão no login na aplicação. </figcaption>
