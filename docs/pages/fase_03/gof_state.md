@@ -28,87 +28,8 @@ A sua implementação se assemelha muito com o padrão Strategy. Em que:
 
 Exemplo de state em Java retirado desse [link](https://edirlei.com/aulas/poo/POO_Aula_12_GOF_State_Strategy_2015.html):
 
+ ![Exemplo de Código de State](../../assets/images/stateCode.png)
 
-```
-public interface State  
-{
-	public void doAction(Context context);  
-}
-
-```
-
-```
-public class OpenState implements State  
-{
-	public void doAction(Context context)  
-	{
-		System.out.println("Abrindo a loja");  
-		context.setState(this);  
-	}
-	
-	public String toString()  
-	{
-		return "Loja aberta";  
-	}
-}
-
-```
-
-```
-public class CloseState implements State  
-{
-	public void doAction(Context context)  
-	{
-		System.out.println("Fechando a loja");  
-		context.setState(this);  
-	}
-	public String toString()  
-	{
-		return "Loja Fechada";  
-	}
-}
-
-```
-
-```
-public class Context  
-{
-	private State state;  
-
-	public Context()  
-	{
-		state = null;  
-	}
-	public void setState(State state)  
-	{
-		this.state = state;  
-	}
-	public State getState()  
-	{
-		return state;  
-	}
-}
-
-```
-
-
-```
-public static void main(String[] args)  
-{
-	Context context = new Context();  
-
-	OpenState opneState = new OpenState();  
-	startState.doAction(context);  
-
-	System.out.println(context.getState().toString());  
-
-	CloseState closeState = new CloseState();  
-	closeState.doAction(context);  
-
-	System.out.println(context.getState().toString());  
-}
-
-```
 
 ## Conclusão
 Analisando o padrão State, temos que ele provavelmente será utilizado para gerenciar os estados da classe Pedido no projeto Chapa Quente.

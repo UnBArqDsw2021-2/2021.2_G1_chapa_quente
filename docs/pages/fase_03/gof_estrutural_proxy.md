@@ -31,64 +31,7 @@ Ao definir uma interface Subject, a presença do objeto Proxy no lugar do RealSu
 
  Um exemplo bem rudimentar feito em C# em uma aplicação do escopo seria:
 
- ```
-interface IPessoa{
-
-	void FazerPedido();
-};
-
-//Objeto real
-public class Pessoa : IPessoa
-{
-	public void FazerPedido()
-	{
-	        Console.WriteLine("Pedido Feito!");
-	}
-}
-
-// Objeto Proxy
-public class PessoaProxy : IPessoa
-{	
-	private Pedido pedido;
-	private IPessoa pessoaReal;
-	
-	public ProxyPedido(Pedido pedido)
-	{
-		this.pedido = pedido;
-		this.pessoaReal = new Pessoa();
-	}
-	
-	public void FazerPedido()
-	{
-		if (pedido.QtdItens < 1)
-			Console.WriteLine("Desculpe, o pedido precisa ter pelo menos um item!");
-		else
-			this.pessoaReal.FazerPedido();
-	}
-	
-}
-
-public class Pedido
-{
-	public int QtdItens {get; set;}
-	
-	public Pedido(int QtdItens)
-	{
-		this.QtdItens = QtdItens;
-	}
-}
-
-// Como usar a classe Proxy acima?
-private void btnProxy_Click(object sender, EventArgs e)
-{
-    IPessoa pessoa = new PessoaProxy(new Pedido(0));
-    pessoa.FazerPedido();
-
-    pessoa = new PessoaProxy(new Pedido(1));
-    pessoa.FazerPedido();
-}
-//Exemplo adaptado de "https://www.devmedia.com.br/conheca-o-pattern-proxy-gof-gang-of-four/4066"
- ```
+ ![Exemplo de Código de Proxy](../../assets/images/proxyCode.png)
 
 
 

@@ -25,25 +25,7 @@ Como pode ser observado na imagem acima, existe uma superclasse que representa a
 
 Exemplo de código em Python no mesmo escopo do projeto Chapa Quente:
 
-```
-class Pedido:
-    def imprimir(self):
-    print("sou alimento")
-
-class Hamburguer(Pedido):
-    def __init__(self):
-        self.ingredientes = []
-    def imprimir(self):
-        for x in ingredientes:
-            x.imprimir()
-
-class Ingrediente(Pedido):
-    def __init__(self, nome):
-        self.nome = nome
-
-    def imprimir(self):
-        print(self.nome)
-```
+![Exemplo de Código de Polimorfismo](../../assets/images/polimorfismoCode.png)
 
 
 ## Conclusão

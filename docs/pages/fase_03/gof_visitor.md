@@ -25,52 +25,7 @@ Para a implementação é preciso:
 
 Exemplo de código de Visitor em Java retirado de [link](https://refactoring.guru/pt-br/design-patterns/visitor):
 
-```
-interface Shape is
-    method move(x, y)
-    method draw()
-    method accept(v: Visitor)
-
-class Dot implements Shape is
-    method accept(v: Visitor) is
-        v.visitDot(this)
-
-class Circle implements Shape is
-    method accept(v: Visitor) is
-        v.visitCircle(this)
-
-class Rectangle implements Shape is
-    method accept(v: Visitor) is
-        v.visitRectangle(this)
-
-class CompoundShape implements Shape is
-    method accept(v: Visitor) is
-        v.visitCompoundShape(this)
-
-interface Visitor is
-    method visitDot(d: Dot)
-    method visitCircle(c: Circle)
-    method visitRectangle(r: Rectangle)
-    method visitCompoundShape(cs: CompoundShape)
-
-class XMLExportVisitor implements Visitor is
-    method visitDot(d: Dot) is
-
-    method visitCircle(c: Circle) is
-
-    method visitRectangle(r: Rectangle) is
-
-    method visitCompoundShape(cs: CompoundShape) is
-
-class Application is
-    field allShapes: array of Shapes
-
-    method export() is
-        exportVisitor = new XMLExportVisitor()
-
-        foreach (shape in allShapes) do
-            shape.accept(exportVisitor)
-```
+ ![Exemplo de Código de Visito](../../assets/images/visitorCode.png)
 
 
 ## Conclusão
