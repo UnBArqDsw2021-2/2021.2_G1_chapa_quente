@@ -1,4 +1,4 @@
-# Nome do Artefato
+# Invenção Pura
 
 ## Versionamento
 
@@ -12,9 +12,9 @@ O padrão GRASP Invenção Pura aborda o conceito de criação de uma classe "fi
 
 ## Metodologia
 
-Abaixo é possível visualizar um exemplo de GRASP de Invenção Pura sendo utilizado.
+Abaixo é possível visualizar um exemplo de GRASP de Invenção Pura sendo utilizado, onde a classe Persistir Cliente foi utilizada.
 
-![Diagrama de invenção pura](./../../assets/images/invencao_pura1.png ":size=600") </br> Figura 1 - Diagrama que representa invenção pura.
+![Diagrama de invenção pura](./../../assets/images/invencao_pura1.png ":size=600") </br> Figura 1 - Diagrama que representa invenção pura. Fonte:
 
 ## Conclusão
 

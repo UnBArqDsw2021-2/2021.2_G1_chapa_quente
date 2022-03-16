@@ -1,4 +1,4 @@
-# GoF Abstract Factory
+# Abstract Factory
 
 ## Versionamento
 
