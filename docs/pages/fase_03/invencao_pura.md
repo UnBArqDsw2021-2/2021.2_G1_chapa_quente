@@ -14,7 +14,7 @@ O padrão GRASP Invenção Pura aborda o conceito de criação de uma classe "fi
 
 Abaixo é possível visualizar um exemplo de GRASP de Invenção Pura sendo utilizado, onde a classe Persistir Cliente foi utilizada.
 
-![Diagrama de invenção pura](./../../assets/images/invencao_pura1.png ":size=600") </br> Figura 1 - Diagrama que representa invenção pura. Fonte:
+![Diagrama de invenção pura](./../../assets/images/invencao_pura1.png ":size=600") </br> Figura 1 - Diagrama que representa invenção pura. Fonte: https://pt.slideshare.net/alvarofpinheiro/fundamentos-de-padres-de-projeto-de-software
 
 ## Conclusão
 
@@ -22,6 +22,11 @@ Ao verificar o diagrama de classe do projeto, foi possível perceber que esse GR
 
 Por exemplo, para criar uma classe geral que englobará alguns métodos que na versão atual do diagrama constam em diversas classes (bebida, sanduiche, acompanhamento e sobremesa) repetidamente.
 
+## Aplicação - Código
+
+O código abaixo representa um código de "serviço", que é como o padrão de invenção pura é comumente chamado.
+
+![Código representando invenção pura](./../../assets/images/codigo_invencaopura.png ":size=600") </br> Figura 2 - Código representando invenção pura. Autor: Dafne Moretti
 
 ## Bibliografia
 
