@@ -31,7 +31,7 @@ O padrão Singleton é utilizado quando uma classe no programa deve ter apenas u
 
 ## Conclusão
 
-O padrão Singleton é amplamente utilizado na indústria e soluciona problemas recorrentes em diversas aplicações. Todavia, deve ser utilizado com cautela para que não se torne um antipadrão devido, principalmente, ao fato dele violar o princípio de responsabilidade única.
+O padrão Singleton é amplamente utilizado na indústria e soluciona problemas recorrentes em diversas aplicações. Todavia, deve ser utilizado com cautela para que não se torne um antipadrão devido, principalmente, ao fato dele violar o princípio de responsabilidade única. Dentro da nossa aplicação, é possível utilizá-lo na criação do objeto usuário. Dessa forma, é possível utilizar as informações do usuário logado em diferentes tela, sem ser necessário passar ou criar um objeto em cada tela.
 
 ## Bibliografia
 
