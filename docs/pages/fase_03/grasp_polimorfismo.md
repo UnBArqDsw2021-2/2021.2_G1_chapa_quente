@@ -22,6 +22,29 @@ O uso de Polimorfismo como GRASP permite que o código tenha melhor manutenção
 
 Como pode ser observado na imagem acima, existe uma superclasse que representa as formas geométricas(Shape) e três classes derivadas de formas geométricas específicas (Circle, Rectangle e Square). O polimorfismo nesse caso, acontece no método draw() que, apesar de ter o mesmo objetivo em todas as classes, ele deve ser feito de maneiras diferentes para cada forma geométrica, visto que a maneira de desenhar um círculo é diferente da maneira de desenhar um retângulo ou quadrado.
 
+Exemplo de código em Python para projeto:
+
+```
+class Pedido:
+    def imprimir(self):
+    print("sou alimento")
+
+class Hamburguer(Pedido):
+    def __init__(self):
+        self.ingredientes = []
+    def imprimir(self):
+        for x in ingredientes:
+            x.imprimir()
+
+class Ingrediente(Pedido):
+    def __init__(self, nome):
+        self.nome = nome
+
+    def imprimir(self):
+        print(self.nome)
+```
+
+
 ## Conclusão
 
 Por ser um padrão muito comum e que se encaixa em várias situações, o polimorfismo será utilizado no nosso projeto em algumas situações, um exemplo disso é o método de registrar usuários na aplicação, em que, dependendo do tipo de usuário, o registro acontecerá de maneira diferente.
