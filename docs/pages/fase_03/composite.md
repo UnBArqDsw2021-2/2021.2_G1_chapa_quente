@@ -28,6 +28,13 @@ O Composite é composto por 4 tipos de classes atuantes:
 
 O padrão composite poderá ser utilizado no projeto na estrutura de combos de produtos em que a classe Produto seria o Component, os tipos de produto (bebida, sanduíche, sobremesa) seriam as Leafs e o Combo seria o Composite, sendo possível adicionar ou remover produtos do combo e executar operações sobre os produtos contidos no mesmo.
 
+## Aplicação - código
+
+Tendo em vista a análise do padrão de projeto no escopo do Chapa Quente, foi criado o código de aplicação abaixo.
+
+![Padrão Composite](../../assets/images/codigo_composite.png)
+<figcaption><a href="../../assets/images/codigo_composite.png">Figura 2:</a> Código de aplicação do Padrão Composite no escopo do projeto. Autor: Dafne Moretti
+
 ## Bibliografia
 
 SERRANO, Milene. Arquitetura e Desenho de Software AULA - GOFS COMPORTAMENTAIS. Disponível em: <https://aprender3.unb.br/pluginfile.php/1558847/mod_label/intro/Arquitetura%20e%20Desenho%20de%20Software%20-%20Aula%20GoFs%20Estruturais%20-%20Profa.%20Milene.pdf> (Acesso em 28/02/2022)
