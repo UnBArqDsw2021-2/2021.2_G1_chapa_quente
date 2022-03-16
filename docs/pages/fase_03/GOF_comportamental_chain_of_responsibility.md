@@ -21,8 +21,6 @@ Temos aqui dois exemplos de utilização do padrão Chain of Responsibility asso
 ![Chain of Responsibility Example 2](../../assets/images/gof-chain-of-responsability-example2.png)
 <figcaption style="text-align: center">Exemplo de uso do padrão na troca de senha de um usuario. </figcaption>
 
-<figcaption> Exemplo de Chain of Responsibility. Tirado de https://refactoring.guru/pt-br/design-patterns/chain-of-responsibility<figcaption>
-
 ## Conclusão
 
 Esse GOF é bastante útil quando estamos tratando de verificação e validação de dados e esperamos poder realizar isso de uma forma organizada e clara, direcionando eventuais problemas com os dados recebidos. O padrão aqui oferece uma interface que cumpre essas necessidades. Vemos no nosso projeto a utilização desse padrão em momentos que precisamos fazer validações de dados em vários níveis.
