@@ -1,10 +1,11 @@
-# Nome do Artefato
+# MVC
 
 ## Versionamento
 
 | Versão |    Data    |     Modificação      | Autor | Revisor |
 | ------ | :--------: | :------------------: | :---: | :-----: |
 | 1.0    | 07/02/2022 | Criação do Documento |  João Pedro Chaves e Murilo Gomes     | Lucas Andrade e Dafne Moretti |
+| 1.1    | 14/03/2022 | Adição do código da model | João Pedro Chaves | Giulia Lobo e Guilherme Daniel Fernandes |
 
 <!-- NÃO ESQUECER DE ADICIONAR AO "/_sidebar.md" -->
 
@@ -41,16 +42,19 @@ Dada as explicações mostradas acima, foi decidido em grupo utilizar o padrão 
 
 ### Implementações:
 
+![Exemplo de Código de Model](../../assets/images/model.png)
+<figcaption style="text-align: center"><a href="./assets/images/model.png">Figura 01</a>: Exemplo de Model no contexto de Funcionário da lanchonete. Autores: Liverson Paulo e Murilo Gomes </figcaption>
+
 ## Bibliografia
 
-BASTOS, Daniel Flores. O que é Model-view-controller (MVC)?. [S. l.], 28 mar. 2011. Disponível em: https://www.oficinadanet.com.br/artigo/desenvolvimento/o_que_e_model-view-controller_mvc. Acesso em: 7 mar. 2022.
+* BASTOS, Daniel Flores. O que é Model-view-controller (MVC)?. [S. l.], 28 mar. 2011. Disponível em: https://www.oficinadanet.com.br/artigo/desenvolvimento/o_que_e_model-view-controller_mvc. Acesso em: 7 mar. 2022.
 
-Wikipedia. MVC. Disponível em: https://pt.wikipedia.org/wiki/MVC. Acesso em: 7 mar. 2022.
+* Wikipedia. MVC. Disponível em: https://pt.wikipedia.org/wiki/MVC. Acesso em: 7 mar. 2022.
 
-CAMPOZANO, Nelson Nunes. As Camadas MVC. [S. l.], 19 jun. 2013. Disponível em: http://fabrica.ms.senac.br/2013/06/as-camadas-mvc/. Acesso em: 7 mar. 2022.
+* CAMPOZANO, Nelson Nunes. As Camadas MVC. [S. l.], 19 jun. 2013. Disponível em: http://fabrica.ms.senac.br/2013/06/as-camadas-mvc/. Acesso em: 7 mar. 2022.
 
-ZUCHER, Vitor. O que é padrão MVC? Entenda arquitetura de softwares!. [S. l.], 17 jul. 2022. Disponível em: https://www.lewagon.com/pt-BR/blog/o-que-e-padrao-mvc#:~:text=O%20MVC%20%C3%A9%20uma%20sigla,sejam%20mais%20r%C3%A1pidas%20e%20din%C3%A2micas. Acesso em: 7 mar. 2022.
+* ZUCHER, Vitor. O que é padrão MVC? Entenda arquitetura de softwares!. [S. l.], 17 jul. 2022. Disponível em: https://www.lewagon.com/pt-BR/blog/o-que-e-padrao-mvc#:~:text=O%20MVC%20%C3%A9%20uma%20sigla,sejam%20mais%20r%C3%A1pidas%20e%20din%C3%A2micas. Acesso em: 7 mar. 2022.
 
-ZANLUCA, Marcel Luiz. MVC vs. PAC: qual a diferença entre as arquiteturas?. [S. l.], 12 abr. 2018. Disponível em: https://blog.taller.net.br/mvc-vs-pac-diferenca-entre-arquiteturas/. Acesso em: 7 mar. 2022.
+* ZANLUCA, Marcel Luiz. MVC vs. PAC: qual a diferença entre as arquiteturas?. [S. l.], 12 abr. 2018. Disponível em: https://blog.taller.net.br/mvc-vs-pac-diferenca-entre-arquiteturas/. Acesso em: 7 mar. 2022.
 
-MASSARI, Jorge. Padrão MVC | Arquitetura Model-View-Controller. [S. l.], 2018. Disponível em: https://www.portalgsti.com.br/2017/08/padrao-mvc-arquitetura-model-view-controller.html. Acesso em: 7 mar. 2022.
+* MASSARI, Jorge. Padrão MVC | Arquitetura Model-View-Controller. [S. l.], 2018. Disponível em: https://www.portalgsti.com.br/2017/08/padrao-mvc-arquitetura-model-view-controller.html. Acesso em: 7 mar. 2022.
