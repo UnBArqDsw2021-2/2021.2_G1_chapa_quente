@@ -1,4 +1,4 @@
-# GOF Estrutural Bridge
+# Bridge
 
 ## Versionamento
 

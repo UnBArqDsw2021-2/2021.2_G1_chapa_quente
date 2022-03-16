@@ -60,14 +60,14 @@
     - [Vídeos](pages/fase_02/apresentacoes_modelagem.md)
 
 - **Padrões de Projeto**
-  - **GRASPs**
+  - [GRASPS](pages/fase_03/introducao_GRASPS.md)
     - [Alta Coesão Baixo Acoplamento](pages/fase_03/grasp_altacoesao_baixoacoplamento.md)
     - [Criador](pages/fase_03/grasp_criador.md)
     - [Especialista](pages/fase_03/grasp_especialista.md)
     - [Polimorfismo](pages/fase_03/grasp_polimorfismo.md)
     - [Controller](pages/fase_03/GRASP-Controller.md)
     - [Invenção Pura](pages/fase_03/invencao_pura.md)
-  - **GoFs**
+  - [GoFs](pages/fase_03/introducao_GOFS.md)
     - **Criacional**
       - [Factory Method](pages/fase_03/gof_factory_method.md)
       - [Object Pool](pages/fase_03/GOF-Object-Pool.md)
