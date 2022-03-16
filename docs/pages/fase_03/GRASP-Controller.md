@@ -5,7 +5,7 @@
 | Versão | Data       | Modificação          | Autor                        |Revisor|
 | ------ | :--------: | :------------------: | :--------------------------: | :---: |
 | 1.0    | 24/02/2022 | Criação do Documento | Lucas Andrade e Philipe Serafim | Dafne Moretti e João Pedro  |
-| 1.1    | 15/03/2022 | Adição de código e conclusão | Lucas Andrade | Giulia Lobo e Guilherme Daniel Fernandes |
+| 1.1    | 15/03/2022 | Adição de código e conclusão | Lucas Andrade | Giulia Lobo e João Pedro |
 
 ## Introdução
 
