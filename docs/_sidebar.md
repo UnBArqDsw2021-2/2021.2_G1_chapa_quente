@@ -60,14 +60,14 @@
     - [Vídeos](pages/fase_02/apresentacoes_modelagem.md)
 
 - **Padrões de Projeto**
-  - **GRASPs**
+  - [GRASPS](pages/fase_03/introducao_GRASPS.md)
     - [Alta Coesão Baixo Acoplamento](pages/fase_03/grasp_altacoesao_baixoacoplamento.md)
     - [Criador](pages/fase_03/grasp_criador.md)
     - [Especialista](pages/fase_03/grasp_especialista.md)
     - [Polimorfismo](pages/fase_03/grasp_polimorfismo.md)
     - [Controller](pages/fase_03/GRASP-Controller.md)
     - [Invenção Pura](pages/fase_03/invencao_pura.md)
-  - **GoFs**
+  - [GoFs](pages/fase_03/introducao_GOFS.md)
     - **Criacional**
       - [Factory Method](pages/fase_03/gof_factory_method.md)
       - [Object Pool](pages/fase_03/GOF-Object-Pool.md)
@@ -88,7 +88,11 @@
       - [State](pages/fase_03/gof_state.md)
       - [Strategy](pages/fase_03/gof_strategy.md)
       - [Visitor](pages/fase_03/gof_visitor.md)
+      - [Memento](pages/fase_03/gof_memento.md)
       - [Template Method](pages/fase_03/template-method.md)
   - **Padrões Emergentes**
     - [MVC](pages/fase_03/mvc.md)
     - [Injeção de Independência](pages/fase_03/injecao_de_independencia.md) 
+  - **Iniciativas extras**
+    - [Atas da Entrega](_indiceReuniao4.md)
+  - **Apresentações**

@@ -1,4 +1,4 @@
-# Criacional Prototype
+# Prototype
 
 ## Versionamento
 
@@ -16,19 +16,24 @@ Além disso, é perceptível que alguns atributos ou métodos são privados e n�
 
 ## Metodologia
 
-A imagem abaixo demonstra em diagrama como funciona o Prototype.
+O objeto delegará para o seu protótipo funções que ele não realiza. A imagem abaixo demonstra em diagrama como funciona o Prototype.
 
-![Diagrama de funcionamento do prototype](../../assets/images/criacional_prototype1.png)
+![Diagrama de funcionamento do prototype](../../assets/images/criacional_prototype1.png ":size=600") </br> Figura 1 - Diagrama que representa o funcionamento do Prototype. Fonte:[https://refactoring.guru/pt-br/design-patterns/prototype](https://refactoring.guru/pt-br/design-patterns/prototype)
 
-O objeto delegará para o seu protótipo funções que ele não realiza.
-
-#### Código
-
-![Código representando o prototype](../../assets/images/code_prototype.png) Fonte: Autoria própria
+1. A interface "Prototype" declara métodos para clonar os objetos
+2. "ConcretePrototype" implementa estes métodos. É onde os dados do objeto são copiados para o clone
+3. "Client" pode copiar qualquer objeto que segue a interface "Prototype"
 
 ## Conclusão
 
 O Prototype será utilizado na aplicação Chapa Quente, uma vez que a principal linguagem utilizada (JavaScript, TypeScript) já é baseada em protótipos, ou seja, os objetos já estão ligados entre si.
+
+## Aplicação - Código
+
+A aplicação deste padrão de projeto no Chapa Quente pode ser vista na criação de novos cupons, já que serão criados muitos cupons iguais e distribuídos para diferentes tipos de usuários.
+O código abaixo demonstra o **cupom_surpresa** que tem como prototype o objeto **cupom**.
+
+![Código representando o prototype](../../assets/images/code_prototype.png ":size=600") </br> Figura 2 - Código representando o prototype. Autor: Dafne Moretti
 
 ## Bibliografia
 
