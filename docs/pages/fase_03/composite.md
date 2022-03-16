@@ -2,9 +2,11 @@
 
 ## Versionamento
 
-| Versão |    Data    |                  Modificação                   |         Autor         |      Revisor       |
-| ------ | :--------: | :--------------------------------------------: | :-------------------: | :----------------: |
-| 1.0    | 25/02/2022 |              Criação do Documento              | Murilo Gomes e Rodrigo Lima | Lucas Andrade e Dafne Moretti |
+| Versão |    Data    |     Modificação      |            Autor            |            Revisor            |
+| ------ | :--------: | :------------------: | :-------------------------: | :---------------------------: |
+| 1.0    | 25/02/2022 | Criação do Documento | Murilo Gomes e Rodrigo Lima | Lucas Andrade e Dafne Moretti |
+| 1.1    | 28/02/2022 | Adição da aplicação  |        Dafne Moretti        |         Lucas Andrade         |
+| 1.1    | 16/03/2022 |   Correção do path   |       Philipe Serafim       | Lucas Andrade e Dafne Moretti |
 
 ## Introdução
 
@@ -13,16 +15,17 @@ Composite é um padrão comportamental que tem como objetivo compor objetos em e
 ## Metodologia
 
 ![Padrão Composite](../../assets/images/composite.png)
-<figcaption><a href="../../assets/images/composite.png">Figura 1:</a> Diagrama do Padrão Composite. Fonte: <a href="https://itnext.io/easy-patterns-composite-8b28aa1f158" > https://itnext.io/easy-patterns-composite-8b28aa1f158</a></figcaption>
+
+<figcaption><a href="./assets/images/composite.png">Figura 1:</a> Diagrama do Padrão Composite. Fonte: <a href="https://itnext.io/easy-patterns-composite-8b28aa1f158" > https://itnext.io/easy-patterns-composite-8b28aa1f158</a></figcaption>
 
 O Composite é um padrão que consiste em agrupar objetos (Leafs) de um tipo definido (Component) dentro de uma classe herdada (Composite) desse mesmo tipo, permitindo que essa classe (Composite) execute os métodos definidos pelo Component baseados na composição de Leafs contidas no Composite.
 
 O Composite é composto por 4 tipos de classes atuantes:
-		
-* Component: Interface ou classe abstrata que define o tipo dos objetos a serem utilizados
-* Leaf: Classe que estende de Component e tem como objetivo representar os objetos a serem utilizados na composição
-* Composite: Classe que estende de Component e agrupa objetos das classes Leafs. Tem como objetivo implementar os métodos de Component para acessar e gerenciar as Leafs armazenadas.
-* Client: Classe que interage com Component para gerenciar a composição a ser utilizada.
+
+- Component: Interface ou classe abstrata que define o tipo dos objetos a serem utilizados
+- Leaf: Classe que estende de Component e tem como objetivo representar os objetos a serem utilizados na composição
+- Composite: Classe que estende de Component e agrupa objetos das classes Leafs. Tem como objetivo implementar os métodos de Component para acessar e gerenciar as Leafs armazenadas.
+- Client: Classe que interage com Component para gerenciar a composição a ser utilizada.
 
 ## Conclusão
 
@@ -33,7 +36,8 @@ O padrão composite poderá ser utilizado no projeto na estrutura de combos de p
 Tendo em vista a análise do padrão de projeto no escopo do Chapa Quente, foi criado o código de aplicação abaixo.
 
 ![Padrão Composite](../../assets/images/codigo_composite.png)
-<figcaption><a href="../../assets/images/codigo_composite.png">Figura 2:</a> Código de aplicação do Padrão Composite no escopo do projeto. Autor: Dafne Moretti
+
+<figcaption><a href="./assets/images/codigo_composite.png">Figura 2:</a> Código de aplicação do Padrão Composite no escopo do projeto. Autor: Dafne Moretti
 
 ## Bibliografia
 
