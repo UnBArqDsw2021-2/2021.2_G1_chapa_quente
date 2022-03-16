@@ -1,4 +1,4 @@
-# GOF Chain of Responsibility
+# Chain of responsibility
 
 
 ## Versionamento
