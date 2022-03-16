@@ -2,10 +2,11 @@
 
 ## Versionamento
 
-| Versão | Data       | Modificação          | Autor                        |Revisor|
-| ------ | :--------: | :------------------: | :--------------------------: | :---: |
-| 1.0    | 02/03/2022 | Criação do Documento | Lucas Andrade | Dafne Moretti Moreira |
-| 1.1    | 16/03/2022 | Alterações na documentação | Giulia Lobo Barros | Dafne Moretti, Guilherme Fernandes, Rodrigo Lima e João Pedro Chaves |
+| Versão |    Data    |         Modificação         |       Autor        |                               Revisor                                |
+| ------ | :--------: | :-------------------------: | :----------------: | :------------------------------------------------------------------: |
+| 1.0    | 02/03/2022 |    Criação do Documento     |   Lucas Andrade    |                        Dafne Moretti Moreira                         |
+| 1.1    | 16/03/2022 | Alterações na documentação  | Giulia Lobo Barros | Dafne Moretti, Guilherme Fernandes, Rodrigo Lima e João Pedro Chaves |
+| 1.2    | 16/03/2022 | Correção ortográfica e path |  Philipe Serafim   | Dafne Moretti, Guilherme Fernandes, Rodrigo Lima e João Pedro Chaves |
 
 ## Introdução
 
@@ -13,26 +14,25 @@ O padrão criacional **Object Pool** é usado quando estamos lidando com classes
 
 Os objetos possuem o ciclo de vida de **criação**, **validação** e **destruição**.
 
-Também é possivel fazer um paralelo com a ideia de um cache.
+Também é possível fazer um paralelo com a ideia de um cache.
 
 ## Metodologia
 
-O Object Pool funciona como um local que reune as instâncias das classes, e quando necessário, é feito uma chamada pela instância desejada. É desejado que todos os objetos instanciados estejam na mesma pool, e por isso é recomendado que a classe do pool seja uma classe Singleton.
+O Object Pool funciona como um local que reúne as instâncias das classes, e quando necessário, é feito uma chamada pela instância desejada. É desejado que todos os objetos instanciados estejam na mesma pool, e por isso é recomendado que a classe do pool seja uma classe Singleton.
 
-<img
-    src="../../assets/images/GOF-Object_Pool-Example.png"
-    style="background-color: white"
-/>
-<figcaption style="text-align: center">Interação entre o cliente e a pool. Fonte: https://sourcemaking.com/</figcaption>
+![](../../assets/images/GOF-Object_Pool-Example.png)
+
+<figcaption style="text-align: center">Figura 1 - Interação entre o cliente e a pool. Fonte: https://sourcemaking.com/</figcaption>
 
 ## Aplicação Prática
 
 Uma forma de exemplificar o **Objetct Pool** é mostrando como ele funcionaria em um código:
 
 ![](../../assets/images/object_pool_example.png)
-<figcaption style="text-align: center">Interação entre o cliente e a pool. Fonte: https://itdesigner.github.io/standards/patterns/gof-objectpool.html</figcaption> </br>
 
-Conforme a imagem demonstra, primeiramente é criada uma função (classe) *Object Pool*, que representa o objeto que será reutilizado e também é criada uma função (classe) *PoolItem* que vai reunir as instâncias da outra classe e aí vai poder chamá-la apenas quando necessário, sem ter que chamar todos os recursos originários dela. Dessa forma evitando um gasto exorbitante de memória do sistema e melhorando sua performance.
+<figcaption style="text-align: center">Figura 2 - Interação entre o cliente e a pool. Fonte: https://itdesigner.github.io/standards/patterns/gof-objectpool.html</figcaption> </br>
+
+Conforme a imagem demonstra, primeiramente é criada uma função (classe) _Object Pool_, que representa o objeto que será reutilizado e também é criada uma função (classe) _PoolItem_ que vai reunir as instâncias da outra classe e aí vai poder chamá-la apenas quando necessário, sem ter que chamar todos os recursos originários dela. Dessa forma evitando um gasto exorbitante de memória do sistema e melhorando sua performance.
 
 ## Conclusão
 
