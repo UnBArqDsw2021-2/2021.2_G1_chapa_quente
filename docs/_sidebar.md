@@ -72,6 +72,7 @@
       - [Factory Method](pages/fase_03/gof_factory_method.md)
       - [Object Pool](pages/fase_03/GOF-Object-Pool.md)
       - [Prototype](pages/fase_03/gof_criacional_prototype.md)
+      - [Singleton](pages/fase_03/gofSingleton.md)
       - [Multiton](pages/fase_03/GOF-multiton.md)
     - **Estrutural**
       - [Adapter](pages/fase_03/GOF-Adapter.md)
@@ -89,6 +90,7 @@
       - [Strategy](pages/fase_03/gof_strategy.md)
       - [Visitor](pages/fase_03/gof_visitor.md)
       - [Memento](pages/fase_03/gof_memento.md)
+      - [Mediator](pages/fase_03/gofMediator.md)
       - [Template Method](pages/fase_03/template-method.md)
   - **Padrões Emergentes**
     - [MVC](pages/fase_03/mvc.md)
