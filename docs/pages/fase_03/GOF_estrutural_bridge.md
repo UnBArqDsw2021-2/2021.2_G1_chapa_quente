@@ -2,13 +2,15 @@
 
 ## Versionamento
 
-| Versão | Data       | Modificação          | Autor                        |Revisor|
-| ------ | :--------: | :------------------: | :--------------------------: | :---: |
-| 1.0    | 09/02/2022 | Criação do Documento | Liverson Paulo e Giulia Lobo | Lucas Andrade e Dafne Moretti |
+| Versão |    Data    |               Modificação               |            Autor             |            Revisor            |
+| ------ | :--------: | :-------------------------------------: | :--------------------------: | :---------------------------: |
+| 1.0    | 09/03/2022 |          Criação do Documento           | Liverson Paulo e Giulia Lobo | Lucas Andrade e Dafne Moretti |
+| 1.1    | 15/03/2022 |           Adição de exemplos            |     Guilherme Fernandes      | Lucas Andrade e Dafne Moretti |
+| 1.2    | 16/03/2022 | Correção ortográfica e de versionamento |       Philipe Serafim        | Lucas Andrade e Dafne Moretti |
 
 ## Introdução e metodologia
 
-Este padrão de proje to vai permitir que uma classe grande ou classes que estão ligadas intimamente sejam divididas em duas hierarquias separadas, sendo elas a abstração e a implementação. Elas podem ser  desenvolvidas de formas independentes umas das outras.
+Este padrão de projeto vai permitir que uma classe grande ou classes que estão ligadas intimamente sejam divididas em duas hierarquias separadas, sendo elas a abstração e a implementação. Elas podem ser desenvolvidas de formas independentes umas das outras.
 
 Ao trocar herança por composição do objeto, esse formato tenta evitar com que haja heranças que crescem de maneira exponencial.
 
@@ -38,7 +40,7 @@ A classe TV vai ser responsável por implementar a classe device, apresentando a
 
 ![Implementação Radio](../../assets/images/radioImplementation.png)
 
-A classe rádio também implementa a interface Device, pois é um tipo de Device e apresenta características e funcionalidades semelhantes à TV. Todavia, ela implementa os métodos também presentes na TV de forma diferente. 
+A classe rádio também implementa a interface Device, pois é um tipo de Device e apresenta características e funcionalidades semelhantes à TV. Todavia, ela implementa os métodos também presentes na TV de forma diferente.
 
 ![Exemplo de Implementação](../../assets/images/implementationExample.png)
 
