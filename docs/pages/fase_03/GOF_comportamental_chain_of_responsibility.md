@@ -4,8 +4,8 @@
 
 | Versão | Data       | Modificação          | Autor                        |Revisor|
 | ------ | :--------: | :------------------: | :--------------------------: | :---: |
-| 1.0    | 25/02/2022 | Criação do Documento | Liverson Paulo e Lucas Andrade | A definir |
-| 1.1    | 11/03/2022 | Adição de código e ajustes no texto | Lucas Andrade | Dafne Moretti e João Pedro |
+| 1.0    | 25/02/2022 | Criação do Documento | Liverson Paulo e Lucas Andrade | Dafne Moretti e João Pedro |
+| 1.1    | 11/03/2022 | Adição de código e ajustes no texto | Lucas Andrade | Giulia Lobo e Guilherme Daniel Fernandes |
 
 ## Introdução
 
