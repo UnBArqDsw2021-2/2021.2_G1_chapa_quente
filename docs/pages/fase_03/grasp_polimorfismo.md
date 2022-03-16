@@ -2,30 +2,30 @@
 
 ## Versionamento
 
-| Versão |    Data    |                  Modificação                   |         Autor         |      Revisor       |
-| ------ | :--------: | :--------------------------------------------: | :-------------------: | :----------------: |
-| 1.0    | 25/02/2022 |              Criação do Documento              | Murilo Gomes e Rodrigo Lima | Lucas Andrade e Dafne Moretti |
-| 1.1    | 16/03/2022 | Adição de exemplo de cógido                    | Rodrigo Lima | Murilo Gomes e Giulia Lobo | 
+| Versão |    Data    |        Modificação        |            Autor            |            Revisor            |
+| ------ | :--------: | :-----------------------: | :-------------------------: | :---------------------------: |
+| 1.0    | 25/02/2022 |   Criação do Documento    | Murilo Gomes e Rodrigo Lima | Lucas Andrade e Dafne Moretti |
+| 1.1    | 16/03/2022 | Corrigido link da legenda |       Philipe Serafim       | Lucas Andrade e Dafne Moretti |
+| 1.2    | 16/03/2022 | Adição de exemplo de cógido| Rodrigo Lima | Murilo Gomes e Giulia Lobo | 
 
 ## Introdução
 
 Polimorfismo é um GRASP que baseia-se em modificar métodos com a mesma assinatura (tipo, nome e parâmetros) recebidos das superclasses em suas classes derivadas, de modo que, os métodos possam ter comportamentos diferentes nas classes derivadas.
-
 O uso de Polimorfismo como GRASP permite que o código tenha melhor manutenção e leitura facilitada, pois cada método tem seu comportamento explicitado em sua própria classe, mesmo que o conceito trazido na assinatura seja o mesmo para todas as classes. Isso facilita a adição e edição de classes derivadas já que o comportamento do método deixa de depender da superclasse diretamente.
 
 ## Metodologia
 
-<br/>
+</br>
 
 ![Exemplo de Polimorfismo](../../assets/images/polimorfismo.png)
 
-<figcaption style="text-align: center"><a href="../../assets/images/polimorfismo.png" >Figura 1 </a>: Exemplo de Polimorfismo. Fonte: <a href="https://www.askpython.com/python/oops/polymorphism-in-python" > Polymorphism in python </a></figcaption>
+<figcaption style="text-align: center"><a href="./assets/images/polimorfismo.png" >Figura 1 </a>: Exemplo de Polimorfismo. Fonte: <a href="https://www.askpython.com/python/oops/polymorphism-in-python"> Polymorphism in python </a></figcaption>
 
 Como pode ser observado na imagem acima, existe uma superclasse que representa as formas geométricas(Shape) e três classes derivadas de formas geométricas específicas (Circle, Rectangle e Square). O polimorfismo nesse caso, acontece no método draw() que, apesar de ter o mesmo objetivo em todas as classes, ele deve ser feito de maneiras diferentes para cada forma geométrica, visto que a maneira de desenhar um círculo é diferente da maneira de desenhar um retângulo ou quadrado.
 
-Exemplo de código em Python no mesmo escopo do projeto Chapa Quente:
-
 ![Exemplo de Código de Polimorfismo](../../assets/images/polimorfismoCode.png)
+
+<figcaption>Figura 2: Exemplo de código em Python no mesmo escopo do projeto Chapa Quente</figcaption>
 
 
 ## Conclusão

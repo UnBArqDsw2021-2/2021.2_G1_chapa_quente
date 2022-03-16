@@ -24,6 +24,8 @@ Figura 1 - Classe multiton. Fonte: [CARR](http://www.blackwasp.co.uk/multiton.as
 
 O acesso centralizado a partir da chave informada permite com que o Multiton exerça diversos papéis em projetos distintos. Entretanto deve-se prestar atenção ao fato de que o Multiton nunca irá retornar um valor nulo, caso não exista instanciação para a chave indicada, uma nova instância será criada para a chave em questão, podendo causa um uso inesperado de memória.
 
+A implementação do multiton deve ser bem pensada para não trazer mais prejuízos do que benefícios. Portanto, foi analisado que o padrão de projeto não será aplicado no contexto do Chapa Quente, uma vez que haveria a tendência de criação de um multiton com associação de vários singletons. Além disso, neste escopo não será utilizada uma grande quantidade de singletons, o que inviabiliza ainda mais o multiton. 
+
 ## Bibliografia
 
 CARR, Richard. **Multiton Design Pattern**. Disponível em: http://www.blackwasp.co.uk/multiton.aspx. Acessado em: 28/02/2022.

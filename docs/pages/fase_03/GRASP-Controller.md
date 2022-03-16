@@ -2,10 +2,11 @@
 
 ## Versionamento
 
-| Versão | Data       | Modificação          | Autor                        |Revisor|
-| ------ | :--------: | :------------------: | :--------------------------: | :---: |
-| 1.0    | 24/02/2022 | Criação do Documento | Lucas Andrade e Philipe Serafim | Dafne Moretti e João Pedro  |
-| 1.1    | 15/03/2022 | Adição de código e conclusão | Lucas Andrade | Giulia Lobo e João Pedro |
+| Versão |    Data    |              Modificação               |              Autor              |          Revisor           |
+| ------ | :--------: | :------------------------------------: | :-----------------------------: | :------------------------: |
+| 1.0    | 24/02/2022 |          Criação do Documento          | Lucas Andrade e Philipe Serafim | Dafne Moretti e João Pedro |
+| 1.1    | 15/03/2022 |      Adição de código e conclusão      |          Lucas Andrade          |  Giulia Lobo e João Pedro  |
+| 1.2    | 16/03/2022 | Correção do path e legenda das figuras |          Lucas Andrade          |  Giulia Lobo e João Pedro  |
 
 ## Introdução
 
@@ -15,13 +16,15 @@ O padrão Controller, ou Controlador, delega a classes **não-visuais** o dever 
 
 ## Metodologia
 
-![Interação Usuario com UI](./../../../assets/images/user-controller_interaction.png)
-<figcaption style="text-align: center">Interação do usuario com a UI e o papel da Controller. Autor: Lucas Andrade</figcaption>
+![Interação Usuario com UI](./../../assets/images/user-controller_interaction.png)
 
-Acima temos um exemplo da atuação desse padrão nas interações promovidas pelo usuário, e como ela funciona como uma ponte, fornecendo as funcionalidades da aplicação para serem exibidas aos usuários na UI.  
+<figcaption style="text-align: center">Figura 1 - Interação do usuário com a UI e o papel da Controller. Autor: Lucas Andrade</figcaption>
+
+Acima temos um exemplo da atuação desse padrão nas interações promovidas pelo usuário, e como ela funciona como uma ponte, fornecendo as funcionalidades da aplicação para serem exibidas aos usuários na UI.
 
 ![Codigo Controller](./../../assets/images/grasp-controller2.png)
-<figcaption style="text-align: center">Uso do padrão no projeto</figcaption>
+
+<figcaption style="text-align: center">Figura 2 - Uso do padrão no projeto</figcaption>
 
 Temos acima a utilização do padrão Controller no gerenciamento de clientes do projeto.
 

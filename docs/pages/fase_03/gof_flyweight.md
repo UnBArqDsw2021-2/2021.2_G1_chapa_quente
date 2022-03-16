@@ -24,21 +24,31 @@ Sua aplicabilidade acontece quando objetos são utilizados para construir outros
 
 Como pode-se utilizar o mesmo objeto em diferentes situações, é necessário garantir não há modificação em seu estado. A Figura 1 apresenta de um modo interativo como funciona o pool de objetos imutáveis.
 
-![Ilustração do funcionamento do flyweight](./../../assets/images/casinhas.png ":size=600") </br> Figura 1 - Iustração do pool de objetos imutáveis. Fonte: [https://www.inf.ufpr.br/andrey/ci163/Design_Patterns.pdf](https://www.inf.ufpr.br/andrey/ci163/Design_Patterns.pdf) |
+![Ilustração do funcionamento do flyweight](./../../assets/images/casinhas.png ":size=600") </br> Figura 1 - Iustração do pool de objetos imutáveis. Fonte: [https://www.inf.ufpr.br/andrey/ci163/Design_Patterns.pdf](https://www.inf.ufpr.br/andrey/ci163/Design_Patterns.pdf)
 
-A Figura 2, mostra um exemplo de diagrama de objetos que ilustra o flyweight.
+Os participantes do flyweight são:
 
-![Diagrama que apresenta o flyweight](./../../assets/images/flyweight_diagrama.png ":size=600") </br> Figura 2 - Diagrama de objetos ilustrando flyweight. Fonte: Erich Gamma ... [and others]. Design Patterns : Elements of Reusable Object-Oriented Software. Reading, Mass. :Addison-Wesley, 1995.
+1. Flyweight: declara interface onde haverá manipulação dos estados extrínsecos.
+2. ConcreteFlyweight: Armazena estados intrínsecos e implementa a interface.
+3. UnsharedConcreteFlyweight: é onde o compartilhamento é habilitado
+4. FlyweightFactory: possui função criação e manipulação dos objetos
+5. Client: armazena estados extrínsecos 
 
-### Código
+O diagrama abaixo apresenta estes participantes
 
-![Código representando flyweight](./../../assets/images/code_flyweight.png ":size=600") </br> Figura 3 - Exemplo de código utilizando flyweight. Fonte: Autoria própria
+![Diagrama que apresenta o flyweight](./../../assets/images/diagrama_flyweight3.png ":size=600") </br> Figura 2 - Diagrama de objetos ilustrando flyweight. Fonte: Erich Gamma ... [and others]. Design Patterns : Elements of Reusable Object-Oriented Software. Reading, Mass. :Addison-Wesley, 1995.
 
 ## Conclusão
 
-Após o estudo e percepção do que seria o padrão de projeto flyweight, percebeu-se que é possível utilizá-lo no projeto Chapa Quente, uma vez que haverá muitos objetos iguais na aplicação, sendo esses muitos sandhuíches, por exemplo, ou muitas bebidas. 
+Após o estudo e percepção do que seria o padrão de projeto flyweight, percebeu-se que é possível utilizá-lo no projeto Chapa Quente, uma vez que haverá muitos objetos iguais na aplicação, sendo esses muitos sanduíches, por exemplo, ou muitas bebidas. 
 
 Outro exemplo onde poderá ser utilizado o flyweight é para os endereços das pessoas cadastradas no sistema, algumas partes do endereço serão compartilhadas entre vários objetos, haverá separação entre estado intrínseco (parte que não muda do endereço) e estado extrínseco (parte que muda do endereço).
+
+## Aplicação - Código
+
+Uma vez que foi percebida a possibilidade de utilização deste padrão no contexto de entregas, que está incluso no objetivo da aplicação chapa quente, pode-se perceber um método construtor que inicializa o estado intrínseco que não poderá mudar e também uma função entregar, que apresenta o estado extrínseco do objeto.
+
+![Código representando flyweight](./../../assets/images/code_flyweight.png ":size=600") </br> Figura 3 - Exemplo de código utilizando flyweight. Autor: Dafne Moretti
 
 ## Bibliografia
 
