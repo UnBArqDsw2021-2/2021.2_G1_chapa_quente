@@ -5,6 +5,7 @@
 | Versão |    Data    |     Modificação      | Autor | Revisor |
 | ------ | :--------: | :------------------: | :---: | :-----: |
 | 1.0    | 04/03/2022 | Criação do Documento | Dafne Moretti e Rodrigo Lima   | Lucas Andrade e Dafne Moretti |
+| 1.1    | 16/03/2022 | Adição de exemplo de código |  Rodrigo Lima   |  |
 
 <!-- NÃO ESQUECER DE ADICIONAR AO "/_sidebar.md" -->
 
