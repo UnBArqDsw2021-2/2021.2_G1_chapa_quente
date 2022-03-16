@@ -5,7 +5,7 @@
 | Versão | Data       | Modificação          | Autor                        |Revisor|
 | ------ | :--------: | :------------------: | :--------------------------: | :---: |
 | 1.0    | 04/03/2022 | Criação do Documento | Liverson Paulo, Lucas Andrade | João Pedro |
-| 1.1    | 16/03/2022 | Melhorias no texto   | Lucas Andrade | |
+| 1.1    | 16/03/2022 | Melhorias no texto   | Lucas Andrade | João Pedro Chaves |
 
 ## Introdução
 
