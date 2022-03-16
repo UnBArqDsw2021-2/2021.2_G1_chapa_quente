@@ -21,7 +21,7 @@ A proposta do padrão Adapter é servir como um tradutor entre duas interfaces d
 - Emprega uma linguagem universal (padrão)
 - Modularização do projeto, dividindo bem as funções
 
-### Pontos Negativo
+### Pontos Negativos
 
 - Aumenta complexidade do codigo, já que agora será necessário uma etapa extra (A -> **ADAPTER** -> B)
 
