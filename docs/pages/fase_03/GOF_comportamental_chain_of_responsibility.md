@@ -11,6 +11,9 @@
 
 É um padrão comportamental, cujo o propósito é evitar que hajam dependência entre um objeto receptor e um objeto solicitante. Portanto ele vai permitir que passe pedidos por uma corrente de handlers, em que ao receber um pedido, cada handler vai decidir se processa ou passa um pedido para o handler adiante na corrente.
 
+![](../../assets/images/chainofresponsibility.png)
+<figcaption style="text-align: center">Exemplo do funcionamento de Chain of Responsibility associando com o mundo real. Fonte: https://refactoring.guru/pt-br/design-patterns/chain-of-responsibility</figcaption>
+
 ## Metodologia
 
 Temos aqui dois exemplos de utilização do padrão Chain of Responsibility associado com o projeto. No primeiro temos validações para realização do login e no segundo a troca de senha de um usuário. Para esse segundo, temos a validação de **token** e **senha**. Essas validações são realizar por metodos contidos na classe validation.
