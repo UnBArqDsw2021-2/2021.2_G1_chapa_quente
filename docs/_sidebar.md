@@ -93,3 +93,6 @@
   - **Padrões Emergentes**
     - [MVC](pages/fase_03/mvc.md)
     - [Injeção de Independência](pages/fase_03/injecao_de_independencia.md) 
+  - **Iniciativas extras**
+    - [Atas da Entrega](_indiceReuniao4.md)
+  - **Apresentações**
