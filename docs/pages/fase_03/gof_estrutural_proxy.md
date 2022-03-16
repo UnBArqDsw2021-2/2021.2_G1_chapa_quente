@@ -2,10 +2,11 @@
 
 ## Versionamento
 
-| Versão |    Data    |     Modificação      |            Autor             |            Revisor            |
-| ------ | :--------: | :------------------: | :--------------------------: | :---------------------------: |
-| 1.0    | 04/03/2022 | Criação do Documento | Dafne Moretti e Rodrigo Lima | Lucas Andrade e Dafne Moretti |
-| 1.1    | 16/03/2022 |   Correção do path   |       Philipe Serafim        | Lucas Andrade e Dafne Moretti |
+| Versão |    Data    |     Modificação      | Autor | Revisor |
+| ------ | :--------: | :------------------: | :---: | :-----: |
+| 1.0    | 04/03/2022 | Criação do Documento | Dafne Moretti e Rodrigo Lima   | Lucas Andrade e Dafne Moretti |
+| 1.1    | 16/03/2022 | Adição de exemplo de código |  Rodrigo Lima   | Murilo Gomes e Giulia Lobo |
+| 1.2    | 16/03/2022 |   Correção do path   |       Philipe Serafim        | Lucas Andrade e Dafne Moretti |
 
 <!-- NÃO ESQUECER DE ADICIONAR AO "/_sidebar.md" -->
 
@@ -21,7 +22,10 @@ O padrão Proxy baseia-se em encapsular um objeto através de um outro objeto qu
   - Carregando um objeto persistente na memória quando é referenciado pela primeira vez,
   - Verificar se o objeto real está bloqueado antes de ser acessado para garantir que nenhum outro objeto possa alterá-lo.
 
+
 ## Metodologia
+
+### Exemplo de Diagrama e Código
 
 Ao definir uma interface Subject, a presença do objeto Proxy no lugar do RealSubject é transparente para o cliente.
 
@@ -29,6 +33,11 @@ Ao definir uma interface Subject, a presença do objeto Proxy no lugar do RealSu
 
 <figcaption style="text-align: center"><a href="./assets/images/proxy.png" >Figura 1 </a>: Exemplo de Proxy. Fonte: <a href="https://sourcemaking.com/design_patterns/proxy" > Proxy Design Pattern
  </a>. Acesso em: 04/03/2022 </figcaption>
+
+ Um exemplo bem rudimentar feito em C# em uma aplicação do escopo seria:
+
+ ![Exemplo de Código de Proxy](../../assets/images/proxyCode.png)
+ <figcaption> Figura 2 - Exemplo de código de Proxy em C#. Adaptado de: DevMedia. </figcaption>
 
 ## Conclusão
 
