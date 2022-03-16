@@ -5,6 +5,7 @@
 | Versão | Data       | Modificação          | Autor                        |Revisor|
 | ------ | :--------: | :------------------: | :--------------------------: | :---: |
 | 1.0    | 10/02/2022 | Criação do Documento | Murilo Gomes de Souza | Giulia Lobo |
+| 1.1    | 12/03/2022 | Correção dos elos entre os léxicos | João Pedro Chaves | Giulia Lobo e Guilherme Daniel Fernandes |
 
 <!-- NÃO ESQUECER DE ADICIONAR AO "/_sidebar.md" -->
 
@@ -23,31 +24,31 @@ Para a criação desse documento foram criados vários léxicos relacionados com
 
 ### Índice
 
-* [L01 - Adicional](pages/fase_02/lexicos#adicional)
-* [L02 - Avaliação](pages/fase_02/lexicos#avaliacao)
-* [L03 - Busca](pages/fase_02/lexicos#busca)
-* [L04 - Cadastro](pages/fase_02/lexicos#cadastro)
-* [L05 - Cardápio](pages/fase_02/lexicos#cardapio)
-* [L06 - Carrinho](pages/fase_02/lexicos#carrinho)
-* [L07 - Categoria](pages/fase_02/lexicos#categoria)
-* [L08 - Chapa Quente](pages/fase_02/lexicos#chapa_quente)
-* [L09 - Código de Confirmação](pages/fase_02/lexicos#codigo_confirmacao)
-* [L10 - Confirmar Pedido](pages/fase_02/lexicos#confirmar_pedido)
-* [L11 - Cozinheiro](pages/fase_02/lexicos#cozinheiro)
-* [L12 - Cupom de Desconto](pages/fase_02/lexicos#cupom_desconto)
-* [L13 - Efetuar Pagamento](pages/fase_02/lexicos#efetuar_pagamento)
-* [L14 - Endereço](pages/fase_02/lexicos#endereco)
-* [L15 - Entregador](pages/fase_02/lexicos#entregador)
-* [L16 - Funcionário](pages/fase_02/lexicos#funcionario)
-* [L17 - Lanche](pages/fase_02/lexicos#lanche)
-* [L18 - Lanchonete](pages/fase_02/lexicos#lanchonete)
-* [L19 - Localização](pages/fase_02/lexicos#localizacao)
-* [L20 - Pedido](pages/fase_02/lexicos#pedido)
-* [L21 - Rastrear](pages/fase_02/lexicos#rastrear)
-* [L22 - Retirada no Local](pages/fase_02/lexicos#retirada_local)
-* [L23 - Site](pages/fase_02/lexicos#site)
-* [L24 - Status do Pedido](pages/fase_02/lexicos#status)
-* [L25 - Usuário](pages/fase_02/lexicos#usuario)
+* [L01 - Adicional](/pages/fase_02/iniciativasExtras/lexicos#adicional)
+* [L02 - Avaliação](pages/fase_02/iniciativasExtras/lexicos#avaliacao)
+* [L03 - Busca](pages/fase_02/iniciativasExtras/lexicos#busca)
+* [L04 - Cadastro](pages/fase_02/iniciativasExtras/lexicos#cadastro)
+* [L05 - Cardápio](pages/fase_02/iniciativasExtras/lexicos#cardapio)
+* [L06 - Carrinho](pages/fase_02/iniciativasExtras/lexicos#carrinho)
+* [L07 - Categoria](pages/fase_02/iniciativasExtras/lexicos#categoria)
+* [L08 - Chapa Quente](pages/fase_02/iniciativasExtras/lexicos#chapa_quente)
+* [L09 - Código de Confirmação](pages/fase_02/iniciativasExtras/lexicos#codigo_confirmacao)
+* [L10 - Confirmar Pedido](pages/fase_02/iniciativasExtras/lexicos#confirmar_pedido)
+* [L11 - Cozinheiro](pages/fase_02/iniciativasExtras/lexicos#cozinheiro)
+* [L12 - Cupom de Desconto](pages/fase_02/iniciativasExtras/lexicos#cupom_desconto)
+* [L13 - Efetuar Pagamento](pages/fase_02/iniciativasExtras/lexicos#efetuar_pagamento)
+* [L14 - Endereço](pages/fase_02/iniciativasExtras/lexicos#endereco)
+* [L15 - Entregador](pages/fase_02/iniciativasExtras/lexicos#entregador)
+* [L16 - Funcionário](pages/fase_02/iniciativasExtras/lexicos#funcionario)
+* [L17 - Lanche](pages/fase_02/iniciativasExtras/lexicos#lanche)
+* [L18 - Lanchonete](pages/fase_02/iniciativasExtras/lexicos#lanchonete)
+* [L19 - Localização](pages/fase_02/iniciativasExtras/lexicos#localizacao)
+* [L20 - Pedido](pages/fase_02/iniciativasExtras/lexicos#pedido)
+* [L21 - Rastrear](pages/fase_02/iniciativasExtras/lexicos#rastrear)
+* [L22 - Retirada no Local](pages/fase_02/iniciativasExtras/lexicos#retirada_local)
+* [L23 - Site](pages/fase_02/iniciativasExtras/lexicos#site)
+* [L24 - Status do Pedido](pages/fase_02/iniciativasExtras/lexicos#status)
+* [L25 - Usuário](pages/fase_02/iniciativasExtras/lexicos#usuario)
 
 <span id="adicional"></span>
 
@@ -55,8 +56,8 @@ Para a criação desse documento foram criados vários léxicos relacionados com
 
 | Nome          | Adicional |
 | ------------- | --------- |
-| Noção         | Acompanhamento, bebida, sobremesa ou quantidade extra de algum ingrediente oferecido ao [usuário](pages/fase_02/lexicos#usuario) junto ao [lanche](pages/fase_02/lexicos#lanche) relacionado |
-| Impacto(s)    | 1) Os adicionais são oferecidos junto com o [lanche](pages/fase_02/lexicos#lanche). <br> 2) O [usuário](pages/fase_02/lexicos#usuario) pode acrescentar adicionais ao [lanche](pages/fase_02/lexicos#lanche). |
+| Noção         | Acompanhamento, bebida, sobremesa ou quantidade extra de algum ingrediente oferecido ao [usuário](pages/fase_02/iniciativasExtras/lexicos#usuario) junto ao [lanche](pages/fase_02/iniciativasExtras/lexicos#lanche) relacionado |
+| Impacto(s)    | 1) Os adicionais são oferecidos junto com o [lanche](pages/fase_02/iniciativasExtras/lexicos#lanche). <br> 2) O [usuário](pages/fase_02/iniciativasExtras/lexicos#usuario) pode acrescentar adicionais ao [lanche](pages/fase_02/iniciativasExtras/lexicos#lanche). |
 | Classificação | Objeto |
 | Sinônimo(s)   | Acompanhamento, extra |
 
@@ -66,8 +67,8 @@ Para a criação desse documento foram criados vários léxicos relacionados com
 
 | Nome          | Avaliação |
 | ------------- | --------- |
-| Noção         | Opinião do [usuário](pages/fase_02/lexicos#usuario) sobre um [pedido](pages/fase_02/lexicos#pedido) específico feito por ele |
-| Impacto(s)    | 1) Os [funcionários](pages/fase_02/lexicos#funcionario) da [lanchonete](pages/fase_02/lexicos#lanchonete) conseguem ver as avaliações dos [usuários](pages/fase_02/lexicos#usuario). <br> 2) Os [usuários](pages/fase_02/lexicos#usuario) conseguem avaliar [pedidos](pages/fase_02/lexicos#pedido) ao receber ou cancelar um [pedido](pages/fase_02/lexicos#pedido). <br> 3) Os [usuários](pages/fase_02/lexicos#usuario) devem conseguir ver as avaliações feitar por outros [usuários](pages/fase_02/lexicos#usuario). |
+| Noção         | Opinião do [usuário](pages/fase_02/iniciativasExtras/lexicos#usuario) sobre um [pedido](pages/fase_02/iniciativasExtras/lexicos#pedido) específico feito por ele |
+| Impacto(s)    | 1) Os [funcionários](pages/fase_02/iniciativasExtras/lexicos#funcionario) da [lanchonete](pages/fase_02/iniciativasExtras/lexicos#lanchonete) conseguem ver as avaliações dos [usuários](pages/fase_02/iniciativasExtras/lexicos#usuario). <br> 2) Os [usuários](pages/fase_02/iniciativasExtras/lexicos#usuario) conseguem avaliar [pedidos](pages/fase_02/iniciativasExtras/lexicos#pedido) ao receber ou cancelar um [pedido](pages/fase_02/iniciativasExtras/lexicos#pedido). <br> 3) Os [usuários](pages/fase_02/iniciativasExtras/lexicos#usuario) devem conseguir ver as avaliações feitar por outros [usuários](pages/fase_02/iniciativasExtras/lexicos#usuario). |
 | Classificação | Objeto |
 | Sinônimo(s)   | Opinião |
 
@@ -77,8 +78,8 @@ Para a criação desse documento foram criados vários léxicos relacionados com
 
 | Nome          | Busca |
 | ------------- | --------- |
-| Noção         | Pesquisa sobre algum item específico dentro do [site](pages/fase_02/lexicos#site) e do contexto do [usuário](pages/fase_02/lexicos#usuario) atual |
-| Impacto(s)    | 1) Os [funcionários](pages/fase_02/lexicos#funcionario) da [lanchonete](pages/fase_02/lexicos#lanchonete) conseguem buscar entre os [usuários](pages/fase_02/lexicos#usuario). <br> 2) Os [usuários](pages/fase_02/lexicos#usuario) conseguem buscar entre os [lanches](pages/fase_02/lexicos#lanche) existentes no [cardápio](pages/fase_02/lexicos#cardapio). |
+| Noção         | Pesquisa sobre algum item específico dentro do [site](pages/fase_02/iniciativasExtras/lexicos#site) e do contexto do [usuário](pages/fase_02/iniciativasExtras/lexicos#usuario) atual |
+| Impacto(s)    | 1) Os [funcionários](pages/fase_02/iniciativasExtras/lexicos#funcionario) da [lanchonete](pages/fase_02/iniciativasExtras/lexicos#lanchonete) conseguem buscar entre os [usuários](pages/fase_02/iniciativasExtras/lexicos#usuario). <br> 2) Os [usuários](pages/fase_02/iniciativasExtras/lexicos#usuario) conseguem buscar entre os [lanches](pages/fase_02/iniciativasExtras/lexicos#lanche) existentes no [cardápio](pages/fase_02/iniciativasExtras/lexicos#cardapio). |
 | Classificação | Objeto |
 | Sinônimo(s)   | Pesquisa |
 
@@ -88,8 +89,8 @@ Para a criação desse documento foram criados vários léxicos relacionados com
 
 | Nome          | Cadastro |
 | ------------- | --------- |
-| Noção         | Registro do [usuário](pages/fase_02/lexicos#usuario) dentro do [site](pages/fase_02/lexicos#site) |
-| Impacto(s)    | 1) Os [usuários](pages/fase_02/lexicos#usuario) cadastram suas informações pessoais dentro do [site](pages/fase_02/lexicos#site) <br> |
+| Noção         | Registro do [usuário](pages/fase_02/iniciativasExtras/lexicos#usuario) dentro do [site](pages/fase_02/iniciativasExtras/lexicos#site) |
+| Impacto(s)    | 1) Os [usuários](pages/fase_02/iniciativasExtras/lexicos#usuario) cadastram suas informações pessoais dentro do [site](pages/fase_02/iniciativasExtras/lexicos#site) <br> |
 | Classificação | Objeto |
 | Sinônimo(s)   | Registro |
 
@@ -99,8 +100,8 @@ Para a criação desse documento foram criados vários léxicos relacionados com
 
 | Nome          | Cardápio |
 | ------------- | --------- |
-| Noção         | Lista com os [lanches](pages/fase_02/lexicos#lanche) disponíveis da [lanchonete](pages/fase_02/lexicos#lanchonete) [Chapa Quente](pages/fase_02/lexicos#chapa_quente) |
-| Impacto(s)    | 1) Os [usuários](pages/fase_02/lexicos#usuario) visualizam o cardápio <br> 2) Os [usuários](pages/fase_02/lexicos#usuario) adicionam [lanches](pages/fase_02/lexicos#lanche) do cardápio ao [carrinho](pages/fase_02/lexicos#carrinho) <br> 3) Os [funcionários](pages/fase_02/lexicos#funcionario) atualizam o cardápio de tempos em tempos |
+| Noção         | Lista com os [lanches](pages/fase_02/iniciativasExtras/lexicos#lanche) disponíveis da [lanchonete](pages/fase_02/iniciativasExtras/lexicos#lanchonete) [Chapa Quente](pages/fase_02/iniciativasExtras/lexicos#chapa_quente) |
+| Impacto(s)    | 1) Os [usuários](pages/fase_02/iniciativasExtras/lexicos#usuario) visualizam o cardápio <br> 2) Os [usuários](pages/fase_02/iniciativasExtras/lexicos#usuario) adicionam [lanches](pages/fase_02/iniciativasExtras/lexicos#lanche) do cardápio ao [carrinho](pages/fase_02/iniciativasExtras/lexicos#carrinho) <br> 3) Os [funcionários](pages/fase_02/iniciativasExtras/lexicos#funcionario) atualizam o cardápio de tempos em tempos |
 | Classificação | Objeto |
 | Sinônimo(s)   | Lista |
 
@@ -110,8 +111,8 @@ Para a criação desse documento foram criados vários léxicos relacionados com
 
 | Nome          | Carrinho |
 | ------------- | --------- |
-| Noção         | Onde se encontram todos os [lanches](pages/fase_02/lexicos#lanche) escolhidos pelo [usuário](pages/fase_02/lexicos#usuario) para fazer o [pedido](pages/fase_02/lexicos#pedido) |
-| Impacto(s)    | 1) Os [usuários](pages/fase_02/lexicos#usuario) adicionam [lanches](pages/fase_02/lexicos#lanche) ao carrinho <br> 2) Os [usuários](pages/fase_02/lexicos#usuario) removem [lanches](pages/fase_02/lexicos#lanche) do carrinho <br> 3) Os [usuários](pages/fase_02/lexicos#usuario) fazem o [pedido](pages/fase_02/lexicos#pedido) baseado no conteúdo do carrinho |
+| Noção         | Onde se encontram todos os [lanches](pages/fase_02/iniciativasExtras/lexicos#lanche) escolhidos pelo [usuário](pages/fase_02/iniciativasExtras/lexicos#usuario) para fazer o [pedido](pages/fase_02/iniciativasExtras/lexicos#pedido) |
+| Impacto(s)    | 1) Os [usuários](pages/fase_02/iniciativasExtras/lexicos#usuario) adicionam [lanches](pages/fase_02/iniciativasExtras/lexicos#lanche) ao carrinho <br> 2) Os [usuários](pages/fase_02/iniciativasExtras/lexicos#usuario) removem [lanches](pages/fase_02/iniciativasExtras/lexicos#lanche) do carrinho <br> 3) Os [usuários](pages/fase_02/iniciativasExtras/lexicos#usuario) fazem o [pedido](pages/fase_02/iniciativasExtras/lexicos#pedido) baseado no conteúdo do carrinho |
 | Classificação | Objeto |
 | Sinônimo(s)   |  |
 
@@ -121,8 +122,8 @@ Para a criação desse documento foram criados vários léxicos relacionados com
 
 | Nome          | Categoria |
 | ------------- | --------- |
-| Noção         | Forma em que os [lanches](pages/fase_02/lexicos#lanche) do [cardápio](pages/fase_02/lexicos#cardapio) são organizados baseados em suas características |
-| Impacto(s)    | 1) Os [usuários](pages/fase_02/lexicos#usuario) conseguem filtrar o [cardápio](pages/fase_02/lexicos#cardapio) por categoria <br> 2) Os [funcionários](pages/fase_02/lexicos#funcionario) conseguem associar um [lanche](pages/fase_02/lexicos#lanche) a uma categoria |
+| Noção         | Forma em que os [lanches](pages/fase_02/iniciativasExtras/lexicos#lanche) do [cardápio](pages/fase_02/iniciativasExtras/lexicos#cardapio) são organizados baseados em suas características |
+| Impacto(s)    | 1) Os [usuários](pages/fase_02/iniciativasExtras/lexicos#usuario) conseguem filtrar o [cardápio](pages/fase_02/iniciativasExtras/lexicos#cardapio) por categoria <br> 2) Os [funcionários](pages/fase_02/iniciativasExtras/lexicos#funcionario) conseguem associar um [lanche](pages/fase_02/iniciativasExtras/lexicos#lanche) a uma categoria |
 | Classificação | Objeto |
 | Sinônimo(s)   | Tipo |
 
@@ -132,8 +133,8 @@ Para a criação desse documento foram criados vários léxicos relacionados com
 
 | Nome          | Chapa Quente |
 | ------------- | --------- |
-| Noção         | Nome do [site](pages/fase_02/lexicos#site) e da [lanchonete](pages/fase_02/lexicos#lanchonete) |
-| Impacto(s)    | 1) Os usuários conseguem acessar o [site](pages/fase_02/lexicos#site) Chapa Quente para fazer [pedidos](pages/fase_02/lexicos#pedido). <br> 2) Os [funcionários](pages/fase_02/lexicos#funcionario) da lanchonete Chapa Quente conseguem acessar o [site](pages/fase_02/lexicos#site) para monitorar [pedidos](pages/fase_02/lexicos#pedido), usuários e [cardápio](pages/fase_02/lexicos#cardapio). |
+| Noção         | Nome do [site](pages/fase_02/iniciativasExtras/lexicos#site) e da [lanchonete](pages/fase_02/iniciativasExtras/lexicos#lanchonete) |
+| Impacto(s)    | 1) Os usuários conseguem acessar o [site](pages/fase_02/iniciativasExtras/lexicos#site) Chapa Quente para fazer [pedidos](pages/fase_02/iniciativasExtras/lexicos#pedido). <br> 2) Os [funcionários](pages/fase_02/iniciativasExtras/lexicos#funcionario) da lanchonete Chapa Quente conseguem acessar o [site](pages/fase_02/iniciativasExtras/lexicos#site) para monitorar [pedidos](pages/fase_02/iniciativasExtras/lexicos#pedido), usuários e [cardápio](pages/fase_02/iniciativasExtras/lexicos#cardapio). |
 | Classificação | Objeto |
 | Sinônimo(s)   | |
 
@@ -144,8 +145,8 @@ Para a criação desse documento foram criados vários léxicos relacionados com
 
 | Nome          | Código de Confirmação |
 | ------------- | --------- |
-| Noção         | Código usado para a confirmação do recebimento de um [pedido](pages/fase_02/lexicos#pedido) |
-| Impacto(s)    | 1) O usuário recebe o código de confirmação ao [confirmar pedido](pages/fase_02/lexicos#confirmar_pedido) <br> 2) O [entregador](pages/fase_02/lexicos#entregador) confirma com o usuário o código de confirmação no ato de entrega <br> 3) O usuário informa o código de confirmação ao fazer [retirada no local](pages/fase_02/lexicos#retirada_local) do [pedido](pages/fase_02/lexicos#pedido) |
+| Noção         | Código usado para a confirmação do recebimento de um [pedido](pages/fase_02/iniciativasExtras/lexicos#pedido) |
+| Impacto(s)    | 1) O usuário recebe o código de confirmação ao [confirmar pedido](pages/fase_02/iniciativasExtras/lexicos#confirmar_pedido) <br> 2) O [entregador](pages/fase_02/iniciativasExtras/lexicos#entregador) confirma com o usuário o código de confirmação no ato de entrega <br> 3) O usuário informa o código de confirmação ao fazer [retirada no local](pages/fase_02/iniciativasExtras/lexicos#retirada_local) do [pedido](pages/fase_02/iniciativasExtras/lexicos#pedido) |
 | Classificação | Objeto |
 | Sinônimo(s)   | |
 
@@ -155,8 +156,8 @@ Para a criação desse documento foram criados vários léxicos relacionados com
 
 | Nome          | Confirmar Pedido |
 | ------------- | --------- |
-| Noção         | Quando um usuário decide sobre tudo o que quer no seu [pedido](pages/fase_02/lexicos#pedido) e confirma |
-| Impacto(s)    | 1) O usuário consegue confirmar pedido baseado nos itens que se encontram no seu [carrinho](pages/fase_02/lexicos#carrinho). |
+| Noção         | Quando um usuário decide sobre tudo o que quer no seu [pedido](pages/fase_02/iniciativasExtras/lexicos#pedido) e confirma |
+| Impacto(s)    | 1) O usuário consegue confirmar pedido baseado nos itens que se encontram no seu [carrinho](pages/fase_02/iniciativasExtras/lexicos#carrinho). |
 | Classificação | Verbo |
 | Sinônimo(s)   | Realizar Pedido |
 
@@ -166,8 +167,8 @@ Para a criação desse documento foram criados vários léxicos relacionados com
 
 | Nome          | Cozinheiro |
 | ------------- | --------- |
-| Noção         | Funcionário da [lanchonete](pages/fase_02/lexicos#lanchonete) [Chapa Quente](pages/fase_02/lexicos#chapa_quente) responsável por preparar os [pedidos](pages/fase_02/lexicos#pedido) que chegam pelo [site](pages/fase_02/lexicos#site) |
-| Impacto(s)    | 1) Os cozinheiros recebem os [pedidos](pages/fase_02/lexicos#pedido) feitos pelo [site](pages/fase_02/lexicos#site). <br> 2) Os cozinheiros preparam os [pedidos](pages/fase_02/lexicos#pedido) recebidos. <br> 3) Os cozinheiros notificam o [entregador](pages/fase_02/lexicos#entregador) quando o [pedido](pages/fase_02/lexicos#pedido) está pronto |
+| Noção         | Funcionário da [lanchonete](pages/fase_02/iniciativasExtras/lexicos#lanchonete) [Chapa Quente](pages/fase_02/iniciativasExtras/lexicos#chapa_quente) responsável por preparar os [pedidos](pages/fase_02/iniciativasExtras/lexicos#pedido) que chegam pelo [site](pages/fase_02/iniciativasExtras/lexicos#site) |
+| Impacto(s)    | 1) Os cozinheiros recebem os [pedidos](pages/fase_02/iniciativasExtras/lexicos#pedido) feitos pelo [site](pages/fase_02/iniciativasExtras/lexicos#site). <br> 2) Os cozinheiros preparam os [pedidos](pages/fase_02/iniciativasExtras/lexicos#pedido) recebidos. <br> 3) Os cozinheiros notificam o [entregador](pages/fase_02/iniciativasExtras/lexicos#entregador) quando o [pedido](pages/fase_02/iniciativasExtras/lexicos#pedido) está pronto |
 | Classificação | Sujeito |
 | Sinônimo(s)   | |
 
@@ -177,8 +178,8 @@ Para a criação desse documento foram criados vários léxicos relacionados com
 
 | Nome          | Cupom de Desconto |
 | ------------- | --------- |
-| Noção         | Códigos que permitem que o usuário tenha desconto em algum [pedido](pages/fase_02/lexicos#pedido) feito |
-| Impacto(s)    | 1) Os [funcionários](pages/fase_02/lexicos#funcionario) disponibilizam cupons de desconto no [site](pages/fase_02/lexicos#site). <br> 2) Os usuários utilizam os cupons de desconto na hora de [confirmarem o pedido](pages/fase_02/lexicos#confirmar_pedido) |
+| Noção         | Códigos que permitem que o usuário tenha desconto em algum [pedido](pages/fase_02/iniciativasExtras/lexicos#pedido) feito |
+| Impacto(s)    | 1) Os [funcionários](pages/fase_02/iniciativasExtras/lexicos#funcionario) disponibilizam cupons de desconto no [site](pages/fase_02/iniciativasExtras/lexicos#site). <br> 2) Os usuários utilizam os cupons de desconto na hora de [confirmarem o pedido](pages/fase_02/iniciativasExtras/lexicos#confirmar_pedido) |
 | Classificação | Objeto |
 | Sinônimo(s)   | |
 
@@ -188,8 +189,8 @@ Para a criação desse documento foram criados vários léxicos relacionados com
 
 | Nome          | Efetuar Pagamento |
 | ------------- | --------- |
-| Noção         | Quando o usuário realiza o pagamento após [confirmar pedido](pages/fase_02/lexicos#confirmar_pedido) |
-| Impacto(s)    | 1) O usuário efetua o pagamento via PIX pelo [site](pages/fase_02/lexicos#site) <br> 2) O usuário efetua o pagamento na entrega do [pedido](pages/fase_02/lexicos#pedido) |
+| Noção         | Quando o usuário realiza o pagamento após [confirmar pedido](pages/fase_02/iniciativasExtras/lexicos#confirmar_pedido) |
+| Impacto(s)    | 1) O usuário efetua o pagamento via PIX pelo [site](pages/fase_02/iniciativasExtras/lexicos#site) <br> 2) O usuário efetua o pagamento na entrega do [pedido](pages/fase_02/iniciativasExtras/lexicos#pedido) |
 | Classificação | Verbo |
 | Sinônimo(s)   | Realizar Pagamento |
 
@@ -199,8 +200,8 @@ Para a criação desse documento foram criados vários léxicos relacionados com
 
 | Nome          | Endereço |
 | ------------- | --------- |
-| Noção         | Local que o usuário registra para a entrega de [lanches](pages/fase_02/lexicos#lanche) |
-| Impacto(s)    | 1) O usuário registra seu endereço quando o [cadastro](pages/fase_02/lexicos#cadastro) é feito. <br> 2) O [entregador](pages/fase_02/lexicos#entregador) acessa as informações do endereço do usuário que fez o [pedido](pages/fase_02/lexicos#pedido) a ser entregue |
+| Noção         | Local que o usuário registra para a entrega de [lanches](pages/fase_02/iniciativasExtras/lexicos#lanche) |
+| Impacto(s)    | 1) O usuário registra seu endereço quando o [cadastro](pages/fase_02/iniciativasExtras/lexicos#cadastro) é feito. <br> 2) O [entregador](pages/fase_02/iniciativasExtras/lexicos#entregador) acessa as informações do endereço do usuário que fez o [pedido](pages/fase_02/iniciativasExtras/lexicos#pedido) a ser entregue |
 | Classificação | Objeto |
 | Sinônimo(s)   | Local |
 
@@ -210,8 +211,8 @@ Para a criação desse documento foram criados vários léxicos relacionados com
 
 | Nome          | Entregador |
 | ------------- | --------- |
-| Noção         | Pessoa responsável por entregar os [lanches](pages/fase_02/lexicos#lanche) aos usuários |
-| Impacto(s)    | 1) O entregador visualiza quando um [pedido](pages/fase_02/lexicos#pedido) é preparado pelo [site](pages/fase_02/lexicos#site) <br> 2) O entregador visualiza as informações do [endereço](pages/fase_02/lexicos#endereco) do usuário <br> 3) O entregador entrega o [pedido](pages/fase_02/lexicos#pedido) ao usuário e atualiza o [status do pedido](pages/fase_02/lexicos#status) |
+| Noção         | Pessoa responsável por entregar os [lanches](pages/fase_02/iniciativasExtras/lexicos#lanche) aos usuários |
+| Impacto(s)    | 1) O entregador visualiza quando um [pedido](pages/fase_02/iniciativasExtras/lexicos#pedido) é preparado pelo [site](pages/fase_02/iniciativasExtras/lexicos#site) <br> 2) O entregador visualiza as informações do [endereço](pages/fase_02/iniciativasExtras/lexicos#endereco) do usuário <br> 3) O entregador entrega o [pedido](pages/fase_02/iniciativasExtras/lexicos#pedido) ao usuário e atualiza o [status do pedido](pages/fase_02/iniciativasExtras/lexicos#status) |
 | Classificação | Sujeito |
 | Sinônimo(s)   | |
 
@@ -221,8 +222,8 @@ Para a criação desse documento foram criados vários léxicos relacionados com
 
 | Nome          | Funcionário |
 | ------------- | --------- |
-| Noção         | Pessoa que trabalha diretamente na [lanchonete](pages/fase_02/lexicos#lanchonete) |
-| Impacto(s)    | 1) O funcionário pode ver as informações dos usuários <br> 2) O funcionário pode ver informações de [pedidos](pages/fase_02/lexicos#pedido). <br> 3) O funcionário consegue atualizar o [cardápio](pages/fase_02/lexicos#cardapio). |
+| Noção         | Pessoa que trabalha diretamente na [lanchonete](pages/fase_02/iniciativasExtras/lexicos#lanchonete) |
+| Impacto(s)    | 1) O funcionário pode ver as informações dos usuários <br> 2) O funcionário pode ver informações de [pedidos](pages/fase_02/iniciativasExtras/lexicos#pedido). <br> 3) O funcionário consegue atualizar o [cardápio](pages/fase_02/iniciativasExtras/lexicos#cardapio). |
 | Classificação | Sujeito |
 | Sinônimo(s)   | Trabalhador |
 
@@ -232,8 +233,8 @@ Para a criação desse documento foram criados vários léxicos relacionados com
 
 | Nome          | Lanche |
 | ------------- | --------- |
-| Noção         | Opções de refeição oferecidas no [cardápio](pages/fase_02/lexicos#cardapio) da [lanchonete](pages/fase_02/lexicos#lanchonete) |
-| Impacto(s)    | 1) O usuário adiciona lanches ao [carrinho](pages/fase_02/lexicos#carrinho) <br> 2) Os lanches são organizados em [categoria](pages/fase_02/lexicos#categoria) <br> 3) O [funcionário](pages/fase_02/lexicos#funcionario) retira ou adiciona lanches ao [cardápio](pages/fase_02/lexicos#cardapio). |
+| Noção         | Opções de refeição oferecidas no [cardápio](pages/fase_02/iniciativasExtras/lexicos#cardapio) da [lanchonete](pages/fase_02/iniciativasExtras/lexicos#lanchonete) |
+| Impacto(s)    | 1) O usuário adiciona lanches ao [carrinho](pages/fase_02/iniciativasExtras/lexicos#carrinho) <br> 2) Os lanches são organizados em [categoria](pages/fase_02/iniciativasExtras/lexicos#categoria) <br> 3) O [funcionário](pages/fase_02/iniciativasExtras/lexicos#funcionario) retira ou adiciona lanches ao [cardápio](pages/fase_02/iniciativasExtras/lexicos#cardapio). |
 | Classificação | Objeto |
 | Sinônimo(s)   | Prato |
 
@@ -243,8 +244,8 @@ Para a criação desse documento foram criados vários léxicos relacionados com
 
 | Nome          | Lanchonete |
 | ------------- | --------- |
-| Noção         | Tipo de estabelecimento onde são preparados os [lanches](pages/fase_02/lexicos#lanche) |
-| Impacto(s)    | 1) O usuário [retira](pages/fase_02/lexicos#retirada_local) [pedidos](pages/fase_02/lexicos#pedido) no local da lanchonete. <br> 2) O [entregador](pages/fase_02/lexicos#entregador) busca [pedidos](pages/fase_02/lexicos#pedido) na lanchonete. <br> 3) O [cozinheiro](pages/fase_02/lexicos#cozinheiro) prepara [pedidos](pages/fase_02/lexicos#pedido) dentro da lanchonete. |
+| Noção         | Tipo de estabelecimento onde são preparados os [lanches](pages/fase_02/iniciativasExtras/lexicos#lanche) |
+| Impacto(s)    | 1) O usuário [retira](pages/fase_02/iniciativasExtras/lexicos#retirada_local) [pedidos](pages/fase_02/iniciativasExtras/lexicos#pedido) no local da lanchonete. <br> 2) O [entregador](pages/fase_02/iniciativasExtras/lexicos#entregador) busca [pedidos](pages/fase_02/iniciativasExtras/lexicos#pedido) na lanchonete. <br> 3) O [cozinheiro](pages/fase_02/iniciativasExtras/lexicos#cozinheiro) prepara [pedidos](pages/fase_02/iniciativasExtras/lexicos#pedido) dentro da lanchonete. |
 | Classificação | Objeto |
 | Sinônimo(s)   | |
 
@@ -255,8 +256,8 @@ Para a criação desse documento foram criados vários léxicos relacionados com
 
 | Nome          | Localização |
 | ------------- | --------- |
-| Noção         | Posição atualizada em tempo real do [entregador](pages/fase_02/lexicos#entregador) responsável por um [lanche](pages/fase_02/lexicos#lanche) |
-| Impacto(s)    | 1) O [entregador](pages/fase_02/lexicos#entregador) compartilha sua localização com o usuário e com os [funcionários](pages/fase_02/lexicos#funcionario) do restaurante. <br> 2) O usuário pode [rastrear](pages/fase_02/lexicos#rastrear) a localização do [entregador](pages/fase_02/lexicos#entregador) responsável por um [pedido](pages/fase_02/lexicos#pedido). |
+| Noção         | Posição atualizada em tempo real do [entregador](pages/fase_02/iniciativasExtras/lexicos#entregador) responsável por um [lanche](pages/fase_02/iniciativasExtras/lexicos#lanche) |
+| Impacto(s)    | 1) O [entregador](pages/fase_02/iniciativasExtras/lexicos#entregador) compartilha sua localização com o usuário e com os [funcionários](pages/fase_02/iniciativasExtras/lexicos#funcionario) do restaurante. <br> 2) O usuário pode [rastrear](pages/fase_02/iniciativasExtras/lexicos#rastrear) a localização do [entregador](pages/fase_02/iniciativasExtras/lexicos#entregador) responsável por um [pedido](pages/fase_02/iniciativasExtras/lexicos#pedido). |
 | Classificação | Objeto |
 | Sinônimo(s)   | Posição |
 
@@ -266,8 +267,8 @@ Para a criação desse documento foram criados vários léxicos relacionados com
 
 | Nome          | Pedido |
 | ------------- | --------- |
-| Noção         | Escolha definitiva dos [lanches](pages/fase_02/lexicos#lanche) que foram adicionados ao [carrinho](pages/fase_02/lexicos#carrinho) |
-| Impacto(s)    | 1) O usuário [confirma pedido](pages/fase_02/lexicos#confirmar_pedido) ao terminar de escolher seus [lanches](pages/fase_02/lexicos#lanche) <br> 2) Os [cozinheiros](pages/fase_02/lexicos#cozinheiro) preparam o pedido feito. <br> 3) O [entregador](pages/fase_02/lexicos#entregador) acessa as informações do pedido. |
+| Noção         | Escolha definitiva dos [lanches](pages/fase_02/iniciativasExtras/lexicos#lanche) que foram adicionados ao [carrinho](pages/fase_02/iniciativasExtras/lexicos#carrinho) |
+| Impacto(s)    | 1) O usuário [confirma pedido](pages/fase_02/iniciativasExtras/lexicos#confirmar_pedido) ao terminar de escolher seus [lanches](pages/fase_02/iniciativasExtras/lexicos#lanche) <br> 2) Os [cozinheiros](pages/fase_02/iniciativasExtras/lexicos#cozinheiro) preparam o pedido feito. <br> 3) O [entregador](pages/fase_02/iniciativasExtras/lexicos#entregador) acessa as informações do pedido. |
 | Classificação | Objeto |
 | Sinônimo(s)   | |
 
@@ -277,8 +278,8 @@ Para a criação desse documento foram criados vários léxicos relacionados com
 
 | Nome          | Rastrear |
 | ------------- | --------- |
-| Noção         | Opção de acompanhar a [localização](pages/fase_02/lexicos#localizacao) do [entregador](pages/fase_02/lexicos#entregador) em tempo real |
-| Impacto(s)    | 1) O usuário rastreia a [localização](pages/fase_02/lexicos#localizacao) do [entregador](pages/fase_02/lexicos#entregador) |
+| Noção         | Opção de acompanhar a [localização](pages/fase_02/iniciativasExtras/lexicos#localizacao) do [entregador](pages/fase_02/iniciativasExtras/lexicos#entregador) em tempo real |
+| Impacto(s)    | 1) O usuário rastreia a [localização](pages/fase_02/iniciativasExtras/lexicos#localizacao) do [entregador](pages/fase_02/iniciativasExtras/lexicos#entregador) |
 | Classificação | Verbo |
 | Sinônimo(s)   | Acompanhar |
 
@@ -288,8 +289,8 @@ Para a criação desse documento foram criados vários léxicos relacionados com
 
 | Nome          | Retirada no Local |
 | ------------- | --------- |
-| Noção         | Opção para um usuário retirar o [pedido](pages/fase_02/lexicos#pedido) diretamente na [lanchonete](pages/fase_02/lexicos#lanchonete) |
-| Impacto(s)    | 1) O usuário escolhe a opção de retirada no local ao [confirmar pedido](pages/fase_02/lexicos#confirmar_pedido). <br> 2) O [cozinheiro](pages/fase_02/lexicos#cozinheiro) notifica que o [pedido](pages/fase_02/lexicos#pedido) está pronto para retirada |
+| Noção         | Opção para um usuário retirar o [pedido](pages/fase_02/iniciativasExtras/lexicos#pedido) diretamente na [lanchonete](pages/fase_02/iniciativasExtras/lexicos#lanchonete) |
+| Impacto(s)    | 1) O usuário escolhe a opção de retirada no local ao [confirmar pedido](pages/fase_02/iniciativasExtras/lexicos#confirmar_pedido). <br> 2) O [cozinheiro](pages/fase_02/iniciativasExtras/lexicos#cozinheiro) notifica que o [pedido](pages/fase_02/iniciativasExtras/lexicos#pedido) está pronto para retirada |
 | Classificação | Objeto |
 | Sinônimo(s)   | |
 
@@ -299,8 +300,8 @@ Para a criação desse documento foram criados vários léxicos relacionados com
 
 | Nome          | Site |
 | ------------- | --------- |
-| Noção         | Plataforma de interação entre os usuários, [funcionários](pages/fase_02/lexicos#funcionario), [cozinheiros](pages/fase_02/lexicos#cozinheiro) e [entregadores](pages/fase_02/lexicos#entregador) com a [Chapa Quente](pages/fase_02/lexicos#chapa_quente) |
-| Impacto(s)    | 1) O usuário acessa o site para fazer [pedidos](pages/fase_02/lexicos#pedido). <br> 2) O [funcionário](pages/fase_02/lexicos#funcionario) acessa o site para ver informações e/ou atualizar [cardápio](pages/fase_02/lexicos#cardapio). <br> 3) O [cozinheiro](pages/fase_02/lexicos#cozinheiro) acessa o site para ver informações sobre o [pedido](pages/fase_02/lexicos#pedido) e atualizar o [status do pedido](pages/fase_02/lexicos#status). <br> 4) O [entregador](pages/fase_02/lexicos#entregador) acessa o site para ver [pedidos](pages/fase_02/lexicos#pedido) prontos para entrega. |
+| Noção         | Plataforma de interação entre os usuários, [funcionários](pages/fase_02/iniciativasExtras/lexicos#funcionario), [cozinheiros](pages/fase_02/iniciativasExtras/lexicos#cozinheiro) e [entregadores](pages/fase_02/iniciativasExtras/lexicos#entregador) com a [Chapa Quente](pages/fase_02/iniciativasExtras/lexicos#chapa_quente) |
+| Impacto(s)    | 1) O usuário acessa o site para fazer [pedidos](pages/fase_02/iniciativasExtras/lexicos#pedido). <br> 2) O [funcionário](pages/fase_02/iniciativasExtras/lexicos#funcionario) acessa o site para ver informações e/ou atualizar [cardápio](pages/fase_02/iniciativasExtras/lexicos#cardapio). <br> 3) O [cozinheiro](pages/fase_02/iniciativasExtras/lexicos#cozinheiro) acessa o site para ver informações sobre o [pedido](pages/fase_02/iniciativasExtras/lexicos#pedido) e atualizar o [status do pedido](pages/fase_02/iniciativasExtras/lexicos#status). <br> 4) O [entregador](pages/fase_02/iniciativasExtras/lexicos#entregador) acessa o site para ver [pedidos](pages/fase_02/iniciativasExtras/lexicos#pedido) prontos para entrega. |
 | Classificação | Objeto |
 | Sinônimo(s)   | |
 
@@ -310,8 +311,8 @@ Para a criação desse documento foram criados vários léxicos relacionados com
 
 | Nome          | Status do Pedido |
 | ------------- | --------- |
-| Noção         | Estado no qual o [pedido](pages/fase_02/lexicos#pedido) se encontra atualmente |
-| Impacto(s)    | 1) O [cozinheiro](pages/fase_02/lexicos#cozinheiro) atualiza o status de em espera para preparando. <br> 2) O [cozinheiro](pages/fase_02/lexicos#cozinheiro) atualiza o status de preparando para pronto para entrega/[retirada](pages/fase_02/lexicos#retirada_local). <br> 3) O [entregador](pages/fase_02/lexicos#entregador) atualiza o status de pronto para entrega para à caminho. <br> 4) O [entregador](pages/fase_02/lexicos#entregador) atualiza o status de à caminho para entregue. <br> 5) O usuário acompanha o status do pedido. |
+| Noção         | Estado no qual o [pedido](pages/fase_02/iniciativasExtras/lexicos#pedido) se encontra atualmente |
+| Impacto(s)    | 1) O [cozinheiro](pages/fase_02/iniciativasExtras/lexicos#cozinheiro) atualiza o status de em espera para preparando. <br> 2) O [cozinheiro](pages/fase_02/iniciativasExtras/lexicos#cozinheiro) atualiza o status de preparando para pronto para entrega/[retirada](pages/fase_02/iniciativasExtras/lexicos#retirada_local). <br> 3) O [entregador](pages/fase_02/iniciativasExtras/lexicos#entregador) atualiza o status de pronto para entrega para à caminho. <br> 4) O [entregador](pages/fase_02/iniciativasExtras/lexicos#entregador) atualiza o status de à caminho para entregue. <br> 5) O usuário acompanha o status do pedido. |
 | Classificação | Estado |
 | Sinônimo(s)   | Estado |
 
@@ -321,8 +322,8 @@ Para a criação desse documento foram criados vários léxicos relacionados com
 
 | Nome          | Usuário |
 | ------------- | --------- |
-| Noção         | Pessoa que utiliza o [site](pages/fase_02/lexicos#site) para realizar [pedidos](pages/fase_02/lexicos#pedido) de [lanches](pages/fase_02/lexicos#lanche)  |
-| Impacto(s)    | 1) O usuário realiza um [pedido](pages/fase_02/lexicos#pedido). <br> 2) O usuário navega pelo [site](pages/fase_02/lexicos#site). <br> 3) O usuário acompanha o status do pedido. <br> 4) O usuário [avalia](pages/fase_02/lexicos#avaliacao) [pedidos](pages/fase_02/lexicos#pedido) feitos. <br> 5) O usuário [cadastra](pages/fase_02/lexicos#cadastro) e atualiza suas informações. <br> 6) O usuário adiciona [lanches](pages/fase_02/lexicos#lanche) e [adicionais](pages/fase_02/lexicos#adicional) ao seu [carrinho](pages/fase_02/lexicos#carrinho). |
+| Noção         | Pessoa que utiliza o [site](pages/fase_02/iniciativasExtras/lexicos#site) para realizar [pedidos](pages/fase_02/iniciativasExtras/lexicos#pedido) de [lanches](pages/fase_02/iniciativasExtras/lexicos#lanche)  |
+| Impacto(s)    | 1) O usuário realiza um [pedido](pages/fase_02/iniciativasExtras/lexicos#pedido). <br> 2) O usuário navega pelo [site](pages/fase_02/iniciativasExtras/lexicos#site). <br> 3) O usuário acompanha o status do pedido. <br> 4) O usuário [avalia](pages/fase_02/iniciativasExtras/lexicos#avaliacao) [pedidos](pages/fase_02/iniciativasExtras/lexicos#pedido) feitos. <br> 5) O usuário [cadastra](pages/fase_02/iniciativasExtras/lexicos#cadastro) e atualiza suas informações. <br> 6) O usuário adiciona [lanches](pages/fase_02/iniciativasExtras/lexicos#lanche) e [adicionais](pages/fase_02/iniciativasExtras/lexicos#adicional) ao seu [carrinho](pages/fase_02/iniciativasExtras/lexicos#carrinho). |
 | Classificação | Sujeito |
 | Sinônimo(s)   | Cliente |
 
@@ -332,4 +333,6 @@ Com a finalização desse documento pode-se obter uma vasta lista de símbolos e
 
 ## Bibliografia
 
-SERRANO, Milene; Arquitetura e Desenho de Software - AULA - PROJETO E DESENHO DE SOFTWARE; Disponível em: https://aprender3.unb.br/pluginfile.php/1558828/mod_label/intro/Arquitetura%20e%20Desenho%20de%20software%20-%20Aula%20Projeto-DSW%20-%20Profa.%20Milene.pdf;
+* SERRANO, Milene; Arquitetura e Desenho de Software - AULA - PROJETO E DESENHO DE SOFTWARE; Disponível em: https://aprender3.unb.br/pluginfile.php/1558828/mod_label/intro/Arquitetura%20e%20Desenho%20de%20software%20-%20Aula%20Projeto-DSW%20-%20Profa.%20Milene.pdf;
+
+* LÉXICO Ampliado da Linguagem: (Resumo). Disponível em: http://www-di.inf.puc-rio.br/~julio/lal.pdf. Acesso em: 12 mar. 2022.
