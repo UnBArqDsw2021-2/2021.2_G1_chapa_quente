@@ -12,7 +12,7 @@
 
 ## Introdução
 
-O padrão Proxy baseia-se em encapsular um objeto através de um outro objeto que possui a mesma interface, de forma que o segundo objeto, conhecido como “Proxy”, controla o acesso ao primeiro, que é o objeto real.
+O padrão Proxy baseia-se em encapsular um objeto através de um outro objeto que implementa a mesma interface, de forma que o segundo objeto, conhecido como “Proxy”, controla o acesso ao primeiro, que é o objeto real.
 
 - Um proxy virtual é um marcador de espaço para objetos "caros de criar". O objeto real só é criado quando é feita a primeira requisição ou acesso ao objeto.
 - Um proxy remoto fornece um representante local para um objeto que reside em um espaço de endereço diferente.
