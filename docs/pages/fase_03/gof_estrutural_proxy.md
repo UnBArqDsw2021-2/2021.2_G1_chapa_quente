@@ -41,7 +41,7 @@ Ao definir uma interface Subject, a presença do objeto Proxy no lugar do RealSu
 
 ## Conclusão
 
-O padrão Proxy tem diversas utilidades desde melhorar o desempenho do software criando um proxy para um objeto "pesado" a melhorar a segurança usando o proxy no processo de checar se há a permissão para acesso do objeto real.
+O padrão Proxy tem diversas utilidades desde melhorar o desempenho do software criando um proxy para um objeto "pesado" a melhorar a segurança usando o proxy no processo de checar se há a permissão para acesso do objeto real. Apesar de ser muito útil o uso do proxy em aplicações, ele não será implementado no projeto Chapa Quente, visto que sua implementação pode ser complexa e atrapalharia o escopo do projeto, já que a ausência dele não faria muita falta para o escopo proposto.
 
 ## Bibliografia
 

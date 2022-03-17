@@ -43,6 +43,8 @@ O padrão Command é muito interessante pela sua capacidade de encapsulamento e 
 
 Acima consta uma implementação exemplo de como o command poderia funcionar no escopo do nosso projeto, mostrando a parte de enviar notificações tanto pro entregador quanto pro cliente.
 
+Apesar de ter uma certa aplicabilidade no projeto, este padrão de projeto não é uma necessidade para o projeto, portanto, para reduzir o escopo, foi decidido que esse padrão não será utilizado no padrão Chapa Quente.
+
 ## Bibliografia
 
 * SERRANO, Milene. Padrões de Projeto - Gofs - Comportamental. Acesso em: 04 de março de 2022.

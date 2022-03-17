@@ -54,9 +54,9 @@ Como mostra o exemplo acima, é possível identificar uma função abstrata deno
 
 ## Conclusão
 
-Este padrão pode ser bem valioso no contexto do projeto Chapa Quente, pois ajudará com classes que possuem a mesma base, porém têm algumas particularidades diferentes umas das outras, diminuindo, assim, a repetição exacerbada, além de também, colaborar para uma melhor eficiência do sistema em geral.
+Este padrão pode ser bem valioso no contexto de algumas aplicações, pois ajudará com classes que possuem a mesma base, porém têm algumas particularidades diferentes umas das outras, diminuindo, assim, a repetição exacerbada, além de também, colaborar para uma melhor eficiência do sistema em geral.
 
-Por esse motivo e por todas as vantagens já listadas anteriormente no documento em questão, utilizar este padrão de projeto faz total sentido e agrega muito.
+Apesar de ser útil, o Template Method não deve ser implementado no projeto Chapa Quente, visto que adicionaria uma camada a mais desnecessária de abstração, sendo que a maioria dos problemas que o Template Method resolve já serão resolvidos por outros padrões que serão implementados.
 
 ## Bibliografia
 
