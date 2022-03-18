@@ -26,14 +26,14 @@ A sua implementação se assemelha muito com o padrão Strategy. Em que:
 - É mantida uma referência para o estado atual do contexto
 - Para mudar o estado, basta alterar a referência para outro estado (classe derivada)
 
-![Exemplo de Visitor](../../assets/images/state.png)
+![Exemplo de State](../../assets/images/state.png)
 
 <figcaption style="text-align: center"><a href="./assets/images/state.png" >Figura 1 </a>: Exemplo de State. Fonte: <a href="https://sourcemaking.com/design_patterns/state" > State Design Pattern
  </a>. Acesso em: 25/02/2022 </figcaption>
 
  ![Exemplo de Código de State](../../assets/images/stateCode.png)
   
-  <figcaption>Figura 2 - Exemplo de state em Java retirado desse [link](https://edirlei.com/aulas/poo/POO_Aula_12_GOF_State_Strategy_2015.html)</figcaption>
+<figcaption>Figura 2 - Exemplo de state em Java retirado desse <a href="https://edirlei.com/aulas/poo/POO_Aula_12_GOF_State_Strategy_2015.html"> link </a></figcaption>
 
 ## Conclusão
 
