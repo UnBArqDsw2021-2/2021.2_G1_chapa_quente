@@ -96,15 +96,40 @@ Para acessar o vídeo clique em: https://www.youtube.com/watch?v=-Vj9ovAmh-E
 
 Para acessar o vídeo clique em: https://www.youtube.com/watch?v=o538S_RTook
 
-<!-- ## Screenshots Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
+## Screenshots Terceira Entrega FOCO: DSW(Padrões de Projeto)
 
-Adicione 2 ou mais screenshots do projeto em termos de artefatos da Terceira Entrega.
+![](./docs/assets/images/entrega3-print1.png)
+<figcaption>Figura 1 - Screenshot do artefato do GRASP Controller </figcaption>
 
-## Vídeo(s) Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
+</br>
+</br>
 
-Adicione o(s)s vídeo(s) da Terceira Entrega.
+![](./docs/assets/images/entrega3-print2.png)
 
-## Screenshots Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
+<figcaption>Figura 2 - Screenshot do artefato do GoF Observer</figcaption>
+
+</br>
+</br>
+
+![](./docs/assets/images/entrega3-screenshot-artefatos.png)
+
+<figcaption>Figura 3 - Screenshot da listagem de artefatos da fase 03 presentes na main até o deadline</figcaption>
+
+## Vídeo(s) Terceira Entrega FOCO: DSW(Padrões de Projeto)
+
+### Padrões de Projeto GRASPs
+
+Para acessar o vídeo clique em: https://youtu.be/yfhGegRRLo4
+
+### Padrões de Projeto GoFs
+
+Para acessar o vídeo clique em: https://youtu.be/Ju05GWgud-c
+
+### Padrões de Projeto Extras
+
+Para acessar o vídeo clique em: https://youtu.be/zwXeIcn6q_k
+
+<!-- ## Screenshots Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
 
 Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcionamento.
 
