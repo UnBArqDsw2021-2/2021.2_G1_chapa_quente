@@ -50,6 +50,10 @@
 
 ## 9. Visão de Dados
 
+## 10. Tamanho e Desempenho
+
+## 11. Qualidade
+
 ## Conclusão
 
 Este padrão pode ser bem valioso no contexto de algumas aplicações, pois ajudará com classes que possuem a mesma base, porém têm algumas particularidades diferentes umas das outras, diminuindo, assim, a repetição exacerbada, além de também, colaborar para uma melhor eficiência do sistema em geral.
