@@ -110,3 +110,7 @@
   - **Iniciativas extras**
     - [Atas da Entrega](_indiceReuniao4.md)
   - **Apresentações**
+
+- **Arquitetura de Software & Reutilização**
+  - [Documento de Arquitetura](pages/fase_04/documento_de_arquitetura.md)
+  - [Reutilização de Software](pages/fase_04/reutilizacao_de_software.md)

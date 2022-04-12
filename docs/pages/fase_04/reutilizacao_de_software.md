@@ -4,62 +4,15 @@
 
 | Versão |    Data    |            Modificação             |                Autor                |                             Revisor                             |
 | ------ | :--------: | :--------------------------------: | :---------------------------------: | :-------------------------------------------------------------: |
-| 1.0    | 09/04/2022 |        Criação do Documento        |         Giulia Lobo Barros e Guilherme Daniel Fernandes          |                  A definir                |
-| 1.1    | 11/04/2022 |        Alteração de tópicos da estrutura do documento        |         Giulia Lobo Barros e Guilherme Daniel Fernandes          |                  A definir                |
+| 1.0    | 11/04/2022 |        Criação do Documento        |         Giulia Lobo Barros e Guilherme Daniel Fernandes          |                  A definir                |
 
 ## 1. Introdução
 
-### 1.1. Objetivo
+## 2. Reutilização no Backend
 
-### 1.2. Escopo
+## 3. Reutilização no Frontend
 
-### 1.3. Definições, Acrônimos e Abreviações
-
-### 1.4. Referências
-
-### 1.5. Visão Geral
-
-## 2. Representação Arquitetural
-
-### 2.1. Padrões
-
-### 2.2. Tecnologias
-
-#### 2.2.1. Banco de Dados
-
-#### 2.2.2. Backend
-
-#### 2.2.3. Frontend
-
-## 3. Metas e Restrições da Arquitetura
-
-### 3.1. Restrições Tecnológicas
-
-### 3.2. Requisitos Não Funcionais
-
-## 4. Visão Lógica
-
-### 4.1. Visão Geral
-
-### 4.2. Pacotes de Design Significativos do Ponto de Vista da Arquitetura
-
-## 5. Visão de Casos de Uso
-
-### 5.1. Diagrama de Casos de Uso
-
-## 6. Visão de Implementação
-
-### 6.1. Diagrama de Componentes
-
-## 7. Visão de Implantação
-
-## 8. Visão de Processos
-
-## 9. Visão de Dados
-
-## 10. Tamanho e Desempenho
-
-## 11. Qualidade
+## 4. Reutilização pelo Docker
 
 ## Conclusão
 
