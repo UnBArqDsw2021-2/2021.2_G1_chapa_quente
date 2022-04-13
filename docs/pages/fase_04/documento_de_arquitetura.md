@@ -6,6 +6,7 @@
 | ------ | :--------: | :--------------------------------: | :---------------------------------: | :-------------------------------------------------------------: |
 | 1.0    | 09/04/2022 |        Criação do Documento        |         Giulia Lobo Barros e Guilherme Daniel Fernandes          |                  A definir                |
 | 1.1    | 11/04/2022 |        Alteração de tópicos da estrutura do documento        |         Giulia Lobo Barros e Guilherme Daniel Fernandes          |                  A definir                |
+| 1.2    | 11/04/2022 |        Alteração de tópicos da estrutura do documento        |         Giulia Lobo Barros e Pedro Lima          |                  A definir                |
 
 ## 1. Introdução
 
@@ -31,11 +32,29 @@
 
 #### 2.2.3. Frontend
 
-## 3. Metas e Restrições da Arquitetura
+## 3. Metas Arquiteturais e Restrições da Arquitetura
 
-### 3.1. Restrições Tecnológicas
+### 3.1. Restrições
+
+|  Restrições   | Descrição  |
+| :-----------: | :--------: |
+| Conectividade |   É necessário estabelecer conexão com internet para utilização do Chapa Quente.   |
+| Idioma        |   O sistema deve ser desenvolvido para o idioma português do Brasil.   |
+| Público       |   O aplicativo deve ser desenvolvido para administradores, entregadores e clientes da Lanchonete Chapa Quente.   |
+| Plataforma    |   A aplicação terá suporte para browsers no computador, tablet e celular.   |  
+| Prazo Final   |   	O escopo proposto deve ser terminado até o dia 18/04/2022.   |
 
 ### 3.2. Requisitos Não Funcionais
+
+|      Metas       | Descrição  |
+| :--------------: | :--------: |
+|     Deploy       | A aplicação deve possuir deploy automatizado. |
+| Escalabilidade   | O código deve ser estruturado e escalável o suficiente para estar aberto a futuras evoluções com o crescimento do projeto e a futuros usuários aderentes à aplicação. |
+| Manutenibilidade | O código e as documentações realizadas pelo grupo devem estar em um nível de qualidade, seguindo os padrões de projeto e bibliografia, onde a sua manutenção seja fácil de ser realizada. |
+| Responsividade   | A aplicação deve ser responsiva e se adaptar a todas as interfaces sem que haja comprometimento nas funções da aplicação. |
+| Segurança        | O sistema deve ser seguro e lidar com os dados confidenciais dos usuários com segurança. |
+| Suportabilidade  | Deve ser possível utilizar a plataforma em qualquer navegador web. |
+| Usabilidade      | O sistema deve ser intuitivo e de simples uso, de forma que a curva de aprendizado para utilização dele seja fácil e clara. |
 
 ## 4. Visão Lógica
 
