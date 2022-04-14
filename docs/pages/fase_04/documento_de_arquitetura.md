@@ -9,6 +9,7 @@
 | 1.2    | 12/04/2022 |        Adição das metas e restrições        |         Giulia Lobo Barros e Pedro Lima          |                  A definir                |
 | 1.3    | 12/04/2022 |        Adição dos casos de uso        |         Giulia Lobo Barros e Philipe Serafim          |                  A definir                |
 | 1.4    | 13/04/2022 |        Adição da visão de processos        |         Giulia Lobo Barros e Murilo Gomes          |                  A definir                |
+| 1.5    | 13/04/2022 |        Adição de frames para visualização dos diagramas        |         Giulia Lobo Barros e Dafne Moretti          |                  A definir                      |
 
 ## 1. Introdução
 
@@ -72,6 +73,9 @@ Nesta seção, apresentamos a **visão de casos de uso**, definida como aquela q
 
 Esse diagrama já foi desenvolvido pela equipe para uma entrega anterior, juntamente com a descrição de todos os seus casos de uso e pode ser facilmente acessado por meio do documento atual: [Diagrama de Casos de Uso](pages/fase_01/casos_de_uso.md).
 
+<center><iframe height="600" width="700" src="https://unbarqdsw2021-2.github.io/2021.2_G1_chapa_quente/#/pages/fase_01/casos_de_uso?id=diagrama-de-casos-de-uso"></iframe>
+</center>
+
 *Obs.:* Importante destacar que todas as alterações necessárias relacionadas a esse diagrama já foram feitas para a entrega final.
 
 ## 6. Visão de Implementação
@@ -90,11 +94,17 @@ Nessa visão, nós podemos ter 2 representações que auxiliam em seu entendimen
 
 Esse diagrama já está disponível no escopo do nosso projeto, basta acessar: [Diagrama de Atividades](pages/fase_02/diagrama_de_atividade.md).
 
+<center><iframe height="600" width="700" src="https://unbarqdsw2021-2.github.io/2021.2_G1_chapa_quente/#/pages/fase_02/diagrama_de_atividade?id=diagrama-de-atividade"></iframe>
+</center>
+
 *Obs.:* Importante destacar que todas as alterações necessárias relacionadas a esse diagrama já foram feitas para a entrega final.
 
 ### 8.2. Diagrama de Sequência (Já estará com as alterações necessárias feitas)
 
 Esse diagrama já está disponível no escopo do nosso projeto, basta acessar: [Diagrama de Sequência](pages/fase_02/diagrama_de_sequencia.md).
+
+<center><iframe height="600" width="700" src="https://unbarqdsw2021-2.github.io/2021.2_G1_chapa_quente/#/pages/fase_02/diagrama_de_sequencia?id=diagrama-de-sequ%c3%aancia"></iframe>
+</center>
 
 *Obs.:* Importante destacar que todas as alterações necessárias relacionadas a esse diagrama já foram feitas para a entrega final.
 
