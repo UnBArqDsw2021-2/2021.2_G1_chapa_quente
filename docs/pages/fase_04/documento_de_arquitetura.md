@@ -11,7 +11,8 @@
 | 1.4    | 13/04/2022 |        Adição da visão de processos        |         Giulia Lobo Barros e Murilo Gomes          |                  A definir                |
 | 1.5    | 13/04/2022 |        Adição de frames para visualização dos diagramas        |         Giulia Lobo Barros e Dafne Moretti          |                  A definir                      |
 | 1.6    | 15/04/2022 |    Adição da Visão de Dados   |  Liverson Paulo e Rodrigo Lima  | A definir |
-| 1.7 | 15/04/2022 | Adição da Visão de Implementação| Rodrigo Lima e Lucas Andrade | A definir |
+| 1.7    | 15/04/2022 | Adição da Visão de Implementação | Rodrigo Lima e Lucas Andrade | A definir |
+| 1.8    | 15/04/2022 | Adição da parte de Tamanho e Desempenho do Software | Giulia Lobo e João Pedro Chaves | A definir |
 
 ## 1. Introdução
 
@@ -46,8 +47,8 @@
 | Conectividade |   É necessário estabelecer conexão com internet para utilização do Chapa Quente.   |
 | Idioma        |   O sistema deve ser desenvolvido para o idioma português do Brasil.   |
 | Público       |   O aplicativo deve ser desenvolvido para administradores, entregadores e clientes da Lanchonete Chapa Quente.   |
-| Plataforma    |   A aplicação terá suporte para browsers no computador, tablet e celular.   |  
-| Prazo Final   |   	O escopo proposto deve ser terminado até o dia 18/04/2022.   |
+| Plataforma    |   A aplicação terá suporte para browsers no computador.   |  
+| Prazo Final   |   O escopo proposto deve ser terminado até o dia 18/04/2022.   |
 
 ### 3.2. Requisitos Não Funcionais
 
@@ -126,6 +127,16 @@ Para melhor visualização, as tabelas que mostram os objetos supracitados foram
 ![Visao de dados - pessoa](../../assets/images/visao_de_dados_pessoa.png)
 
 ## 10. Tamanho e Desempenho
+
+### 10.1. Requisitos Mínimos
+
+* É necessário possuir conexão com a internet;
+* Navegador com suporte a HTML 5, CSS e JavaScript;
+* Para desenvolvimento de possuir: Windows, Linux ou MacOS.
+
+### 10.2. Visão Geral
+
+O tamanho da aplicação, tendo como base todos os repositórios, juntos dão menos que 1GB, sendo que não é necessária a instalação de nenhum outro programa para seu funcionamento. Já quanto ao desempenho, para o uso do sistema, é necessário conexão com a internet por ser uma PWA, além disso, a opção de dispositivo é flexível, podendo ser utilizado tanto em todos os tipos de computadores. O desempenho também considera a grande gama de pessoas que utiliza o aplicativo diariamente, contando com cliente, cozinheiros, funcionários em geral e entregadores.
 
 ## 11. Qualidade
 
