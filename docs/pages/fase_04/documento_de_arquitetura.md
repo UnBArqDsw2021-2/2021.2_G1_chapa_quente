@@ -10,7 +10,8 @@
 | 1.3    | 12/04/2022 |        Adição dos casos de uso        |         Giulia Lobo Barros e Philipe Serafim          |                  A definir                |
 | 1.4    | 13/04/2022 |        Adição da visão de processos        |         Giulia Lobo Barros e Murilo Gomes          |                  A definir                |
 | 1.5    | 13/04/2022 |        Adição de frames para visualização dos diagramas        |         Giulia Lobo Barros e Dafne Moretti          |                  A definir                      |
-| 1.6    | 15/04/2022 |    Adição da Visão de Dados   |  Rodrigo Lima e  Liverson Paulo | A definir |
+| 1.6    | 15/04/2022 |    Adição da Visão de Dados   |  Liverson Paulo e Rodrigo Lima  | A definir |
+| 1.7 | 15/04/2022 | Adição da Visão de Implementação| Rodrigo Lima e Lucas Andrade | A definir |
 
 ## 1. Introdução
 
@@ -80,8 +81,13 @@ Esse diagrama já foi desenvolvido pela equipe para uma entrega anterior, juntam
 *Obs.:* Importante destacar que todas as alterações necessárias relacionadas a esse diagrama já foram feitas para a entrega final.
 
 ## 6. Visão de Implementação
+A Visão de Implementação procura mostrar como o sistema será desenvolvido e organizado. Pode-se então utilizar o Diagrama de Componetes para tal demonstração.
 
 ### 6.1. Diagrama de Componentes
+
+Esse diagrama já está disponível no escopo do nosso projeto, basta acessar: [Diagrama de Componentes](pages/fase_02/diagrama_de_componentes.md).
+<center><iframe height="600" width="700" src="https://unbarqdsw2021-2.github.io/2021.2_G1_chapa_quente/#/pages/fase_02/diagrama_de_componentes?id=diagrama-de-componentes"></iframe>
+</center>
 
 ## 7. Visão de Implantação
 
