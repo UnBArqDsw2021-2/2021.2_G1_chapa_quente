@@ -17,27 +17,55 @@
 
 ## 1. Introdução
 
-### 1.1. Objetivo
+###  1.1. Finalidade
+
+Esse documento tem como finalidade descrever os aspectos gerais referentes à arquitetura do projeto. Dessa forma, objetiva-se evidenciar as decisões arquiteturais tomadas, bem como os padrões adotados ao longo do densenvolvimento do projeto Chapa Quente.
 
 ### 1.2. Escopo
 
-### 1.3. Definições, Acrônimos e Abreviações
+A finalidade desse documento é apresentar uma visão arquitetural geral do sistema desenvolvido para o projeto Chapa Quente. O documento será composto por padrões de software utilizados, componentes de software, frameworks de desenvolvimento, casos de uso e persistência de dados. Além disso, esse documento tem como objetivo descrever tecnicamente a solução adotada, tornando o projeto manutenível e apresentando os padrões a serem utilizados ao longo do seu desenvolvimento. 
+
+###  1.3. Definições, Acrônimos e Abreviações 
+
+| Abreviação | Acrônimo | Definição |
+| :---------:| :-------:| :--------:|
+| MVC | Model View Controller | Padrão de arquitetura de software, dividindo a solução em Model(M) que é a parte de regras de negócio, View(V) que é a parte responsável pela interface visualizável e Controller(C) que é responsável pelo controle dos dados. |
+| PWA | Progressive Web App | Termo usado para denotar aplicativos da web que usam as últimas tecnologias da web. |
+| JSON | JavaScript Object Notation | Formato compacto, de padrão aberto independente, de troca de dados simples e rápida entre sistemas. |
+| NPM | Node Package Manage | Gerenciador de pacotes para o Node.js. |
+
 
 ### 1.4. Referências
 
+Documento de Arquitetura. Disponível em: https://unbarqdsw2021-1.github.io/2021.1_G01_Animalesco_docs/#/pages/das-documento-de-arquitetura?id=_12-escopo; Acesso em 15/04/2022.
+JSON. Disponível em: https://json.org/json-pt.html; Acesso em 15/04/2022.
+
 ### 1.5. Visão Geral
 
-## 2. Representação Arquitetural
+Este documento foi dividido em 7 partes com o objetivo de melhorar seu entendimento. Esse documento fica estruturado da seguinte forma:
 
-### 2.1. Padrões
+| Tópico | Definição |
+| :----: | :-------: |
+| Representação Arquitetural | Tem como objetivo descrever a arquitetura da solução |
+| Metas e Restrições da Arquitetura | Tem como objetivo descrever os requisitos e os objetivos do software que impactam na arquitetura |
+| Visão Lógica | Tem como objetivo descrever as partes significativas do ponto de vista da arquitetura do modelo de design |
+| Visão de Casos de Uso | Tem como objetivo descrever um modelo de alto nível com alta significância em relação às funcionalidades do sistema |
+| Visão de Implantação | Tem como objetivo descrever a estrutura geral do modelo de implementação, a divisão do software em camadas e os subsistemas no modelo de implementação e todos os componentes significativos do ponto de vista da arquitetura |
+| Visão de Processos | Tem como objetivo descrever a decomposição do sistema em processos leves e processos pesados |
+| Visão de Dados | Tem como objetivo descrever a perspectiva de armazenamento de dados persistentes do sistema |
+| Tamanho e Desempenho | Tem como objetivo descrever o tamanho da solução, bem como os requisitos mínimos para executá-la. |
 
-### 2.2. Tecnologias
+## 2. Representação arquitetural
 
-#### 2.2.1. Banco de Dados
+### **Banco de dados**
+**MongoDB:** O MongoDB é um banco de dados opensource, de alta performance e flexível, sendo popular entre os bancos NoSQL. Ele tem como vantagens: maior escalabilidade e flexibilidade, bom desempenho e maior facilidade para consultas. Além disso, outra característica dele é que é orientado a documentos, ou seja, os dados são armazenados nele como documentos, diferente dos bancos relacionais que trabalham com registros de linhas e colunas. O uso do MongoDB permite uma maior tolerância a falhas, visto que esta é feita de forma automática. Outra característica importante é que o MongoDB funciona bem com Javascript, linguagem que utilizamos para o desenvolvimento da solução.
 
-#### 2.2.2. Backend
+### **Backend**
+**Node.js:** O Node.js é um software que permite a execução de código Javascript sem a necessidade de um navegador. Ele tem como vantagens a flexibilidade, visto que é possível realizar a instalação de outros pacotes pelo NPM e a leveza, visto que exige poucos recursos computacionais para execução. Além disso, utilizá-lo trás a vantagem de ter-se a mesma linguagem para o front e backend.
 
-#### 2.2.3. Frontend
+### **Frontend**
+
+**React.js:** O React.js é uma biblioteca para Javascript que tem como foco a criação de UIs para páginas web de forma declaratica. É um framework amplamente utilizado na indústria e tem como características a facilidade para criação de UIs, extensa documentação, baixa curva de aprendizado e uma comunidade grande.
 
 ## 3. Metas Arquiteturais e Restrições da Arquitetura
 
@@ -165,8 +193,6 @@ Para melhor visualização, as tabelas que mostram os objetos supracitados foram
 ### 10.2. Visão Geral
 
 O tamanho da aplicação, tendo como base todos os repositórios, juntos dão menos que 1GB, sendo que não é necessária a instalação de nenhum outro programa para seu funcionamento. Já quanto ao desempenho, para o uso do sistema, é necessário conexão com a internet por ser uma PWA, além disso, a opção de dispositivo é flexível, podendo ser utilizado tanto em todos os tipos de computadores. O desempenho também considera a grande gama de pessoas que utiliza o aplicativo diariamente, contando com cliente, cozinheiros, funcionários em geral e entregadores.
-
-## 11. Qualidade
 
 ## Conclusão
 
