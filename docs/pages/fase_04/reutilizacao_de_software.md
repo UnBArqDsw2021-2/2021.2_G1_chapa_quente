@@ -45,8 +45,8 @@ Já no Frontend foi utilizado para o desenvolvimento utilizando React.js.
 
 ## 5.Bibliografia
 
-[1] SERRANO, M; Arquitetura e Desenho de Software, Aula - Reutilização de Software. UnB-FGA. Acesso em: 11/04/2022.
-[2] DEVMEDIA. Reutilização de Software - Revista Engenharia de Software Magazine 39. Disponível em: https://www.devmedia.com.br/reutilizacao-de-software-revista-engenharia-de-software-magazine-39/21956. Acesso em: 15/04/2022
-[3]Desenvolvedor expert - O que é docker? Disponível em: https://stack.desenvolvedor.expert/appendix/docker/oquee.html. Acesso em: 15/04/2022
-[4] Trucco, Cristian. Docker Compose: O que é? Para que serve? O que come?. Disponível em: https://imasters.com.br/banco-de-dados/docker-compose-o-que-e-para-que-serve-o-que-come. Acesso em: 15/04/2022
-[5] Axios. O que é Axios? Disponível em: https://axios-http.com/ptbr/docs/intro Acesso em: 15/04/2022
+* SERRANO, M; Arquitetura e Desenho de Software, Aula - Reutilização de Software. UnB-FGA. Acesso em: 11/04/2022.
+* DEVMEDIA. Reutilização de Software - Revista Engenharia de Software Magazine 39. Disponível em: https://www.devmedia.com.br/reutilizacao-de-software-revista-engenharia-de-software-magazine-39/21956. Acesso em: 15/04/2022
+* Desenvolvedor expert - O que é docker? Disponível em: https://stack.desenvolvedor.expert/appendix/docker/oquee.html. Acesso em: 15/04/2022
+* Trucco, Cristian. Docker Compose: O que é? Para que serve? O que come?. Disponível em: https://imasters.com.br/banco-de-dados/docker-compose-o-que-e-para-que-serve-o-que-come. Acesso em: 15/04/2022
+* Axios. O que é Axios? Disponível em: https://axios-http.com/ptbr/docs/intro Acesso em: 15/04/2022
