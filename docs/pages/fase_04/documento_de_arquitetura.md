@@ -117,14 +117,15 @@ Esse diagrama já está disponível no escopo do nosso projeto, basta acessar: [
 *Obs.:* Importante destacar que todas as alterações necessárias relacionadas a esse diagrama já foram feitas para a entrega final.
 
 ## 9. Visão de Dados
-Visão de Dados é um tópico que se dispõe a mostrar quais são os dados persistentes na aplicação, geralmente utiliza-se ferramentas como um Modelo Entidade-Relacionamento e/ou Diagrama Entidade-Relacionamento para isso, entretanto no projeto Chapa Quente foi utilizado um sistema não-relacional, tornando essas ferramentas inoportunas nesse contexto. Como foi utilizado o MongoDB, que é um banco de dados orientado a documentos JSON, foi preferivel utilizar um sistema que mostra os objetos da camada "Model", pois esses são os objetos que são mapeados para a camada persistente, ou seja, para o banco de dados.
+A **visão de Dados** é um tópico que se dispõe a mostrar quais são os dados persistentes na aplicação, geralmente utiliza-se ferramentas como um Modelo Entidade-Relacionamento e/ou Diagrama Entidade-Relacionamento para isso, entretanto no projeto Chapa Quente foi utilizado um sistema não-relacional, tornando essas ferramentas inoportunas nesse contexto. Como foi utilizado o MongoDB, que é um banco de dados orientado a documentos JSON, foi preferivel utilizar um sistema que mostra os objetos da camada "Model", pois esses são os objetos que são mapeados para a camada persistente, ou seja, para o banco de dados.
 
 Para melhor visualização, as tabelas que mostram os objetos supracitados foram dividos em duas imagens:
-### Imagem 1:
-![Visao de dados - pedido](../../assets/images/visao_de_dados_pedido.png)
 
-### Imagem 2:  
+![Visao de dados - pedido](../../assets/images/visao_de_dados_pedido.png)
+> Figura 1: Visão de dados - pedido. Autor: Rodrigo Lima. 
+
 ![Visao de dados - pessoa](../../assets/images/visao_de_dados_pessoa.png)
+> Figura 2: Visão de dados - pessoa. Autor: Rodrigo Lima. 
 
 ## 10. Tamanho e Desempenho
 
