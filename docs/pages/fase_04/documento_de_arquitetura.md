@@ -10,6 +10,7 @@
 | 1.3    | 12/04/2022 |        Adição dos casos de uso        |         Giulia Lobo Barros e Philipe Serafim          |                  A definir                |
 | 1.4    | 13/04/2022 |        Adição da visão de processos        |         Giulia Lobo Barros e Murilo Gomes          |                  A definir                |
 | 1.5    | 13/04/2022 |        Adição de frames para visualização dos diagramas        |         Giulia Lobo Barros e Dafne Moretti          |                  A definir                      |
+| 1.6    | 15/04/2022 |    Adição da Visão de Dados   |  Rodrigo Lima e  Liverson Paulo | A definir |
 
 ## 1. Introdução
 
@@ -109,6 +110,14 @@ Esse diagrama já está disponível no escopo do nosso projeto, basta acessar: [
 *Obs.:* Importante destacar que todas as alterações necessárias relacionadas a esse diagrama já foram feitas para a entrega final.
 
 ## 9. Visão de Dados
+Visão de Dados é um tópico que se dispõe a mostrar quais são os dados persistentes na aplicação, geralmente utiliza-se ferramentas como um Modelo Entidade-Relacionamento e/ou Diagrama Entidade-Relacionamento para isso, entretanto no projeto Chapa Quente foi utilizado um sistema não-relacional, tornando essas ferramentas inoportunas nesse contexto. Como foi utilizado o MongoDB, que é um banco de dados orientado a documentos JSON, foi preferivel utilizar um sistema que mostra os objetos da camada "Model", pois esses são os objetos que são mapeados para a camada persistente, ou seja, para o banco de dados.
+
+Para melhor visualização, as tabelas que mostram os objetos supracitados foram dividos em duas imagens:
+### Imagem 1:
+![Visao de dados - pedido](../../assets/images/visao_de_dados_pedido.png)
+
+### Imagem 2:  
+![Visao de dados - pessoa](../../assets/images/visao_de_dados_pessoa.png)
 
 ## 10. Tamanho e Desempenho
 
