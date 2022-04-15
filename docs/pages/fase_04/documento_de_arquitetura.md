@@ -2,17 +2,18 @@
 
 ## Versionamento
 
-| Versão |    Data    |            Modificação             |                Autor                |                             Revisor                             |
-| ------ | :--------: | :--------------------------------: | :---------------------------------: | :-------------------------------------------------------------: |
-| 1.0    | 09/04/2022 |        Criação do Documento        |         Giulia Lobo Barros e Guilherme Daniel Fernandes          |                  A definir                |
-| 1.1    | 11/04/2022 |        Alteração de tópicos da estrutura do documento        |         Giulia Lobo Barros e Guilherme Daniel Fernandes          |                  A definir                |
-| 1.2    | 12/04/2022 |        Adição das metas e restrições        |         Giulia Lobo Barros e Pedro Lima          |                  A definir                |
-| 1.3    | 12/04/2022 |        Adição dos casos de uso        |         Giulia Lobo Barros e Philipe Serafim          |                  A definir                |
-| 1.4    | 13/04/2022 |        Adição da visão de processos        |         Giulia Lobo Barros e Murilo Gomes          |                  A definir                |
-| 1.5    | 13/04/2022 |        Adição de frames para visualização dos diagramas        |         Giulia Lobo Barros e Dafne Moretti          |                  A definir                      |
+| Versão | Data | Modificação | Autor | Revisor |
+| ------ | :--: | :---------: | :---------------------------------: | :-------------------------------------------------------------: |
+| 1.0    | 09/04/2022 | Criação do Documento | Giulia Lobo Barros e Guilherme Daniel Fernandes | A definir|
+| 1.1    | 11/04/2022 | Alteração de tópicos da estrutura do documento | Giulia Lobo Barros e Guilherme Daniel Fernandes | A definir |
+| 1.2    | 12/04/2022 |        Adição das metas e restrições        |         Giulia Lobo Barros e Pedro Lima | A definir                |
+| 1.3    | 12/04/2022 |        Adição dos casos de uso        |         Giulia Lobo Barros e Philipe Serafim          | A definir                |
+| 1.4    | 13/04/2022 |        Adição da visão de processos        |         Giulia Lobo Barros e Murilo Gomes          |  A definir                |
+| 1.5    | 13/04/2022 |        Adição de frames para visualização dos diagramas | Giulia Lobo Barros e Dafne Moretti | A definir                      |
 | 1.6    | 15/04/2022 |    Adição da Visão de Dados   |  Liverson Paulo e Rodrigo Lima  | A definir |
 | 1.7    | 15/04/2022 | Adição da Visão de Implementação | Rodrigo Lima e Lucas Andrade | A definir |
 | 1.8    | 15/04/2022 | Adição da parte de Tamanho e Desempenho do Software | Giulia Lobo e João Pedro Chaves | A definir |
+| 1.9    | 15/04/2022 | Adição da parte de Visão Lógica | Rodrigo Lima e Murilo Gomes | A definir |
 
 ## 1. Introdução
 
@@ -64,9 +65,35 @@
 
 ## 4. Visão Lógica
 
-### 4.1. Visão Geral
+A Visão Lógica procura mostrar a organização do projeto decompondo certas em partes gerais para fácil compreensão, seguindo essa ideia, pode-se utilizar certos diagramas para fazer essa demonstração:
 
-### 4.2. Pacotes de Design Significativos do Ponto de Vista da Arquitetura
+### 4.1. Diagrama de Pacote
+
+Esse diagrama já foi desenvolvido pela equipe para uma entrega anterior, e pode ser facilmente acessado por meio do documento atual: [Diagrama de Pacote](pages/fase_02/diagrama_de_pacote.md).
+
+<center><iframe height="600" width="700" src="https://unbarqdsw2021-2.github.io/2021.2_G1_chapa_quente/#/pages/fase_02/diagrama_de_pacote?id=diagrama-de-pacote"></iframe>
+</center>
+
+### 4.2 Diagrama de Classes
+Esse diagrama já foi desenvolvido pela equipe para uma entrega anterior, e pode ser facilmente acessado por meio do documento atual: [Diagrama de Classes](pages/fase_02/diagrama_de_classes.md).
+
+<center><iframe height="600" width="700" src="https://unbarqdsw2021-2.github.io/2021.2_G1_chapa_quente/#/pages/fase_02/diagrama_de_classes?id=diagrama-de-classes"></iframe>
+</center>
+
+
+### 4.3 Diagrama de Comunicação 
+Esse diagrama já foi desenvolvido pela equipe para uma entrega anterior, e pode ser facilmente acessado por meio do documento atual: [Diagrama de Comunicação](pages/fase_02/diagrama_comunicacao.md).
+
+<center><iframe height="600" width="700" src="https://unbarqdsw2021-2.github.io/2021.2_G1_chapa_quente/#/pages/fase_02/diagrama_comunicacao?id=diagrama-de-comunica%c3%a7%c3%a3o"></iframe>
+</center>
+
+### 4.4 Diagrama de Estados
+
+Esse diagrama já foi desenvolvido pela equipe para uma entrega anterior, e pode ser facilmente acessado por meio do documento atual: [Diagrama de Estados](pages/fase_02/diagrama_de_estados.md).
+
+<center><iframe height="600" width="700" src="https://unbarqdsw2021-2.github.io/2021.2_G1_chapa_quente/#/pages/fase_02/diagrama_de_estados?id=diagrama-de-estados"></iframe>
+</center>
+
 
 ## 5. Visão de Casos de Uso
 
