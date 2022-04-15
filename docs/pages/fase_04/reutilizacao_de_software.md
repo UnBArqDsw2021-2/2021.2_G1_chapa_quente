@@ -4,7 +4,7 @@
 
 | Versão |    Data    |            Modificação             |                Autor                |                             Revisor                             |
 | ------ | :--------: | :--------------------------------: | :---------------------------------: | :-------------------------------------------------------------: |
-| 1.0    | 11/04/2022 |        Criação do Documento        |         Giulia Lobo Barros e Guilherme Daniel Fernandes          |                  A definir                |
+| 1.0    | 11/04/2022 |        Criação do Documento        |         Liverson Paulo, Giulia Lobo Barros e Guilherme Daniel Fernandes          |                  A definir                |
 
 ## 1.Introdução
 

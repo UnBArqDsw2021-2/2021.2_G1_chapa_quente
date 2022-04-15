@@ -20,19 +20,19 @@ A UML (**Unified Modeling Language, Linguagem de Modelagem Unificada** em tradu√
 
 <figcaption style="text-align: center">Figura 1 - Atividade Cliente. Autor: Philipe Serafim, Giulia Lobo e Murilo Gomes</figcaption>
 
-#### Administrador
+#### Funcion√°rio
 
 ![Atividade Administrador](../../assets/images/atividades/diagrama-de-atividades-administrador.jpg)
 
 <figcaption style="text-align: center">Figura 2 - Atividade Administrador. Autor: Philipe Serafim, Giulia Lobo e Murilo Gomes</figcaption>
 
-### Cozinheiro
+#### Cozinheiro
 
 ![Atividade Cozinheiro](../../assets/images/atividades/diagrama-de-atividades-cozinheiro.jpg)
 
 <figcaption style="text-align: center">Figura 3 - Atividade Cozinheiro. Autor: Philipe Serafim, Giulia Lobo e Murilo Gomes</figcaption>
 
-### Entregador
+#### Entregador
 
 ![Atividade Entregador](../../assets/images/atividades/diagrama-de-atividades-entregador.jpg)
 
