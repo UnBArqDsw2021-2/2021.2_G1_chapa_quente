@@ -14,6 +14,8 @@
 | 1.7    | 15/04/2022 | Adição da Visão de Implementação | Rodrigo Lima e Lucas Andrade | A definir |
 | 1.8    | 15/04/2022 | Adição da parte de Tamanho e Desempenho do Software | Giulia Lobo e João Pedro Chaves | A definir |
 | 1.9    | 15/04/2022 | Adição da parte de Visão Lógica | Rodrigo Lima e Murilo Gomes | A definir |
+| 1.10   | 15/04/2022 | Adição introdução e representação arquitetural | Guilherme Daniel Fernandes e Philipe Serafim  | A definir |
+| 1.11   | 15/04/2022 | Adição de Visão de Implantação | Dafne Moretti e Rodrigo Lima | A definir |
 
 ## 1. Introdução
 
@@ -146,6 +148,11 @@ Esse diagrama já está disponível no escopo do nosso projeto, basta acessar: [
 </center>
 
 ## 7. Visão de Implantação
+Visão de Implantação trata-se de explicar de forma simplificada como os componentes se relacionam e dependem entre si.
+No diagrama abaixo cada seta significa que a parte apontada depende da parte que aponta de alguma forma.
+
+![Diagrama de Implantação](../../assets/images/diagrama_de_implantacao.png)
+> Figura 1: Diagrama de Implantação. Autor: Rodrigo Lima. 
 
 ## 8. Visão de Processos
 
@@ -177,10 +184,10 @@ A **visão de Dados** é um tópico que se dispõe a mostrar quais são os dados
 Para melhor visualização, as tabelas que mostram os objetos supracitados foram dividos em duas imagens:
 
 ![Visao de dados - pedido](../../assets/images/visao_de_dados_pedido.png)
-> Figura 1: Visão de dados - pedido. Autor: Rodrigo Lima. 
+> Figura 2: Visão de dados - pedido. Autor: Rodrigo Lima. 
 
 ![Visao de dados - pessoa](../../assets/images/visao_de_dados_pessoa.png)
-> Figura 2: Visão de dados - pessoa. Autor: Rodrigo Lima. 
+> Figura 3: Visão de dados - pessoa. Autor: Rodrigo Lima. 
 
 ## 10. Tamanho e Desempenho
 
