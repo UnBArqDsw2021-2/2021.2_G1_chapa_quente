@@ -154,9 +154,6 @@ Para acessar o vídeo clique em: https://youtu.be/V-nq4Y_rz_8
 ![](https://i.imgur.com/ONv4EJ1.png)
 
 
-#### Reutilização de Software: <a href="https://www.youtube.com/watch?v=V-nq4Y_rz_8" target="_blank">link</a>
-
-#### Documento de Arquitetura (DAS): <a href="https://www.youtube.com/watch?v=YDT5bpaYZmg" target="_blank">link</a>
 ## Descritivo dos Principais Aspectos Técnicos
 
 **Principal(is) Metodologia(s) Adotada(s)**: XP, Kanban e Scrum<br>
