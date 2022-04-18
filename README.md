@@ -129,13 +129,29 @@ Para acessar o vídeo clique em: https://youtu.be/Ju05GWgud-c
 
 Para acessar o vídeo clique em: https://youtu.be/zwXeIcn6q_k
 
-<!-- ## Screenshots Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
 
-Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcionamento.
+## Vídeo(s) Quarta Entrega : Arquitetura de Software & Reutilização
 
-## Vídeo(s) Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
+### Documento de Arquitetura (DAS)
 
-Adicione o(s)s vídeo(s) da Entrega Final. -->
+Para acessar o vídeo clique em: https://youtu.be/YDT5bpaYZmg
+
+
+### Reutilização de Software
+
+Para acessar o vídeo clique em: https://youtu.be/V-nq4Y_rz_8
+
+
+## Screenshots Quarta Entrega (FINAL) : Arquitetura & Reutilização de Software & PROJETO FINAL
+
+### Frontend no deploy, disponível: https://arq-daploy.herokuapp.com/
+![](https://i.imgur.com/3EZrzfG.png)
+
+### Backend no deploy, disponível: https://chapa-quente-backend.herokuapp.com/
+![](https://i.imgur.com/Wr3HGJC.png)
+
+### Documentos entregues
+![](https://i.imgur.com/ONv4EJ1.png)
 
 ## Descritivo dos Principais Aspectos Técnicos
 
